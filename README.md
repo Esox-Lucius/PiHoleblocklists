@@ -31,7 +31,7 @@ You can run Pi-hole in a container, or deploy it directly to a supported operati
 
 Pi-hole is free, but powered by your donations.
 
-    https://github.com/pi-hole/pi-hole
+- https://github.com/pi-hole/pi-hole
 
 © 2020 Pi-hole.
 
