@@ -42,7 +42,6 @@ Source: https://pi-hole.net/
 
 
 ### https://dietpi.com/
-
 *What is DietPi?*
 *DietPi is a highly optimised & minimal Debian-based Linux distribution. DietPi is extremely lightweight at its core, and also extremely easy to install and use.*
 
@@ -82,8 +81,7 @@ Copyright (c) 2016, Azlux
 
 
 ### - https://wiki.ubuntu.com/UncomplicatedFirewall
-
-*
+*One of the many heralded aspects of Linux is its security. From the desktop to the server, you’ll find every tool you need to keep those machines locked down as* *tightly as possible. For the longest time, the security of Linux was in the hands of iptables (which works with the underlying netfilter system). Although incredibly powerful, iptables is complicated—especially for newer users. To truly make the most out of that system, it may take weeks or months to get up to speed. Thankfully, a much simpler front end for iptables is ready to help get your system as secure as you need.*
 
 
 ### https://www.balena.io/etcher/
@@ -119,6 +117,8 @@ I find it very hard to argue against - it is simply the truth ^^.
 
 # Useful Links
 - https://discourse.pi-hole.net/
+
+- https://www.linux.com/training-tutorials/introduction-uncomplicated-firewall-ufw/
 
 - https://www.raspberrypi.org/
 
