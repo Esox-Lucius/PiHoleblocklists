@@ -53,7 +53,7 @@ Pi-hole is free, but powered by your donations.
 Source: https://pi-hole.net/
 
 
-# Software Favorites for Raspberry Pi 4 with Pi-Hole!
+# Software Favorites for use & work with Raspberry Pi 4 and Pi-Hole!
 
 
 ### https://dietpi.com/
