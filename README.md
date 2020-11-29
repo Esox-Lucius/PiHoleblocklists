@@ -16,6 +16,8 @@
 
 - I do not work for, have anything to do with, nor am I affiliated with **otx.alienvault.com** OR **Pi-Hole®** in any way. I only use their service & software.
 
+/Cheers!
+
 
 # What is otx.alienvault.com?
 
