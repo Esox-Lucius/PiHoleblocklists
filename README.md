@@ -81,8 +81,12 @@ Copyright (c) 2016, Azlux
 **Source**: https://github.com/azlux/log2ram
 
 
-### https://www.balena.io/etcher/
+### - https://wiki.ubuntu.com/UncomplicatedFirewall
 
+*
+
+
+### https://www.balena.io/etcher/
 *Flash OS images to SD cards & USB drives, safely and easily.*
 
 - https://github.com/balena-io/etcher
@@ -91,12 +95,10 @@ Copyright 2020 Balena. All Rights Reserved
 
 
 ### https://www.putty.org/
-
 *PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform. PuTTY is open source software that is available with source code and is developed and supported by a group of volunteers.*
 
 
 ### https://notepad-plus-plus.org/
-
 *Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GNU General Public License.*
 
 - https://github.com/notepad-plus-plus/notepad-plus-plus
@@ -110,7 +112,6 @@ I find it very hard to argue against - it is simply the truth ^^.
 
 
 ### https://www.libreoffice.org/
-
 *LibreOffice is community-driven and developed software, and is a project of the not-for-profit organization, The Document Foundation. LibreOffice is free and open source software, originally based on OpenOffice.org (commonly known as OpenOffice), and is the most actively developed OpenOffice.org successor project.*
 
 **Source**: https://www.libreoffice.org/about-us/who-are-we/
