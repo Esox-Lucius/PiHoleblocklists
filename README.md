@@ -19,6 +19,21 @@
 **Source**: https://dietpi.com/docs/
 
 
+### https://pi-hole.net/
+*You can run Pi-hole in a container, or deploy it directly to a supported operating system via our automated installer.*
+*Our intelligent, automated installer asks you a few questions and then sets everything up for you.  Once complete, move onto step 3.*
+*Configure your router’s DHCP options to force clients to use Pi-hole as their DNS server, or manually configure each device​ to use the Pi-hole as their DNS server.*
+*By pairing your Pi-hole with a VPN, you can have ad blocking on your cellular devices, helping with limited bandwidth data plans.*
+
+*The Pi-hole developers are spread across the globe and work on the project in their spare time.  We are a 100% remote team.*
+
+- https://github.com/pi-hole
+
+©  2020 Pi-hole.  
+
+**Source**: https://pi-hole.net/
+
+
 ### https://github.com/azlux/log2ram
 
 *Like ramlog for systemd (on debian 8 jessie for example).*
