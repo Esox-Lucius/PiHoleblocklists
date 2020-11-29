@@ -81,7 +81,7 @@ Copyright (c) 2016, Azlux
 
 
 ### - https://wiki.ubuntu.com/UncomplicatedFirewall
-*One of the many heralded aspects of Linux is its security. From the desktop to the server, you’ll find every tool you need to keep those machines locked down as* *tightly as possible. For the longest time, the security of Linux was in the hands of iptables (which works with the underlying netfilter system). Although incredibly powerful, iptables is complicated—especially for newer users. To truly make the most out of that system, it may take weeks or months to get up to speed. Thankfully, a much simpler front end for iptables is ready to help get your system as secure as you need.*
+*The Uncomplicated Firewall (ufw) is a frontend for iptables and is particularly well-suited for host-based firewalls. ufw provides a framework for managing netfilter, as well as a command-line interface for manipulating the firewall. ufw aims to provide an easy to use interface for people unfamiliar with firewall concepts, while at the same time simplifies complicated iptables commands to help an adminstrator who knows what he or she is doing. ufw is an upstream for other distributions and graphical frontends. *
 
 
 ### https://www.balena.io/etcher/
