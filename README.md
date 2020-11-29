@@ -111,12 +111,6 @@ I find it very hard to argue against - it is simply the truth ^^.
 **Source**: https://notepad-plus-plus.org/donate/
 
 
-### https://www.libreoffice.org/
-*LibreOffice is community-driven and developed software, and is a project of the not-for-profit organization, The Document Foundation. LibreOffice is free and open source software, originally based on OpenOffice.org (commonly known as OpenOffice), and is the most actively developed OpenOffice.org successor project.*
-
-**Source**: https://www.libreoffice.org/about-us/who-are-we/
-
-
 # Useful Links
 - https://discourse.pi-hole.net/
 
