@@ -150,5 +150,3 @@ My little project is not to help you setup, configure, or troubleshoot your Pi-H
 are permitted in any medium without royalty provided the copyright
 notice and this notice are preserved.  This file is offered as-is,
 without any warranty*
-
-**EsoxLucius (Security Noob)** 2020
