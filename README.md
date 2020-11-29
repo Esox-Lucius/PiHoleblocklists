@@ -119,6 +119,8 @@ I find it very hard to argue against - it is simply the truth ^^.
 # Useful Links
 - https://discourse.pi-hole.net/
 
+- https://www.raspberrypi.org/
+
 
 # Notes
 My little project is not to help you setup, configure, or troubleshoot your Pi-Hole® or network setup. It is assumed that you know the basics of setting up and using pihole and its related technologies, including how to add blocklists to Pi-Hole®. 
