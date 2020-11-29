@@ -37,10 +37,6 @@ Pi-hole is free, but powered by your donations.
 
 Source: https://pi-hole.net/
 
-- https://discourse.pi-hole.net/
-
-
-
 
 ## Software Favorites for Raspberry Pi 4 with Pi-Hole!
 
@@ -118,6 +114,10 @@ I find it very hard to argue against - it is simply the truth ^^.
 *LibreOffice is community-driven and developed software, and is a project of the not-for-profit organization, The Document Foundation. LibreOffice is free and open source software, originally based on OpenOffice.org (commonly known as OpenOffice), and is the most actively developed OpenOffice.org successor project.*
 
 **Source**: https://www.libreoffice.org/about-us/who-are-we/
+
+
+## Useful Links
+- https://discourse.pi-hole.net/
 
 
 # Notes
