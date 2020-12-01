@@ -21,11 +21,11 @@
 
 # What is otx.alienvault.com?
 
-World's First Open Threat Intelligence Community
+#### World's First Open Threat Intelligence Community
 
 Threat sharing in the security industry remains mainly ad-hoc and informal, filled with blind spots, frustration, and pitfalls. Our vision is for companies and government agencies to gather and share relevant, timely, and accurate information about new or ongoing cyberattacks and threats as quickly as possible to avoid major breaches (or minimize the damage from an attack). The Alien Labs® Open Threat Exchange® (OTX™) delivers the first truly open threat intelligence community that makes this vision a reality.
 
-How OTX Works
+#### How OTX Works
 
 OTX provides open access to a global community of threat researchers and security professionals. It now has more than 100,000 participants in 140 countries, who contribute over 19 million threat indicators daily. It delivers community-generated threat data, enables collaborative research, and automates the process of updating your security infrastructure with threat data from any source. OTX enables anyone in the security community to actively discuss, research, validate, and share the latest threat data, trends, and techniques, strengthening your defenses while helping others do the same.
 
