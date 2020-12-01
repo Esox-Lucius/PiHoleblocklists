@@ -143,6 +143,16 @@ I find it very hard to argue against - it is simply the truth ^^.
 # Notes
 My little project is not to help you setup, configure, or troubleshoot your Pi-Hole® or network setup. It is assumed that you know the basics of setting up and using pihole and its related technologies, including how to add blocklists to Pi-Hole®. 
 
+Besides, the reason why hackers and such are having golden days is because most people are naive-contemporary-idiots. Don't believe tis statement? 
+
+**Read this**:
+
+- https://www.forbes.com/sites/kalevleetaru/2019/03/23/facebook-succeeded-in-killing-cybersecurity-like-it-did-privacy/
+
+- https://www.forbes.com/sites/ktorpey/2019/02/28/if-you-dont-care-about-online-privacy-you-should-read-this/
+
+- https://modernciso.com/2019/03/07/people-dont-care-about-cybersecurity/
+
 
 # Info
 **© is GNU All-Permissive License**
