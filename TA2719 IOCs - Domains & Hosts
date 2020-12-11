@@ -1,0 +1,22 @@
+# TA2719 IOCs
+# - Highly suspicious newly registered domains
+#
+# Source: https://otx.alienvault.com/user/343GuiltySpark/pulses
+#
+# UPDATED 30-08-2020
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download.
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+#------------------------------------------
+# TA2719 Uses Colorful Lures to Deliver RATs in Local Languages
+# In late March 2020, Proofpoint researchers began tracking a new actor with a penchant for using NanoCore and later AsyncRAT, popular commodity remote access trojans (RATs). 
+# Dubbed TA2719 by Proofpoint, the actor uses localized lures with colorful images that impersonate local banks, law enforcement, and shipping services. 
+# Source: https://otx.alienvault.com/pulse/5f47c261f5b6aba82c4b8de6
+
+# Hosts
+0.0.0.0 megaida123.ddns.net
+#------------------------------------------
