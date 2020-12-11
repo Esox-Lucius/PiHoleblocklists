@@ -1,0 +1,5150 @@
+# Emotet IOCs - Domains & Hosts
+# Source: https://otx.alienvault.com
+#
+# UPDATED: 25-11-2020
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# ********************************************************************************************************************************************************************
+#-----------------------------------------------------------
+# Case study: the tale of one Emotet infection
+# Source: https://otx.alienvault.com/pulse/5f9308cf41a0d3811f928d6b
+
+# Domains
+aahnaturals.net
+engineering-2s.com
+financiamentointeligente.com
+lsmanga.com
+
+# Hosts
+0.0.0.0	beta.zoneberry.com
+0.0.0.0	www.removepctrojan.com
+0.0.0.0	www.sff3d.com
+#-----------------------------------------------------------
+# Emotet IoCs - Epoch 1 - 28 Oct 2020
+# These are different botnets of Emotet with different infrastructure supporting them. 
+# I called them Epochs because they seemed to follow a different timeline and timescale of releases for updates. 
+# They do not share C2 infrastructure and they can behave independently. 
+# Source: https://otx.alienvault.com/pulse/5f9aeb93eb436d2eb32547ad
+
+# Domains
+0982286214.com
+3equations.com
+52bp.net
+80zhi.cn
+180clubrealestate.com
+361verdicts.com
+710exoticcannabis.com
+aabeds.com
+acgingenieria.cl
+almalim.com
+an9news.com
+anizonehealthcare.com
+anupayingcomfort.in
+apaixonadosporcaes.com
+appetoo.ir
+artofdates.com
+asahalpha.com
+axents.fr
+ayur-herbal.com
+bbclube.com
+bbwbbs.cc
+bcudigital.xyz
+berassociates.com
+bestcableninternet.com
+betsdotbahisgiris.com
+bridgestoworkapp.com
+cabalito.net
+cacomixtle.net
+calledtochange.org
+cannabisdiscoverycenter.com
+caratculture.com
+cattskiespina.com
+ceramicaburguina.com.br
+chakavak.agency
+communityofexecutors.com
+crechereviver.org
+csgcargo.com
+dantokpa-market.org
+dartzeel.com
+datablockssolutions.com
+datawyse.net
+delightarabia.com
+doozyblankets.com
+douketv.com
+eclatcollection.com
+edirnereklamajansi.com
+employeradvice.ie
+enyaxsi.com
+fabusaxx.de
+foweccam.org
+gcsoa.net
+geekdeer.co.za
+gk725.com
+gloect.com
+greenlandlion.com
+griffinoc.com
+hiclic.com
+himaxdrink.com
+htcformosa.gob.ar
+idealcuisine.com.tn
+imperfectdream.com
+irvingstudios.com
+jaimannpublicschool.com
+jts-coffeetea.com
+kbtech.cl
+khacdauphuonganh.com
+kiansazan.com
+lavi.com.tw
+layunomore.com
+lejardin.store
+lidaxianren.com
+malatyasukacagi.net
+marcoaurelio.blog.br
+maryjanebrightly.com
+minhasaudemaxima.xyz
+movie-2free.com
+mpm-group.com.au
+mrveggy.com
+mynesnetwork.com
+nhatcuong.xyz
+nicemac.cn
+nobodigonto.xyz
+oceanmasternewport.com.au
+onlinedatabasesolutions.com
+onlineqeramika.com
+onlinesend24.com
+pachiba.com
+peruvianmister.com
+physio-svdh.ch
+ppzo.top
+punjabsolarenergy.com
+quartiersandaga.com
+rankimprove.com
+rawmeditations.com
+realestatecareersnv.com
+riun.org
+rucloset.com
+sasystemsuk.com
+secretcashout.com
+sertifikasi.org
+servitekifix.com
+shamimuzzaman.com
+shijian36999.xyz
+shopsmartautossocial.com
+sobresaude.space
+softcap.com.br
+softkall.com
+stardealerportal.com
+streets.vip
+suhu.site
+suksiriestate.com
+superbirkin.com
+tasagodigital.com
+taxirapide.com
+teestok.com
+tesson.in
+theharshgupta.com
+theiagemsandjewelry.com
+themoveit.com
+tonekashop.com
+topsecret-eg.com
+tradewithjazz.com
+treeoflifecenterinc.org
+truongthanhgroup.com.vn
+tutorataplus.com
+tvlgbt.org
+unnet.us
+vastintegrated.com
+vhalacha.com
+vidamelhor.online
+viva-bem.info
+widewebit.com
+younaidee.com
+yowahadadanshi.com
+ysassilaw.com
+zardoubbeauty.com
+zion-polch.de
+
+# Hosts
+0.0.0.0	app.vishou.net
+0.0.0.0	blog.vishou.net
+0.0.0.0	demo.giaoduckidsup.com
+0.0.0.0	eduroam.stou.ac.th
+0.0.0.0	filmfest.jewishfilm.org
+0.0.0.0	frydays.narjangurung.com
+0.0.0.0	mail.bursaevdenevenakliyat.link
+0.0.0.0	simplycrm.wahlicus.com
+0.0.0.0	soft.vishou.net
+0.0.0.0	tech.webdemobd.com
+0.0.0.0	test2.cyber.shn-host.ru
+0.0.0.0	vod.vishou.net
+0.0.0.0	weixin.vishou.net
+0.0.0.0	wpsites.6flicks.com
+0.0.0.0	www.aarausa.org
+0.0.0.0	www.acezsensing.com
+0.0.0.0	www.algorahotel.com
+0.0.0.0	www.bestabortionpillsrx.com
+0.0.0.0	www.buckzy.net
+0.0.0.0	www.cidpe-psicologia.com
+0.0.0.0	www.clubealdeiadaserra.com.br
+0.0.0.0	www.coachburt.com
+0.0.0.0	www.compushopcr.com
+0.0.0.0	www.greenleafnaturalfarms.com
+0.0.0.0	www.infactpost.com
+0.0.0.0	www.jayro-inc.com
+0.0.0.0	www.josejuanarroyo.com
+0.0.0.0	www.leapmom.com
+0.0.0.0	www.msmconsultoria.net
+0.0.0.0	www.mthealthcare.net
+0.0.0.0	www.novaes.com.br
+0.0.0.0	www.osscaar.com
+0.0.0.0	www.pacificfe.com
+0.0.0.0	www.reachem.cl
+0.0.0.0	www.ruiermi.com
+0.0.0.0	www.samasamak.ir
+0.0.0.0	www.saracyp.com
+0.0.0.0	www.scxugosports.com
+0.0.0.0	www.si-batangaspremier.org
+0.0.0.0	www.stepline.co.th
+0.0.0.0	www.tikalco.com
+0.0.0.0	www.towmiami.com
+0.0.0.0	yun.vishou.net
+#-----------------------------------------------------------
+# Emotet IoCs - Epoch 2 - 28 Oct 2020
+# These are different botnets of Emotet with different infrastructure supporting them. 
+# I called them Epochs because they seemed to follow a different timeline and timescale of releases for updates. 
+# They do not share C2 infrastructure and they can behave independently. 
+# Source: https://otx.alienvault.com/pulse/5f9aebf75441134c590ca253
+
+# Domains
+1gratisdating.com
+3ceventandent.com
+3mim.net
+9-more.com
+33newshd.com
+77st.net
+904y.com
+abstractexplosion.com
+access-one.us
+adamselectrics.com
+adhikarinabin.com.np
+admvero.com.br
+advanced-star.fr
+agenciaborges.com.br
+ahmedashmawy.com
+airriteappliancerepairs.co.za
+aligned-tech.com
+allgroceries.in
+alphafundings.com
+amikene.com
+amyzeng.net
+animalvetnerd.com
+anpbodysculpting.com
+aramcotools.ae
+ardos.com.br
+argelato.com.tr
+arkatootak.ir
+arquivopop.com.br
+asldesign.org
+atlanticsupport.com.ng
+atu616.ca
+autoescolatopsul.com.br
+babysingankhang.com
+baedekker.com
+baluchari.co.in
+baophuonganh.com
+bazarsanj.com
+bdcybermilitary.xyz
+betacenter.ir
+betterzhao.xyz
+bhujpurislamictv.com
+big5engineering.com
+bigprint.pictures
+bilhen.co.za
+bksantosh.cf
+blognutrirbem.club
+blogsuasaudehoje.club
+bludis.pt
+bnldata.com.br
+bossi-rebels.com
+buyfreshperu.com
+capellaevents.com
+carpieuropa.com
+ccehydrographics.com
+chaselawnavigator.org
+chazeblaze.com
+chibuk.co.il
+citycommonsparking.com
+cloudmento.com
+codavatar.com
+collectcars.club
+concrecasa.cl
+connecthaldia.in
+coolchacult.com
+cosmicnewmedia.com
+costcutterent.com
+covana.in
+critical-thinking.fr
+cuutrolulut.info
+cytechcn.com
+daeg.su
+dagostim.com.br
+dahil.net
+dantokpa-market.org
+danyelzahcp.com
+davaorealproperty.com
+ddcpl.com
+denchumtrangtridep.com
+denslegal.mn
+deseosex.com
+diaocvnvietphatgroup.com
+dichvuvnpt.com.vn
+dieteticienne-tiffany.com
+diwalirestaurant.com
+doorstepcure.com
+doozyblankets.com
+dotasarim.com
+eaglecare.co.uk
+easytigershop.com
+ed-pepper.eu
+emrahduman.com
+equifirstcourierexpress.com
+equipamentosmix.com
+escort-planet.xyz
+excitersports.com
+eximpoo.com
+eyelash.tw
+ezi-pos.com
+fechamentodesacadas.com.br
+fizjolife.com.pl
+florumgroups.net
+fourseasonsjsc.com
+freedomwellnesstherapy.com
+freelancerkashem.com
+gayatrienterprise.org
+gestione.co
+gjorgji.com
+gloyogastudio.com
+gpjulioandrade.gob.ec
+graceful.site
+grandages.org.my
+guanacographics.com
+guarany.net
+guruoftrade.com
+hankook-hi.com
+happyatom.com
+healthtalkme.com
+himaxdrink.com
+honor-share.com
+horizonapartments.co.uk
+hrinternationalbd.com
+hurtlockerrichmond.com.au
+hypedigital.se
+iconga.co.za
+idan-online.co.il
+immigrantactionalliance.org
+inbichngoc.com
+informgenxyz.org
+innt.vn
+instaberg.com
+intuitiveideas.com.my
+jchostinger.us
+jeffnissan.com
+jhilmilrestaurant.in
+jrvservices.com.br
+kadmar.com
+kangkang.com.au
+kenh18.vn
+keyhole.agency
+khamphaninhthuan.com
+khoedepdn247.com
+kitebook.vn
+klerenbyzaza.com
+kofamonline.com
+koswip.org.my
+kramedas.lt
+ktmmarts.com
+kuaicm.com
+laconicent.com
+lamaisondelimprimeur.com
+lamajesteindustries.com
+landcheck.co.il
+latinosconstruction.com
+laurentchipaux.com
+lavagaming.com
+learningchinese.vip
+lehuohuadao.com
+lisadouet.com
+logicarts.in
+lotlee.com
+lp4d.org
+lphospitality.ro
+lumabots.com
+lylydressforless.com
+madeindahood.club
+mahanext.ir
+malqiyat.com
+mankota.com
+maxiquim.cl
+mibaston.com
+microstock.xyz
+mites.org.in
+mobaviation.com.br
+mobis-autoloan.com
+mommababy.vn
+moralaree.com
+mrfirepro.com
+mshopp.ir
+muasamhanghieu.com
+muhanasa.my.id
+murugantemple-zh.ch
+nanettecook.org
+neoconcept-ci.com
+nepalelectrical.com
+neurosourcing.com
+nill2bill.com
+ningyangseo.com
+nobyann.com.au
+nuevodestock.com
+oddmoneymusic.com
+omegatravelandtour.com
+ondigital.space
+onemoreinternational.com
+onsineautocar.com
+ontreeoneplanet-dev.fr
+orderanboss.com
+ownproxy.com
+perfectdegreeshvac.com
+pestcontrolnerds.com
+powerplay.com.co
+pox23.io
+presstorms.com
+productcan.in
+progressus.world
+projekita.codes
+promotedigitally.net
+quickshine.co.ke
+qurbanicare.pk
+rabaco.vn
+rclalitpur.org.np
+redgrape.in
+register-fca-orguk-shpo-firm-details-page-001f00n1lsuee.org
+resumestogo.com
+roobazar.ir
+rooms-tenerife.com
+rosiebakemake.com
+ruusveso.ee
+rydchile.cl
+ryderad.com
+sangbadjamin.com
+santucciarq.com.br
+sapadvertising.pk
+sarfco.com
+satin.co.il
+scalarmonitoring.com
+scarletleaf.ro
+sdloveone.com
+seasonaloutfits.com
+seoservicespark.com
+sharifwahlaind.co.uk
+sharjahcd.ae
+shipraenterprise.com
+shivanienterprise.in
+signetenglish.com
+siitav.net
+singohotel.com
+sixsigmabangalore.com
+sneakersage.com
+socialplaymedia.com
+solucoesrh.com.br
+southsudanconsulate.org
+sqcustomboxes.com
+statuslanka.com
+sthlmtjejer.buzz
+stolenafrikan.africa
+sugarcoder.org
+suriagrofresh.com
+suvin.vn
+symiagames.com
+t-watch.vn
+tamanlac.vn
+tamirtehran.com
+tangshizhi.com
+techmakers.com.au
+terasrumahkayu.com
+terrapharm.vn
+theactualizationofambar.com
+thecomputerpart.com
+theedgemedia.in
+themannerlydog.com
+theshoper.online
+theweddingbells.in
+thucphamhangngay.com
+tigerstormtraffic.com
+tinhxangocxuan.com
+tm-za.org
+topsecret-eg.com
+tradefive.com
+trungtammtc.com
+turboservis.mk
+turioferta.com
+uhawra.net
+unikaryapools.com
+ursuperstar.com
+vaphelp.com
+viajescautivatours.com
+vidadohomem.com
+visionis.cl
+vitabem.info
+wagnerbandeira.com.br
+we3d.dk
+weareactum.com
+websazinohost.ir
+weining88.cn
+weparditestaa.fi
+wethotpornpussy.com
+wpmobile.ir
+wrzutka.co
+xeotocantho.com
+xn--borsaliman-6ub.com
+xuezha.net
+yaz-online.com
+yogeejee.com
+younaidee.com
+younesalturkey.sa
+ysassilawfirm.com
+yusful.nl
+zaps.co.in
+zastreamtv.co.za
+zaym-na-kartu24.ru
+zhidong.store
+zhongshixingchuang.com
+zonadeenvios.com
+zonaoutlet.mx
+
+# Hosts
+0.0.0.0	amazon.vishou.net
+0.0.0.0	apps.vishou.net
+0.0.0.0	blog.6b47.com
+0.0.0.0	blog.cluphost.com
+0.0.0.0	cyberspace.xexagen.com
+0.0.0.0	defensapersonal.4ryu.com
+0.0.0.0	diskominsta.barrukab.go.id
+0.0.0.0	ead.cursoglioche.com.br
+0.0.0.0	events.medialogic.cloud
+0.0.0.0	fai.umb.ac.id
+0.0.0.0	fi.letscompareonline.com
+0.0.0.0	files.mirai-2viv.vn
+0.0.0.0	fo.wpweblearn.com
+0.0.0.0	h5g2.vishou.net
+0.0.0.0	kitaplik.bilimvegelecek.com.tr
+0.0.0.0	ksa.t.carddoom.com
+0.0.0.0	mail.bursaevdenevenakliyat.link
+0.0.0.0	mail.zeefinetech.com
+0.0.0.0	new.outfitsbrand.com
+0.0.0.0	oa.vishou.net
+0.0.0.0	pet.vishou.net
+0.0.0.0	proxy.hueaudio.com
+0.0.0.0	softart-002-site3.dtempurl.com
+0.0.0.0	weixin.vishou.net
+0.0.0.0	word.nakurze.sk
+0.0.0.0	wordpress.car888.us
+0.0.0.0	wp83.talentsprint.com
+0.0.0.0	www.ahmadifoundation.com
+0.0.0.0	www.arkan-memar.com
+0.0.0.0	www.arthurrazor.com
+0.0.0.0	www.astrene.ro
+0.0.0.0	www.blackstonetutors-onlineportal.com
+0.0.0.0	www.bzxzku.com
+0.0.0.0	www.citadeleg.com
+0.0.0.0	www.cmpc.org.ar
+0.0.0.0	www.dongphuctop.com
+0.0.0.0	www.drleenasreedhar.com
+0.0.0.0	www.easeiseasy.com
+0.0.0.0	www.esfagrup.com
+0.0.0.0	www.ezrachile.cl
+0.0.0.0	www.fcbc.group
+0.0.0.0	www.hoianemeraldresort.com
+0.0.0.0	www.ilonasleadgeneratieenbezoekafspraken.nl
+0.0.0.0	www.infoquick.co.uk
+0.0.0.0	www.jinjuewangbu.com
+0.0.0.0	www.kirschgruen.com
+0.0.0.0	www.kuzbastores.com
+0.0.0.0	www.matey-clinic.com
+0.0.0.0	www.mondkalender.shop
+0.0.0.0	www.mskimya.com
+0.0.0.0	www.nb-sangbad.com
+0.0.0.0	www.office187.com
+0.0.0.0	www.qisatkifah.online
+0.0.0.0	www.rapidcarwash.net
+0.0.0.0	www.saintmarcel.com
+0.0.0.0	www.shamushamu.com
+0.0.0.0	www.sheen-vietnam.vn
+0.0.0.0	www.suksiriestate.com
+0.0.0.0	www.toziba.ir
+0.0.0.0	www.uniescte.org
+0.0.0.0	www.weblabor.com.br
+0.0.0.0	www.wellnursesmartnurse.co.za
+0.0.0.0	www.x-treme.gr
+0.0.0.0	www.xmecn.com
+0.0.0.0	wx.hu-wo.com
+#-----------------------------------------------------------
+# Emotet IoCs - Epoch 3 - 28 Oct 2020
+# These are different botnets of Emotet with different infrastructure supporting them. 
+# I called them Epochs because they seemed to follow a different timeline and timescale of releases for updates. 
+# They do not share C2 infrastructure and they can behave independently. 
+# Source: https://otx.alienvault.com/pulse/5f9aec460fddb62fc97cfe8f
+
+# Domains
+2market.com.au
+357shop.com
+1008691.com
+adrianquishpe.com
+albertoordonez.com
+alexdepase.coach
+ankushshikshansanstha.net
+articwood.com
+asianprosource.com
+australaqua.com
+autoplacevi.rs
+bambam.me
+bdigitalcreatives.com
+bharatpoudel.com.np
+bilhen.co.za
+bilwee.com.ar
+bintangremaja.com
+bluestartransportllc.net
+bqkj2013.com
+bravoconsultancy.com
+cappadociaelite.com
+carbudz.com
+cefpro.net
+charchia.com
+cidoresearch.com
+cloudpossolutions.com
+crab888.com
+creditomaster.online
+dartoonpictures.com
+dazane.com
+dietwithchef.com
+dmension.fr
+dunedintapfest.com
+eflowersncakes.com
+elboutika.tn
+eqguide.net
+escueladeencuadernacion.com
+evachappard.com
+exchangeon.xyz
+felixbuy.com
+feltrofacil.com.br
+feministesplurielles.fr
+ferreteriassolano.com
+fit2sport.in
+footballstep.com
+gemconcepts.net
+getpranaveda.xyz
+giannaspsychicstudio.com
+gibraltarsalesgroup.com
+greensync.com.br
+habiganjjournal.com
+hawkehealthsolutions.com
+heankan.bio
+helionspharmaceutical.com
+helixtap.com
+hn-google.com
+hnhwithvignesh.com
+hoarystarsmotorbike.com
+hocdanhvan.com
+iasgoogle.com
+intlkomm.com
+iowawebhosting.com
+jacobites.info
+jimsautomotiveshop.com
+kakatrades.com
+ketoanvietachau.com
+khangnguyen.store
+khoshpash.com
+kianyadak.com
+kuaicm.com
+leklao.com
+lievainlou.ovh
+losdelafoca.store
+lunabituyelik.com
+maddogshull.com
+madrushdigital.com
+mansa.com.vn
+maskin.co.in
+mushroomfarmhouse.com
+najeeclassroom.com
+nurmarkaz.org
+parakkunnathtemple.com
+pentaraxexporters.com
+plutusplus.com
+pridabravo.com
+qdfljd.cn
+raziurmia.ir
+resuco.net
+royalsit.com.np
+rrssserralheria.com.br
+sangmesh.in
+santanewsdesk.co.uk
+shashwatpune.com
+sheen-vietnam.vn
+shepherdschapelvideoindex.com
+shift2digital.com
+sidharthsuri.in
+smadrmr.sch.id
+sreelakshmicaters.com
+srishtiherbs.com
+srno.hu
+stemkids.com.au
+studionetramani.com
+studiowellness.no
+terrain.com.my
+thangmaytrucvit.com
+thebedigital.com
+themesgiant.net
+thietkequangcaothanhhoa.com
+thoitrangtrungnienkim.vn
+totmolins.com
+treeremovalnerds.com
+ufak2.com
+vabshost.site
+vilajansen.com.br
+vstsample.com
+warpufa.com
+weapontoys.com
+webdachieu.com
+wildlifewonders.org.au
+wisdomapologetics.com
+xieteman.xyz
+xinhecun.cn
+yoga.gift
+zodiac-casino.co.nz
+
+# Hosts
+0.0.0.0	blog.pito.vn
+0.0.0.0	catedras.mabelthwaitesrey.com.ar
+0.0.0.0	eyemakeup.delfinilarje.com
+0.0.0.0	help.hizuko.com
+0.0.0.0	mail.oluwatomiwa.com
+0.0.0.0	ppid.barrukab.go.id
+0.0.0.0	qm.vishou.net
+0.0.0.0	shop.wot.vn
+0.0.0.0	store.damatag.com
+0.0.0.0	tshirtshop.pnyo.org
+0.0.0.0	www.394509.com
+0.0.0.0	www.angiathinh.com
+0.0.0.0	www.apeduti.com.br
+0.0.0.0	www.blackstonetutors-onlineportal.com
+0.0.0.0	www.bluestarsgloballlc.com
+0.0.0.0	www.ciucurencutl.ro
+0.0.0.0	www.duosite.com.br
+0.0.0.0	www.enolil-loo.com
+0.0.0.0	www.gotchamediablog.com
+0.0.0.0	www.haikuboy.com
+0.0.0.0	www.iphcivf.cn
+0.0.0.0	www.lameda.cc
+0.0.0.0	www.meshzs.com
+0.0.0.0	www.naturalwaterresources.com
+0.0.0.0	www.okankoleji.com
+0.0.0.0	www.panoramafe.com
+0.0.0.0	www.plurima.info
+0.0.0.0	www.soundline.com.cn
+0.0.0.0	www.statnews24.com
+0.0.0.0	www.stepstoshops.com
+0.0.0.0	www.taxismaroc.com
+0.0.0.0	www.trassierramotor.com
+0.0.0.0	www.voiceswellness.com
+0.0.0.0	www.wecreativo.net
+0.0.0.0	wx.wndz.hk
+#-----------------------------------------------------------
+# Emotet downloader URLs
+# Source: https://otx.alienvault.com/pulse/5f8f597b0d9a062c1f4d58f9
+
+# Domains
+4ghandloom.com
+abstractexplosion.com
+affiliateking.xyz
+concrecasa.cl
+dagostim.com.br
+eduma2.com
+gapuragamapersada.com
+hoobiq.com
+methilinfotech.com
+ontario2.com
+piedradelcielo.com
+statusquobrand.com
+vat201.com
+wodsuit.com
+
+# Hosts
+0.0.0.0 www.drleenasreedhar.com
+0.0.0.0 www.towmiami.com
+0.0.0.0 www.venompremiumshop.com
+#-----------------------------------------------------------
+# Emotet IoCs - Epoch 2 - 20 Oct 2020
+# Epoch 1-3 and what they really mean. These are different botnets of Emotet with different infrastructure supporting them. 
+# I called them Epochs because they seemed to follow a different timeline and timescale of releases for updates. 
+# They do not share C2 infrastructure and they can behave independently. 
+# Source: https://otx.alienvault.com/pulse/5f8eeffa945f7f4f6feebf52
+
+# Domains
+13digi.net
+a2zarchitect.com
+aabeds.com
+ad-avenue.net
+ahiminstore.com
+arifulhuq.com
+balancingelephants.com
+baltische-rundschau.eu
+berjaya88.net
+bestoffershop.com
+cesindonesia.com
+dharampal.net
+entout.co.uk
+etkindedektiflik.com
+excellence4u.com
+fumigacionesmac.com
+greenlandlion.com
+holonchile.cl
+ispin88.com
+leboutique-store.com
+legalempowermentindia.com
+mantaspesadas.com
+onepalate.biz
+ozonerenovaters.co.za
+physicianmedical-legalconsulting.com
+podzalog39.ru
+pskh888.com
+rajania.com
+raumfuerneues.eu
+richellemarie.com
+richelleshadoan.com
+royal888bet.com
+sezard.com
+shoesdesign.net
+smallbatchliving.com
+solddolls.com
+supplementhouse.net
+terriafit.com
+theusmansaif.com
+travelsportrepeat.com
+ttbet.co
+tuhishair.com
+webclientworks.xyz
+webdachieu.com
+wemusthaveit.com
+wintekelevators.com
+zakariabek.com
+zamindarsons.com
+ziil.eu
+
+# Hosts
+0.0.0.0 blog.artemisaritim.com
+0.0.0.0 geoportal.rivasciudad.es
+0.0.0.0 hd.yamarinkou.jp
+0.0.0.0 www.bespokebysumitgrover.com
+0.0.0.0 www.tahirsylaj.com
+#-----------------------------------------------------------
+# Emotet IoCs - Epoch 3 - 20 Oct 2020
+# Epoch 1-3 and what they really mean. These are different botnets of Emotet with different infrastructure supporting them. 
+# I called them Epochs because they seemed to follow a different timeline and timescale of releases for updates. 
+# They do not share C2 infrastructure and they can behave independently. 
+# Source: https://otx.alienvault.com/pulse/5f8ef19968ce4af38b1f2b6a
+
+# Domains
+allcannabismeds.com
+bluedemonlodge.com
+brionnedavis.com
+cplt20live.com
+daogou.icu
+dealsmedia.in
+ecolek.ee
+examsinfo.in
+fotomax.fr
+geeksmouservices.xyz
+grenflor.com
+hpwdy.com
+jobstv.live
+karateazabukwf.com
+laindianrestaurants.com
+musc.health
+nasrmobin.com
+othoy.com
+quantumedu.com
+slimpiu.com
+stech.com.np
+streamnature.com
+thedigitalsquad.net
+wisdomapologetics.com
+worlddatapro.com
+
+# Hosts
+0.0.0.0 news.scott.services
+0.0.0.0 www.pornman.com
+#-----------------------------------------------------------
+# Daily Emotet IoCs (20-10-2020)
+# Source: https://otx.alienvault.com/pulse/5f8e82c9a2093a9ba41f2b6a
+
+# Domains
+020dz.net
+4kwallpaperdownload.com
+13digi.net
+77wins.club
+360www.ca
+1069thefan.com
+a2zarchitect.com
+aabeds.com
+aanshtravels.com
+ad-avenue.net
+addmich.com
+adrielhessel.com.br
+agclassesedu.com
+ahiminstore.com
+akmemontech.us
+al-qemmah.com
+allcannabismeds.com
+alphaberry.com.my
+alt-ltd.co.uk
+americanasianfoodmarket.com
+amlakbagherian.com
+appruebo.cl
+ardos.com.br
+arifulhuq.com
+arkan-memar.com
+arrownic.com
+artofdates.com
+asfi-conseil-immobilier.com
+asikbelajar.com
+asikk.id
+asl-trilingual.com
+aslovers.com
+asoagrotolgalilea.com
+aspirefacilities.com.au
+atrocity.de
+atwakft.com
+autouniauto-it.com
+avanospetrol.com.tr
+balancingelephants.com
+baltische-rundschau.eu
+bambook-park.com
+bborton.com
+bemagazine.club
+beneco.com.au
+beri100.com
+berjaya88.net
+bestoffershop.com
+bhandaraexpress.com
+bharatlearningsolutions.com
+bigrosbweb.co.uk
+bilhen.co.za
+bioblu.org
+bloglg.com
+blosh.nz
+bluedemonlodge.com
+bluewave.com
+bodyinnovation.co.za
+bokunotshirt.com
+bookingz.net
+brahmanimetal.com
+breaktalks.com
+brionnedavis.com
+buznatural.com
+byeold.ir
+cardclean.asia
+cbdoilhamper.com
+cesindonesia.com
+ciallis.net
+clinicasmasterlife.com.br
+clubedagestora.com.br
+cnaantours.co.il
+comercializadorareydeespadas.com.ve
+concrecasa.cl
+conecxiongroup.com
+coralia.mx
+cosyshe.com
+cozyvietnamtravel.com
+cplt20live.com
+cresephospitaldeolhos.com.br
+cresephospitaldeolhos.org.br
+crmbusiness.xyz
+cynergism.life
+daogou.icu
+darajelita.com
+daringbydesign.net
+darraghlynch.ie
+dealsmedia.in
+delaxy.com.br
+demonwraps.com
+dharampal.net
+dienshop.store
+dijkwitgoed.nl
+distribuidorasym.cl
+docine.com.hr
+dp-womenbasket.com
+drtheurelplasticsurgery.com
+dummyestudio.com
+easihacks.com
+eco100cia.com.mx
+ecocraftplanet.com
+ecolek.ee
+egwaves.com
+emmanuelmonastery.org
+entout.co.uk
+epeixao.com
+essentricgraphic.com
+estylohouse.com
+et20slam.com
+etavern.ro
+etil-alkol-izmir.tech
+etkindedektiflik.com
+eugenetam.com
+examsinfo.in
+excellence4u.com
+excellentic.com
+exoticbirdsonline.com
+exploitthub.com
+eynolghozat.ir
+farayalcozerasociadas.cl
+fatinzbeaute.com
+fcsl.com.br
+fedrizziseguros.com.br
+fibreflexhq3.com
+fibreflexhq5.com
+fides.uy
+fiera-deutzfahr.com
+finewines.com.sg
+first-decision.com.cn
+fixen.mx
+flaneur.pk
+flexilifephysio.in
+flowerdeliverypasadena.com
+fluiditytech.com
+fonduri-service-auto.ro
+foodcrushbyaarushi.com
+forcesight.in
+foreverutoogp.co.za
+fortiny.com
+fotomax.fr
+fumiclean.cl
+fumigacionesmac.com
+fzweiming.com
+gauravgaafil.online
+geckoaudioindonesia.com
+geeksmouservices.xyz
+genetic-data.xyz
+giadungninhbinh.com
+giadungsmart.info
+givingthanksdaily.com
+glasenaporthopedie.nl
+gogvopviks.ml
+goldentimepattaya.com
+goldmen.in
+goodpriceshoes.com
+goodshoes.org
+gosbooking.com
+greenlandlion.com
+gregshadoan.com
+grenflor.com
+greyfoxchocolates.in
+groovewithben.com
+groupbps.com
+grupoaguiasdavida.com
+guarany.net
+hbrpatel.com
+helionspharmaceutical.com
+hermo2u.com
+hermo4u.com
+hermonexwanita.com
+hikichi.vn
+holonchile.cl
+hostgo.com.br
+hotshoes.biz
+hpwdy.com
+huixingqiti.com
+iflag.com.br
+ifmhealth.directory
+ihalesowen.co.uk
+ihmais.pt
+imasurvivor.co
+incubatech.mx
+indiastartup360.com
+insideedgetechnologies.com
+instagridkit.com
+institutonovavida.com.br
+investph.co
+irangamelub.ir
+ispin88.com
+itegroup.al
+jegsnet.com
+jejal.in
+jiaoyuzixun.cn
+jobstv.live
+jomhermonex.com
+jorko.tk
+journeyonline.pk
+juliedassylva.com
+jy39bbet.com
+karateazabukwf.com
+kashmirhoney.com.pk
+kewone.com
+kleberribeiro.com.br
+krais.co.il
+kurumsalseo.name.tr
+kusa.co.in
+laindianrestaurants.com
+layagroup.net
+learnupapp.online
+leboutique-store.com
+legalempowermentindia.com
+lehbirenalcare.com
+lesaintlaurentvape.com
+lilypads.com
+lina1960.com
+liubaozi.cn
+ludwigmodel.net
+lx-666.com
+mac88.vn
+maikanti.com.ng
+malayetech.ml
+mantaspesadas.com
+manysolutions.pk
+maraboutprovoyant.com
+maraboutpuissantserieux.com
+march4womenhealth.com
+markbrindes.com.br
+marketcentsinc.com
+mdmlc.com
+mecosmeticos.com
+melrosebeautycenter.com
+minesamples.com
+miroaccount11.tk
+mituskicrafts.com
+montanamaria.pt
+moonclub.asia
+moraniz.co.il
+morefacil.poa.br
+mribeiroinformatica.com.br
+mrveggy.com
+mudaru.vn
+mundodelcalzado.store
+musankingdigi.com
+musc.health
+musicaparamisas.com
+mymentalcoach.in
+mysitetrip.com
+n2baby.com.vn
+napolice.info
+nasrmobin.com
+nautine.xyz
+nepalisamajh.com
+nepalsocialcenter.com
+nhzlife.net
+nidhicreations.co.in
+nikanpolimer.ir
+nikolaevtranslations.com
+nisbar.my.id
+nishassharma.com
+nocindia.org
+nomadadesign.com.mx
+nomadco.es
+ntaabhyasmaster.net
+nxdawn.com
+omegaleadgeneration.com
+onepalate.biz
+online24h.biz
+oplungiphone.net
+othoy.com
+ozonerenovaters.co.za
+pantherlifestyle.com
+personaltrainersindia.com
+petlele.co.za
+phanphoikangaroo.com.vn
+phonghanh.com
+physicianmedical-legalconsulting.com
+pleromagroup.com
+pluginbot.ai
+podzalog39.ru
+poplifeshoes.com
+pratuksha.org
+propertywalebabu.com
+pscprepaper.in
+pskh888.com
+quantumedu.com
+quienfirma.cl
+rahsiamuda.com
+rainzome.com
+rajania.com
+raumfuerneues.eu
+ravesonline.in
+rawatcantik.com
+resuco.net
+riandutra.com
+richellemarie.com
+richelleshadoan.com
+risetech.in
+rjindexbd.xyz
+rnmultispecialityhospital.in
+rosado.xyz
+royal888bet.com
+rxmedic.co
+rydchile.cl
+safeintelpro.com
+sardargroupofcompanies.com
+securityskills.com.co
+seguridadnativa.com.ar
+serenitykenya.co.ke
+sezard.com
+sgpelvicfloor.in
+sgvipbet8.com
+shoesdesign.net
+shoesforsale.net
+shoesite.biz
+shoeslifts.com
+shoesvariety.com
+shopezoy.com
+shroook.com
+sibob.de
+simply-glamour.com
+sirdag.org
+skoal.co.za
+slimpiu.com
+smallbatchliving.com
+smartstorage.com.br
+smcfurnitures.com
+smok.land
+sofastexpress.com
+soicau88.net
+solddolls.com
+sophisheikhy.ir
+soucho.pk
+soumitatechify.com
+spdrozki.eu
+srismartechsolutions.in
+srt-lb.com
+stageward.com
+staging-server.in
+stai-almasthuriyah.ac.id
+stech.com.np
+stemkids.com.au
+storagelookup.com
+streamnature.com
+streamshosting.co.za
+stylefix.co
+sunafricainsurance.co.za
+supplementhouse.net
+surewin.com.my
+sushiclass.pt
+suventa.com.mx
+tamiabetheawilliams.com
+tcamexpo.com
+techsama.com
+tekshoi.com
+terriafit.com
+thedigitalsquad.net
+thefashionfirst.com
+thementalaspect.com
+therealcoachjones.com
+thesciencethinker.com
+thethoughtsinyourhead.com
+theusmansaif.com
+thinkapply.co.uk
+tintucquangninh.net
+tiocabelinho.com.br
+tollsbacken.se
+tonolledo.com
+travelsportrepeat.com
+tria.ge
+trukoradio.com
+trysocio.com
+ttbet.co
+tudorinvest.com
+tuhishair.com
+tuyendungtin.com
+ummaurorahq.com
+uniteddatabase.net
+unitedstarsfa.com
+urbanix.com.bd
+v-0-v.cn
+vesa-games.ch
+vidaserenapremier.com.br
+virtual-event-service.ch
+vivoslotpulsa.com
+vr4business.ch
+we-commerce.com.ar
+webclientworks.xyz
+webdachieu.com
+webinar-service.com
+websiteoptimizationcanada.ca
+wemusthaveit.com
+wholesaleshoes.biz
+whopper.co.jp
+wintekelevators.com
+wisdomapologetics.com
+wizzdomhub.com
+workex.jobs
+worlddatapro.com
+xandeprefeito.com.br
+xfactorguide.com
+xn--borsaliman-6ub.com
+yaseminadamkaya04mail.com
+yixuecourse.com
+yusful.nl
+zakariabek.com
+zakeeyadeko.com
+zamindarsons.com
+zdaben.com
+ziil.eu
+zionimmigration.com
+zmtkai.cn
+
+# Hosts
+0.0.0.0	1069thefan.cachevalleymediagroup.com
+0.0.0.0	baby.mewxu.net
+0.0.0.0	bawang.allnws.com
+0.0.0.0	blog.artemisaritim.com
+0.0.0.0	blog.gadzoom.net
+0.0.0.0	blog.pop9ja.com.ng
+0.0.0.0	datijingsai.aitutor.cn
+0.0.0.0	dev.maylocnuockangaroo.vn
+0.0.0.0	dev.sieuthimaylocnuoc.vn
+0.0.0.0	electro.mewxu.net
+0.0.0.0	gegar.allnws.com
+0.0.0.0	geoportal.rivasciudad.es
+0.0.0.0	granate.inet.cl
+0.0.0.0	gtech.thngo58.com
+0.0.0.0	hd.yamarinkou.jp
+0.0.0.0	help.hizuko.com
+0.0.0.0	hiburan.allnws.com
+0.0.0.0	hpcf.cyi.ac.cy
+0.0.0.0	kisah.allnws.com
+0.0.0.0	library.uib.ac.id
+0.0.0.0	mail.oyj.pl
+0.0.0.0	menusdigitales.teksi.mx
+0.0.0.0	my.pop9ja.com.ng
+0.0.0.0	news.scott.services
+0.0.0.0	orjinal.cialis.website
+0.0.0.0	pk35vantaa.urheilutekstiilit.fi
+0.0.0.0	portesobertes.proven.cat
+0.0.0.0	pricing.betaproject.business
+0.0.0.0	radio.hablum.es
+0.0.0.0	skoal.geehost.co.za
+0.0.0.0	stbedesdarlington.bhcet.org.uk
+0.0.0.0	support.bunchful.com
+0.0.0.0	tgdd.mewxu.net
+0.0.0.0	v1.karofivietnam.vn
+0.0.0.0	vote.yixuecup.com
+0.0.0.0	web.homegate.my
+0.0.0.0	weddings.loukyasalon.in
+0.0.0.0	weemba.yixueyun.cn
+0.0.0.0	wp1.devbox.in
+0.0.0.0	wp.kosteel.co.kr
+0.0.0.0	www.anusservice.com
+0.0.0.0	www.bespokebysumitgrover.com
+0.0.0.0	www.bestabortionpillsrx.com
+0.0.0.0	www.freeps3game.com
+0.0.0.0	www.greaudstudio.com
+0.0.0.0	www.heroin-addiction.net
+0.0.0.0	www.howtoinstallx.com
+0.0.0.0	www.pornman.com
+0.0.0.0	www.sefidesign.com
+0.0.0.0	www.sunpi.net
+0.0.0.0	www.tahirsylaj.com
+0.0.0.0	www.tunuvo.com
+0.0.0.0	www.yanlipin.net
+0.0.0.0	www.zuschmann.at
+0.0.0.0	yixuebei.aitutor.cn
+#-----------------------------------------------------------
+# Emotet IOC (18-10-2020)
+# Source: https://otx.alienvault.com/pulse/5f8cd98853f2914570aec1e8
+
+# Domains
+albasisgroup.com
+amazinlash.com
+amtextile.pk
+arendshoeve.nl
+baklanov-korpus.ru
+biotantra.info
+dhillon-intl.com
+farmaceuticainmavinue.com
+fgpshop.com
+flowerdeliverypasadena.com
+homewatchamelia.com
+honey-holiday.ru
+innava.com.mx
+katthus.site
+koreashop24.com
+longshushu.com
+mobilerigolemi.al
+orangemassagespa.online
+popcornv.com
+reach-me.co
+simoneporzi.it
+stoppowderymildew.com
+tyrelandltd.com
+ufa165.com
+vivianlashes.com
+zero-finance.com
+
+# Hosts
+0.0.0.0 ks.qihchina.com
+0.0.0.0 work.myseosmo.com
+#-----------------------------------------------------------
+# Emotet downloader URLs (16-10-2020)
+# Source: https://otx.alienvault.com/pulse/5f88f5f64fa277231335c372
+
+# Domains
+allcannabismeds.com
+amarettobh.com.br
+blackmesagrp.com
+cmnivaria.com
+craftware.gr
+domaineduvalhalla.org
+electronicsvibes.com
+ezs.com.au
+hasem.app
+high5branding.co.za
+musc.health
+pmlawsolutions.com
+sakulaundry.com
+sandivietnam.com
+toyszone.in
+travelakhalkalaki.com
+tsrj.monster
+vastraindia.com
+
+# Hosts
+0.0.0.0 partners.ripplealpha.com
+#-----------------------------------------------------------
+# Daily Emotet IoCs and Notes for 10/15/20
+# Source: https://otx.alienvault.com/pulse/5f893171e8b779d22c9ebc1d
+
+# Domains
+0931tangfc.com
+45gradi.com
+9966699.xyz
+aahnaturals.net
+acumat.com.sg
+admvero.com.br
+agriex.ca
+airport.co.id
+airport.id
+alfredopoli.it
+allcannabismeds.com
+almirnapoleao.com
+amarettobh.com.br
+amirthafoundation.com
+amrsyd.com.au
+amruthacollegeofeducation.com
+anthonysarandrea.com
+aolikessports.com
+aqfsistemas.com.br
+aramisconstruct.ro
+ardt.ir
+aresconrdm.com
+arian21.com
+arquivopop.com.br
+assecon.com.br
+avozdecamacari.com
+axisfox.com
+azuzarweb.com
+azw3.vip
+b2bcom.com.br
+bahtiozina.info
+bannafsaj.net
+beletage-berlin.de
+berraltd.com
+betyland.com
+bhar.com.br
+bharatlearningsolutions.com
+bimehjame.ir
+blackmesagrp.com
+boli.live
+brand360.vn
+browardbrasil.com.br
+buanderiemoderne.com
+buscajoobs.com.br
+busyafnutrition.com.au
+buznatural.com
+caipa.net.cn
+calculafacturaluz.com
+callpetercatering.com
+cardinallandscapellc.com
+carlostendero.com
+caucasusmountaintours.com
+cearacultural.com.br
+celebitech.vn
+cesurlarsearay.com
+cetpromanuelsuarez.com
+chengmikeji.com
+cmnivaria.com
+colegioelshaday.com.br
+columbiasaude.com.br
+comedtrabangola.com
+como.love
+comunicacaovertical.com.br
+constructoraalpes.com
+cookingbuffet.com.br
+coronafamilycare.com
+cplt20live.com
+craftware.gr
+cse-engineer.com
+cuctin.com
+dabesto.ir
+dagostim.com.br
+ddazzlediamonds.com
+debellota.online
+debtwatchdogs.com
+demandloft.com
+domaineduvalhalla.org
+dragonfang.com
+dressalongdolly.com
+duberysunglass.com
+e-machine.com.br
+easihacks.com
+ecolands.info
+ecolushlanka.com
+edduteayuda.com.co
+edunsoul.com
+eemclimcool.com
+egosalers.com
+electronicsvibes.com
+engineering-2s.com
+equipamentosmix.com
+eternalbeauty.co.uk
+evexiahk.com
+excelenceimoveis.com.br
+exoticasuvarnasamudra.com
+fashion-cactus.site
+fbase.co.uk
+filmtalks.co
+finally-con.com
+financiamentointeligente.com
+firstdoctorchoice.com
+foodhanoi.net
+foxfire.ph
+freelancer-hotelmarketing.online
+funerariapracadabandeira.com.br
+furiaflix.site
+gaialacticos.com
+galvz.com
+geoffoglemusic.com
+gileadappbackoffice.com
+gk725.com
+goodmorningclearwater.com
+goodnewsseminary.org
+goodsalers.com
+gordon-and-son.com
+gulfees.com
+gulonlinestore.com
+halalrooms.id
+halmstadmoderaterna.se
+halovet.org
+hamgroup.in
+hanedu.vn
+happyseedscharity.com
+hariomlabs.com
+hennnatrading.com
+herchinfitout.com.sg
+herclinic.in
+hhdcoop.com
+hiburanmalam.vip
+high5branding.co.za
+highendorganicshop.com
+hotelshivansh.com
+hredoybangladesh.com
+hy-api.cn
+icilimoges.com
+ictmisericordia.org
+id-beton.by
+ienglishabc.com
+iessht-edu.org
+imenbartariran.com
+indesigns.us
+infotol.id
+ingtecno.com.ar
+inkteach.com
+inspira-psicologia.com
+inspirewater.pk
+inventorelectronica.com
+iulianstanciu.com
+jashmusic.com
+jegsnet.com
+jespersen.org
+jobcapper.com
+jobnewsindia.info
+jobsrev.com
+jokilink.com
+jrvservices.com.br
+jsbswap.com
+karkas-home52.ru
+katthus.site
+kaynarholding.com
+kbpassociates.in
+khoshpash.com
+kiasoo.com
+kmtourism.com
+koreankidsedu.com
+koreashop24.com
+krais.co.il
+ladylike.house
+ladymakeover.com
+leboutique-store.com
+leorecrea.com
+librosporfavor.com
+lifestylesdriven.com
+liguendembo.com
+liubaozi.cn
+longshushu.com
+lsmanga.com
+malditareliquia.com
+malkaragida.com
+mallowsvirtualcreatives.com
+margaash.us
+maskinkurs.no
+maxreviews.xyz
+mcdvoice.digital
+medhempfarm.com
+megasalepoint.com
+meijizs.com
+merkadito.mx
+methilinfotech.com
+microdosemushrooms.com
+microdosingmushrooms.com
+microviu.com
+mpgpro.ru
+mrsker.com
+muhammedorhan.xyz
+musc.health
+myeb.ir
+myhomevilla.com
+netkia.net
+new08.cn
+newbrandscollection.com
+newdimension.co.th
+newmoontec.com
+nifadp.gov.np
+nkvkoilterminal.ru
+nordestedigitalcert.com.br
+nucleokardecistalace.org.br
+oatodecomer.com
+oel-magazin.de
+oilinmotionlogisticbv.com
+oliva.co.id
+overflod-lr.com
+paramythou.gr
+pardic.ir
+pcsolutioncenter.com.ar
+pelavo.pl
+phamxuanquynh.com
+phonestore-telephonie.fr
+pianobanan.com
+playschoolmatritva.com
+pmlawsolutions.com
+premier-h.com
+profbuh.org
+project-streams.eu
+promembership.co
+pubgaz.com
+pulseti.com
+qpcpym.com
+questioneverything2020.com
+quicksaleecuador.com
+rahimi-clinic.com
+randradeseguros.com.br
+rcosportsco.com
+reachoutlv.org
+redpandazine.com
+rockstarcbd.com
+rydchile.cl
+saiboat.com
+sakulaundry.com
+sakuraisyakyo.jp
+samafitro.id
+sandivietnam.com
+sensehome.vn
+sfvphotographer.com
+sharansundar.com
+sheriaspace.com
+sherif-hammad.com
+shoopizonline.com
+shopeeinfo.com
+shopifir.com
+shoutdel.com
+signos.inf.br
+sirihandcrafts.com
+skenglish.com
+skiwhitediamond.com
+skypipit.com
+spokat.id
+statusquobrand.com
+stolenafrikan.africa
+streamnature.com
+sulematravel.es
+sundoor.vn
+supremepeach.com
+susanamorales.com
+t-dagger.com.pk
+tadoo.ca
+tara-hum.org
+tayninhhouse.info
+tcamexpo.com
+teesvalleywashrooms.co.uk
+tequilalamalinche.com
+thedibbsapp.com
+thenewschef.com
+thetastrike.club
+theusacommunity.com
+thewisetalks.com
+thinkapply.co.uk
+thuviendata.com
+timbgurudesigns.com
+timothefernandezcreationmetal.com
+toyszone.in
+travelakhalkalaki.com
+trendinghack.com
+tria.ge
+triplesim.shop
+trungtamgioithieuvieclamdongnai.com
+trungtammtc.com
+tsrj.monster
+tunimatec.com.tn
+turismochaco.com
+upcloudweb.com
+urgentassignments.net
+vanphugia.com
+vastraindia.com
+vesinhlinhanh.vn
+viamanzanares.com.ar
+vilong.us
+vinhomesq9.vn
+voguefitz.com
+w-maassltd.co.uk
+wagnerbandeira.com.br
+webmotion-design.com
+weprintorigin.com
+west-tv.dp.ua
+window-airconditioner.com
+worklinic.com.br
+xiamid.cn
+xiaolechen.com
+yakupabdal.com
+z5market.com
+zagros-shahrekord.ir
+zanuda.info
+zhengtiankai.com
+ziaonlinetutor.com
+zsstart.com
+
+# Hosts
+0.0.0.0	acacio.app4you.app.br
+0.0.0.0	admin.creciendoconelarcoiris.com
+0.0.0.0	bbs.rfcrfc.com
+0.0.0.0	beta.zoneberry.com
+0.0.0.0	blog.fyrmli.com
+0.0.0.0	blog.traun.cn
+0.0.0.0	business.thenotarynetwork.org
+0.0.0.0	chinarocha.app4you.app.br
+0.0.0.0	congresso.redeunida.org.br
+0.0.0.0	demo.anuramdanceacademy.com
+0.0.0.0	dev1.assar.in
+0.0.0.0	dev-kz.artomed.io
+0.0.0.0	dev.business.moregoldcoast.com.au
+0.0.0.0	dev.ladystar.eu
+0.0.0.0	events.medialogic.cloud
+0.0.0.0	f24.victor-studio.com.tw
+0.0.0.0	globalmodelsclub.xpertdigital.in
+0.0.0.0	help-m2c.eccang.com
+0.0.0.0	informacion.creciendoconelarcoiris.com
+0.0.0.0	intranet.the-metaphor.com
+0.0.0.0	lppm.stiesemarang.ac.id
+0.0.0.0	madamemesquita.app4you.app.br
+0.0.0.0	mail.zeefinetech.com
+0.0.0.0	netacn.kcwiki.moe
+0.0.0.0	news.leta.com.vn
+0.0.0.0	news.ungheni.org
+0.0.0.0	projects.bigprint.pictures
+0.0.0.0	ps.sywwl.cn
+0.0.0.0	registro.creciendoconelarcoiris.com
+0.0.0.0	sms.rahatexltd.com
+0.0.0.0	softart-002-site3.dtempurl.com
+0.0.0.0	superadmin.creciendoconelarcoiris.com
+0.0.0.0	test.apguae.com
+0.0.0.0	web.dailytask.com.au
+0.0.0.0	work.digitalvichar.com
+0.0.0.0	www.11woodwork.com
+0.0.0.0	www.84417.online
+0.0.0.0	www.9063906.ru
+0.0.0.0	www.apulides.com
+0.0.0.0	www.britanniacricketleague.com
+0.0.0.0	www.chias.tw
+0.0.0.0	www.consultmyadvo.com
+0.0.0.0	www.crazyblondeukrainian.shop
+0.0.0.0	www.dhariyafarms.com
+0.0.0.0	www.ecobaratocanaria.com
+0.0.0.0	www.elsousi-upvc.com
+0.0.0.0	www.exploretibet.com
+0.0.0.0	www.ffval.hr
+0.0.0.0	www.gaeno1test.xyz
+0.0.0.0	www.infoquick.co.uk
+0.0.0.0	www.int-stc.com
+0.0.0.0	www.jszacct.com
+0.0.0.0	www.kremena-dance.com
+0.0.0.0	www.kurort-mishor.ru
+0.0.0.0	www.leapmom.com
+0.0.0.0	www.lievevanstappen.com
+0.0.0.0	www.lvl.com.br
+0.0.0.0	www.machineenergydrink.com
+0.0.0.0	www.moodijital.com
+0.0.0.0	www.mycollegecp.com
+0.0.0.0	www.mypercussionworld.com
+0.0.0.0	www.novaes.com.br
+0.0.0.0	www.qixiulvshi.com
+0.0.0.0	www.removepctrojan.com
+0.0.0.0	www.servautodan.ro
+0.0.0.0	www.sff3d.com
+0.0.0.0	www.shopes.cn
+0.0.0.0	www.singleauth.net
+0.0.0.0	www.siyahkalemresim.com
+0.0.0.0	www.sntsadvogados.com.br
+0.0.0.0	www.songtian2022.top
+0.0.0.0	www.tianhengdaojituan.com
+0.0.0.0	www.usrubber.com
+0.0.0.0	www.venompremiumshop.com
+0.0.0.0	www.visioncraftng.com
+0.0.0.0	www.weblabor.com.br
+0.0.0.0	www.womenup.cz
+0.0.0.0	xnk.jbzie.com
+0.0.0.0	yoder.vkcsites.org
+#-----------------------------------------------------------
+# Emotet (06-10-2020)
+# Source: https://otx.alienvault.com/pulse/5e5653ec6f272075b35cfe76
+
+# Domains
+3tcgroup.com
+868sc.com
+a2zhomepaints.com
+abba.com.vn
+activatemagicsjacks.xyz
+adharshila.co.in
+africainnovates.org
+ajhmanamlak.com
+akacoustic.vn
+algomatreeservices.com
+anantbuildersanddevelopers.com
+andicolor.com
+art-paprika.ru
+ashoakacharya.com
+asiantechnology.com.hk
+azzatravels.com
+baakcafe.com
+baharanchap.ir
+bingxiong.vip
+bmg-thailand.com
+bncc.ac.th
+boliw.top
+boomfurnishing.xyz
+casinoportal.site
+ceyder.com
+chaco.travel
+cheap.ga
+cloudcottage.cloud
+codeproof.com
+comercialms.cl
+comprarviagra.club
+constructorafpi.cl
+cosmotrendz.in
+courseindelhi.in
+csdnshop.com
+databus.app
+devifoodgrains.com
+diamondwatchcompany.in
+diedfish.com
+dienlanhnguyenle.com
+digitalsaim.com
+dreamysky.cf
+dynomind.tech
+e-motivasyon.xyz
+ekonord.ru
+elliteempregos.com
+essemengineers.com
+faisalijaz.info
+fteol-ukit.ac.id
+fuckxvideos.com
+fullmoviedownload.in
+futurepath.fi
+geekerhub.com
+getmeald.com
+ghedamanhhung.com
+goharm.com
+golbasievdenevenakliyat.info
+halynkmedia.com
+heminghao.club
+hspackaging.in
+inlooppuntdeopendeur.nl
+isri.ac.ir
+itaalabama.org
+jmdcertification.com
+kancelariazborowski.pl
+kbelectricals.co.in
+kiddieshome.com
+kita-group.com.vn
+kkpkkshidna.com.ua
+kypa.or.ke
+landrovermarketplace.com
+libertyaviationusa.com
+liveu.lk
+luatdongnamhai.vn
+luatsusaigon.info
+maafoundry.com
+madinahparadise.com
+magic-desigen.com
+mangalcharitabletrust.org
+mayradeleon.net
+med-shop24.ru
+meditatiebreda.nl
+mesi.edu.vn
+metrotainment.net
+mmedia.network
+modernwebgalaxy.com
+msspartners.pl
+muzammelhaq.com
+myenglishisgood.net.in
+myphamkat.com
+mysmartinvestors.com
+ncronline.in
+neweast-tr.net
+nicest-packaging.com
+noithatduongnhung.com
+nsd4kt.co.za
+official.co.id
+oranbet.ml
+osama-developer.com
+pacificgroup.ws
+packfad.ir
+pagari.org
+panunggalan-grobogan.desa.id
+paradisesuiting.com
+phbarangays.com
+phoneexpertxl.nl
+premiumctoursapp.com
+prestigehairnbeauty.com.sg
+primalis.com.vn
+prolificfurnitures.in
+pubpush.com
+pure-hosting.de
+qisa.xyz
+rabinetserver.com
+rachel-harif.com
+rainbowcakery.hk
+redbeat.club
+rendaprevi.com.br
+render.lt
+riskxai.com
+rodyaevents.com
+rsk.edu.in
+sanketpatil.online
+sanperseguros.com.br
+scannableid.com
+sellingannuitypayments.com
+seminarkitbandung.my.id
+sensecity.vn
+sensorhomeservices.com
+sevitech.vn
+sharefoundation.in
+shitouv.com
+shogomustgoon.xyz
+shoppingdev.com
+smartmovie.com.ua
+smkmitrasehatmandiri.sch.id
+spress.cl
+stayfitphysio.ca
+studiodentistico-candeo.it
+testtaglabel.com
+theatlantismall.com.pk
+tht.co.il
+travelciwidey.com
+trivenittcollege.in
+tuttosteopatia.it
+updatefashioncosmetics.com
+vedarshnitourism.com
+versatileempresas.com.br
+vetih.com
+vexacom.com
+visioncharitable.info
+visitmanizales.com
+vitamin-mineral.info
+vstrickler.com
+vuonsangtao.vn
+wangyixuan.top
+watchesprime.com
+wdfpcb.com
+webnaqsh.ir
+work4sales.com
+yatn.org.in
+yxg999.vip
+
+# Hosts
+0.0.0.0	academy.desevens.com.ng
+0.0.0.0	akcja.pintabarrelbrewing.pl
+0.0.0.0	api.carijasa.co.id
+0.0.0.0	apps7.nishta.net
+0.0.0.0	badabasket.materialszone.com
+0.0.0.0	bkweb10.bkweb.com.vn
+0.0.0.0	blog.50cms.com
+0.0.0.0	blog.amjoin.us
+0.0.0.0	blog.harrisoninvestimentos.com.br
+0.0.0.0	blog.hasilkan.com
+0.0.0.0	chihuitest.bodait.com
+0.0.0.0	cnc.ase.md
+0.0.0.0	deals.autostar.com.sa
+0.0.0.0	deboekhouder.preview.bob.works
+0.0.0.0	demo.ai-commerce.alis.ai
+0.0.0.0	demo.ankaservis.xyz
+0.0.0.0	demo.npconsulting.dev
+0.0.0.0	desevens.desevens.com.ng
+0.0.0.0	dev.454mediahouse.com
+0.0.0.0	edu.utec.edu.uy
+0.0.0.0	engineer.emilee.jp
+0.0.0.0	esports.geekcase.pt
+0.0.0.0	export.faramouj.com
+0.0.0.0	faine.itcluster.te.ua
+0.0.0.0	fashionfootprint.leseditextiles.co.za
+0.0.0.0	fashionfootprint.nmco.co.za
+0.0.0.0	gill-holiday-2013.gillfoundation.org
+0.0.0.0	help.jasaconnect.com
+0.0.0.0	hub.desevens.com.ng
+0.0.0.0	indochains.ventgor.com
+0.0.0.0	inovacao.farmaciaartesanal.com
+0.0.0.0	library.mju.ac.th
+0.0.0.0	lp.iapajus.com.br
+0.0.0.0	lp.itadmit.co.il
+0.0.0.0	lp.luxdesignstudio.com
+0.0.0.0	mail.growmatrics.com
+0.0.0.0	mediclaim.odhavnidhi.org
+0.0.0.0	moderna.big07.pl
+0.0.0.0	news.ursinus.edu
+0.0.0.0	ngoaingu.garage.com.vn
+0.0.0.0	padlilli.desevens.com.ng
+0.0.0.0	pages.marketingdigitaltop.com.br
+0.0.0.0	phone.hctheme.com
+0.0.0.0	porn.taiclip.co
+0.0.0.0	portal.iapajus.com.br
+0.0.0.0	pzd.ostrow.zarzaddrog.pl
+0.0.0.0	rahul.dixitaaparrels.com
+0.0.0.0	rebackup.desevens.com.ng
+0.0.0.0	s9.cl6.us
+0.0.0.0	salman.vetkare.com
+0.0.0.0	satu.carijasa.co
+0.0.0.0	shopthelook.desevens.com.ng
+0.0.0.0	simulasi.kredittoyotabandung.com
+0.0.0.0	smartadvisors.billiontags.in
+0.0.0.0	sms.ayefin.com
+0.0.0.0	sokrit-mb-app.freelancekh.com
+0.0.0.0	stage.qualexwarehousing.com
+0.0.0.0	staging.eventlab.snapagency.net
+0.0.0.0	sunnybeach.fr30n.com
+0.0.0.0	txblog.50cms.com
+0.0.0.0	txshool.50cms.com
+0.0.0.0	txshop.50cms.com
+0.0.0.0	vkb.binc-communicatie.nl
+0.0.0.0	vox.ctf-fce.ca
+0.0.0.0	wmf.desevens.com.ng
+0.0.0.0	womenhealth.aureliusconferences.com
+0.0.0.0	wp1.cbykmedia.com
+0.0.0.0	wqapp.50cms.com
+0.0.0.0	www2.jessicagalfas.com
+0.0.0.0	www.24gam.ir
+0.0.0.0	www.aerialtrvl.tech
+0.0.0.0	www.aquos-sunbeauty.com
+0.0.0.0	www.arenterprises.co.in
+0.0.0.0	www.autod1983.it
+0.0.0.0	www.ayefin.com
+0.0.0.0	www.bancadelluniverso.it
+0.0.0.0	www.blue-port.jp
+0.0.0.0	www.brechovip.com.br
+0.0.0.0	www.cometprint.net
+0.0.0.0	www.divyapushti.org
+0.0.0.0	www.edcm.ca
+0.0.0.0	www.escinsaat.com.tr
+0.0.0.0	www.expertencall.com
+0.0.0.0	www.healthcorner.ae
+0.0.0.0	www.holandaadvocacia.adv.br
+0.0.0.0	www.infojv.compteweb.com
+0.0.0.0	www.iptvmerkez.com
+0.0.0.0	www.kelasonline.my.id
+0.0.0.0	www.kev.si
+0.0.0.0	www.lapakbenih.com
+0.0.0.0	www.latestcomputerst.com
+0.0.0.0	www.lespianosduvexin.fr
+0.0.0.0	www.maxpell.net
+0.0.0.0	www.meda-comp.net
+0.0.0.0	www.mingco.net
+0.0.0.0	www.mjmechanical.com
+0.0.0.0	www.motoclubspidy.it
+0.0.0.0	www.netkafem.org
+0.0.0.0	www.newkrungthai.com
+0.0.0.0	www.neww.testarapeak.com
+0.0.0.0	www.oliverastudio.ir
+0.0.0.0	www.oloruns.net
+0.0.0.0	www.otonom-ayakkabilar-turkiye-a.com
+0.0.0.0	www.peos.cn
+0.0.0.0	www.plsurgicals.com
+0.0.0.0	www.pocwp.com
+0.0.0.0	www.satang2.com
+0.0.0.0	www.scriptmarket.cn
+0.0.0.0	www.secmc.com.pk
+0.0.0.0	www.selloderaza.cl
+0.0.0.0	www.sepideshop.com
+0.0.0.0	www.shaagon.com
+0.0.0.0	www.shuanen.com
+0.0.0.0	www.siyinjichangjia.com
+0.0.0.0	www.spanish-facetoface.com
+0.0.0.0	www.topcompanies.news
+0.0.0.0	www.ulagacinema.in
+0.0.0.0	www.uttarakhandghoomo.com
+0.0.0.0	www.weinberg93.hu
+0.0.0.0	www.xishicanting.com
+0.0.0.0	www.xnautomatic.com
+0.0.0.0	www.yule007.top
+#-----------------------------------------------------------
+# Emotet IOCs 10/5/2020
+# Source: https://otx.alienvault.com/pulse/5f7b8397a38fc6f208eb5c41
+
+# Domains
+25minday.com
+aahnaturals.net
+acconent-meased.icu
+acupuncture-sandiego.com
+advancecore.com.sa
+aemine.vn
+aeropilates.cl
+alameenmission.net
+alltopgame.com
+amazinlash.com
+andreonemaia.com
+anhanhshop.net
+aravindhherbalstore.com
+arteprata.com.br
+ashgroup.org
+avidaverrasettings.com
+babytoymall.com
+banglashongbad.com
+barriocumbres.com
+batarijaya.com
+bbclube.com
+bebesconalergiaalimentaria.com
+beu-hr.com
+bigtreestudios.org
+bomkazi.co.za
+bonyanet.com
+brand360.vn
+brightnetworktv.com
+brownbutts.com
+brycebrumley.com
+buildmarker.com
+businesscollectiongroup.com
+cab-wise.com
+cabinetaccuracy.com
+cardinallandscapellc.com
+carstarai.com
+caryjonesdesign.com
+castillosmart.com
+casualhome.com
+cemeonlineku.com
+chakteholistico.com
+chariolet.online
+cheaptesting.xyz
+chinaxiantao.cn
+cloudmail.co.in
+clusdirectory.xyz
+codepog.com
+codienvietnhat.com
+coffeecons.com
+cse-engineer.com
+da-industrial.com
+daggersknivesandswords.com
+dagostim.com.br
+dagranitegiare.com
+daprofesional.com
+datacentertecnologia.com.br
+datahk.social
+demodownloadportal.xyz
+devanyastore.com
+domiciliazionelegaleamilano.it
+donatezilla.com
+drdlwallace.com
+earthinnovation.org
+eastafricarefugeerelief.com
+ecobaratocanaria.com
+ecomortarcompany.com
+editzarmy.com
+efeatasoy.com
+eldoradomexicanrestaurant.com
+electronicsvibes.com
+emmaidea.com
+employmentplacestaffing.com
+engineering-2s.com
+equipamentosmix.com
+esteticavaleria.com
+eventswifiinternet.com
+excelenceimoveis.com.br
+expertcode.in
+ezisync.com
+familyclub.in
+famousdiagnosticcenter.com
+fanrongprofessionalservices.com
+ferracinipantano.com
+financiamentointeligente.com
+four.pw
+fuguluggage.com
+fuhuizhenyu.com
+gaanda.com
+ganeshkulariya.com
+getinspace.com
+giay247.com
+goldcoastoffice365.com
+gosmart-online.com
+hatummunay.com
+healthcureathome.com
+heck-electric.com
+helixity-india.com
+hesa.co.id
+hiancoffeebike.com
+honarestankooketalaee.com
+hotelunique.com
+hottco.com
+hrmanagement.mx
+hrtgatlanta.com
+huaibangchina.com
+hxoptical.net
+hyphenlearningplatform.com
+ifund.my
+ilinknepal.com
+inkontinenssikoulu.fi
+intrasistemas.com
+issr.cc
+j2hb-dualcontrol.com
+jasapasporbandung.com
+jcci.xyz
+jegsnet.com
+jilnovaproper.org
+kanbonim.com
+karlagaray.com
+kavifurniture.in
+kenhnoithatgiare.com
+kenhthietke.com
+khuranaeyecarecentre.com
+koreankidsedu.com
+ksulo.com
+kugrup.com
+lblcomputacion.com
+linhkienaiot.com
+listingera.com
+lombardzista.pl
+manhtien.net
+marquitosgoa.com
+marvelgroup.co
+masque.es
+maxwelloverseas.com
+mianusman.com
+minhkiet.com.vn
+movewithketty.com
+multitiendagc.com
+n-brake.com
+naildepotfwb.com
+nhaphomau.com
+nicolit.co.il
+noithatfhouse.com
+nonnarina.ax
+odeycapital.com
+ofoghzagros.com
+online24h.biz
+onlinehdstream.com
+onlynewsnation.com
+opendoorsukraine.com
+owleyescs.com
+ownitconsignment.com
+packzon.in
+pagearrow.com
+panidigital.com
+patcraft.ninja
+pattanitkpark.com
+pcdesigns4you.com
+pcsolutioncenter.com.ar
+pedroguinle.com
+pershel.com
+personalizzabili.com
+pethome.com.vn
+pierreconsulting.info
+pixnbeats.com
+printsource.in
+profnews.info
+pureshredder.com
+qualirent.com.gt
+qualitychildcarepreschool.com
+rahbordsoft.ir
+raintoday.org
+redchillicrackers.com
+reklamdasiniz.com
+ruralagricola.com.br
+samsportal.org
+sandonato.beer
+sbsec.org
+sharansundar.com
+shivastotras.com
+shmct.org
+shocksock.it
+shopindiancrafts.com
+signos.inf.br
+sirihandcrafts.com
+sistaqui.com
+skoolkam.com
+sktowhidhasan.com
+socialwebsystems.com
+speakandlead.info
+stai-almasthuriyah.ac.id
+stockspert.co.in
+storypostar.com
+syntegows.com
+syracusecoffee.com
+techinotification.com
+techitrends.com
+theshaywest.com
+tiendamiracolo.com
+togelonline.wiki
+topsilly.com
+trainingbodies.com
+travcalls.com
+tria.ge
+trueteeshirt.com
+turbineseuperfil.online
+uskolor.com
+veepeeinternational.co.in
+veerassociates.com
+vidadohomem.com
+vishalpatola.com
+visualblends.com
+voxdream.com
+vzminternational.com.br
+wallcab.com
+weneedyourhelpnow.org
+xiaoxiangkeji.top
+youthhub.tk
+zadentechnologies.com
+zeitraisen.com
+zhaniyasoft.ir
+
+# Hosts
+0.0.0.0	305.tvstartup.com
+0.0.0.0	assoc.cinepu.com
+0.0.0.0	bappeda.barrukab.go.id
+0.0.0.0	beta.zoneberry.com
+0.0.0.0	bh49.webdungsan.com
+0.0.0.0	bimasoftcbt.maannajahjakarta.com
+0.0.0.0	blesstv.inovany.com.br
+0.0.0.0	blog.zunapro.com
+0.0.0.0	boke.xiaoxiekeji.top
+0.0.0.0	deklarera.glasatervinning.se
+0.0.0.0	demo17.webdungsan.com
+0.0.0.0	dg.mumun.cn
+0.0.0.0	fenekformalas.newquantumlogic.com
+0.0.0.0	hao.fengxiaopeng.cn
+0.0.0.0	ig.kalcare.online
+0.0.0.0	ks.qihchina.com
+0.0.0.0	mail.laspanofashion.com
+0.0.0.0	pearl.xhef.org
+0.0.0.0	pedia.uacme.co.in
+0.0.0.0	ps.sywwl.cn
+0.0.0.0	shop.homenhealthy.com
+0.0.0.0	shop.qihchina.com
+0.0.0.0	softart-002-site3.dtempurl.com
+0.0.0.0	www1.bheringadvogados.com.br
+0.0.0.0	www.africahome.cm
+0.0.0.0	www.ayfira.com.tr
+0.0.0.0	www.campuscamarafp.com
+0.0.0.0	www.climatechange.govt.lc
+0.0.0.0	www.co-traveling.com
+0.0.0.0	www.enetra.in
+0.0.0.0	www.equiposjj.com
+0.0.0.0	www.everestsnow.com
+0.0.0.0	www.firstinfos.com
+0.0.0.0	www.gustosoesemplice.com
+0.0.0.0	www.infoquick.co.uk
+0.0.0.0	www.iscleanone.com
+0.0.0.0	www.jornco.com
+0.0.0.0	www.leapmom.com
+0.0.0.0	www.moragphotography.co.uk
+0.0.0.0	www.mycollegecp.com
+0.0.0.0	www.noramua.com
+0.0.0.0	www.onlifeapp.com
+0.0.0.0	www.paramedicaleducationguidelines.com
+0.0.0.0	www.pixelstoryteller.com
+0.0.0.0	www.productsofindiareviews.com
+0.0.0.0	www.prokrajinu.eu
+0.0.0.0	www.radiostudioerre.it
+0.0.0.0	www.removepctrojan.com
+0.0.0.0	www.sff3d.com
+0.0.0.0	www.sifesro.com
+0.0.0.0	www.ssgil.com
+0.0.0.0	www.szwrs.com
+0.0.0.0	www.tekadbatam.com
+0.0.0.0	www.tikaapps.com
+0.0.0.0	www.tz004.com
+0.0.0.0	www.weblabor.com.br
+0.0.0.0	www.ylgchina.com
+0.0.0.0	www.zhenping77.com
+0.0.0.0	xy.iwxdy.cn
+0.0.0.0	yashdemo.yashinfosystems.com
+0.0.0.0	ys.xiaoxiekeji.top
+0.0.0.0	z.mumun.cn
+0.0.0.0	ziliao.1008691.com
+#-----------------------------------------------------------
+# Emotet Downloader IoCs
+# Source: https://otx.alienvault.com/pulse/5f8e4b1446cfa9c0509ebc1d
+
+# Domains
+allcannabismeds.com
+ardos.com.br
+arifulhuq.com
+bodyinnovation.co.za
+cplt20live.com
+dealsmedia.in
+drwalidabdelgaffar.com
+ecolek.ee
+estylohouse.com
+guarany.net
+holonchile.cl
+hpwdy.com
+layagroup.net
+musc.health
+nasrmobin.com
+onepalate.biz
+raumfuerneues.eu
+streamnature.com
+stylefix.co
+terriafit.com
+theusmansaif.com
+webclientworks.xyz
+yixuecourse.com
+ziil.eu
+
+# Hosts
+0.0.0.0	gtech.thngo58.com
+0.0.0.0	www.yanlipin.net
+#-----------------------------------------------------------
+# Talos Blog || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence: Threat Roundup for September 25 to October 2
+# Source: https://otx.alienvault.com/pulse/5f77e085b1051714fa945292
+
+# Domains
+aonefire.com
+aragrp.com
+atomic-soft.com
+auto-boot-like.com
+boys86.com
+dacyclin.com
+data-vocabulary.org
+fantasticvilla.xyz
+fepami.com
+fgyapim.com
+kpisolutions.net
+salamatbanoo.ir
+xnxxfullhd.com
+
+# Hosts
+0.0.0.0 1.0.168.192.in-addr.arpa
+0.0.0.0 229.197.13.212.in-addr.arpa
+0.0.0.0 list.bestxss.com
+0.0.0.0 secure.zenithglobalplc.com
+0.0.0.0 www.business-management-degree.net
+0.0.0.0 www.rtl-theme.com
+0.0.0.0 www.shonanbbq.jp
+0.0.0.0 www.spod.co.kr
+0.0.0.0 www.xinwenlook.com
+#-----------------------------------------------------------
+# Emotet downloader URLs - Active downloader URLs observed in recent Phishing Word docs 
+# Source: https://otx.alienvault.com/pulse/5f73cf5fbe77b11a772215ad
+
+# Domians
+jietuo66.com
+nghiencauca.com
+providedigital.com
+qualitychildcarepreschool.com
+raintoday.org
+shopdocauca.com
+tvinstallationofatlanta.com
+
+# Hosts
+0.0.0.0	blog.thejobstack.com
+0.0.0.0	boke.xiaoxiekeji.top
+0.0.0.0	shop.homenhealthy.com
+0.0.0.0	www.laoyebh.com
+0.0.0.0	ys.xiaoxiekeji.top
+#-----------------------------------------------------------
+# Emotet downloader URLs - The still active Emotet URLs in samples reviewed
+# Source: https://otx.alienvault.com/pulse/5f740531cb379915002703ba
+
+# Domains
+aigtreyas.com
+aprendiendoganasdigital.com
+brycebrumley.com
+daftarsitusjudibolaterpercaya.com
+devanyastore.com
+heck-electric.com
+kenhthietke.com
+kharazmischl.com
+khuranaeyecarecentre.com
+konican.com
+lapapeteria.at
+mymorninglove.com
+nhaphomau.com
+noithatfhouse.com
+online24h.biz
+ottimade.com
+parlayjudibola.com
+portal-ms.info
+shivam-aggarwal.com
+star-speed.vip
+
+# Hosts
+0.0.0.0	edu.jmsvclass.com
+0.0.0.0	www.jornco.com
+0.0.0.0	www.productsofindiareviews.com
+0.0.0.0	www.szwymall.com
+0.0.0.0	yashdemo.yashinfosystems.com
+#-----------------------------------------------------------
+# Emotet Download URLs - Downloader URLs still active at time of publishing
+# Source: https://otx.alienvault.com/pulse/5f6ff9c12c7b6ab35a1863a9
+
+# Domains
+ak3.net
+artpsikoloji.net
+bdsnhatnam.info
+brightmega.com
+hercinovic.com
+hostnaut.com
+immigrationquestion.com
+jenniferzeccardi.com
+nhatnaminvest.net
+safiullah.com
+tingchaojianxin.com
+wynn838.com
+
+# Hosts
+0.0.0.0 www.pxid360.com
+#-----------------------------------------------------------
+# Talos Blog || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence: Threat Roundup for August 21 to August 27
+# Source: https://otx.alienvault.com/pulse/5f489ea64d6c5a2c3fecdb3c
+
+# Domains
+abcofcricket.com
+blackshades.ru
+justinkongyt.com
+reliancectg.com
+
+# Hosts
+0.0.0.0	info.opensubcdn.com
+0.0.0.0	lethal.no-ip.info
+0.0.0.0	lsw8.q9p6.com
+0.0.0.0	oneforall.no-ip.info
+0.0.0.0	prempmatt.no-ip.biz
+0.0.0.0	rp.opensubcdn.com
+0.0.0.0	s13.intelaids.su
+0.0.0.0	s27.intelaids.su
+0.0.0.0	s30.intelcore.su
+0.0.0.0	s38.intelaids.su
+0.0.0.0	s48.intelcore.su
+0.0.0.0	s51.intelblog.su
+0.0.0.0	s59.intelprog.su
+0.0.0.0	s65.intelblog.su
+0.0.0.0	s70.intelblog.su
+0.0.0.0	s81.intelprog.su
+0.0.0.0	s87.intelblog.su
+0.0.0.0	synopsys.no-ip.org
+0.0.0.0	tippyshot.no-ip.info
+0.0.0.0	vps318.intelbackupsvc.su
+0.0.0.0	vps360.intelbackupsrv.su
+0.0.0.0	web.private4919.com
+0.0.0.0	www.intelligence.com.sg
+0.0.0.0	www.kryptoslogic.com
+0.0.0.0	www.synergiktattoo.com
+0.0.0.0	xxxblackfirexxx.no-ip.biz
+#-----------------------------------------------------------
+# Threat Roundup for September 18 to September 25 - Talos publishes technical details of the most prevalent threats they have seen last week. These are: Emotet ZeroAccess Malware Sload Downloader Malware Sagent Dridex Zeus Bifrost 
+# Source: https://otx.alienvault.com/pulse/5f71a20a4419483574730eda
+
+# Domains
+aragrp.com
+atomic-soft.com
+auto-boot-like.com
+cyxaerkijeuaupzhqjzxhkzmrmvxw.net
+data-vocabulary.org
+elrofanfoods.com
+fantasticvilla.xyz
+fgyapim.com
+geevida.com
+gmwgkfjfrcdamydbuucrhxzxqclv.org
+hmnbdanrschumrtouxhmxwhfe.biz
+hseuswtumvofhaugxcbuaskifzp.ru
+hvwuwdellgqcaivwkeqzxhkhyea.org
+jvzxcyfquohmzyotkswskjnbn.biz
+kljvxotcuplskxqwbyizbro.org
+knibxwsofqprztzpbyibhpvqcsh.ru
+kpisolutions.net
+ldugqylugovtcpfuingawkugnws.com
+llxcijbliflgqhiijivxkvkrcr.com
+mjhhmhrovocqlnkjqkuayhxgvgoj.net
+mvdyheugepjxxdgyxxsuceqv.info
+mzqocmpfltdlirxcqwxwdmb.info
+nbvcqsprcapbymreyvojvteagy.org
+pgdgqxhufexpnfqcedvbaythu.com
+pvyhfypvemoeqhxsgerotsorpsfe.ru
+rshuptpdiypmjovfebcetxkud.com
+salamatbanoo.ir
+soamvwpqwdxougljpjwpfbuzpuky.biz
+tstcfobmbcizlrramfuhwckrn.net
+tvkdezvwqkqclpnxsdapinamd.com
+vklfwsfqpbsxvobnzrkxshmrkd.com
+xcpijwuyvktcbmuodykbkbp.biz
+xgijwozlwbiddyeavkvintxnrv.biz
+xwgbavssggegeubilbnzdpbwkjzt.biz
+zthqlrtgcexobqkpqkoydheikj.org
+
+# Hosts
+0.0.0.0	www.shonanbbq.jp
+0.0.0.0	www.02n7kj0t9a.com
+0.0.0.0	www.ayyi7w08li.com
+0.0.0.0	www.86lxhrlqmy.com
+0.0.0.0	www.imxtrspuzg.com
+0.0.0.0	www.dwrutkyurj.com
+0.0.0.0	www.psmjdphj9d.com
+0.0.0.0	www.cirrqqch1d.com
+0.0.0.0	www.s570ijnkte.com
+0.0.0.0	www.twrarbf1so.com
+0.0.0.0	www.6ephtujqmi.com
+0.0.0.0	www.xinwenlook.com
+0.0.0.0	www.pddcairfkr.com
+0.0.0.0	www.waou2qqwkx.com
+0.0.0.0	www.u2mhtlzsgn.com
+0.0.0.0	www.tbetwbt4lv.com
+0.0.0.0	www.hmxcfbeqby.com
+0.0.0.0	www.twpm4fspo9.com
+0.0.0.0	www.eaoptse6xd.com
+0.0.0.0	www.rtl-theme.com
+0.0.0.0	www.y8bj6axylz.com
+0.0.0.0	www.ezrqi0knvw.com
+0.0.0.0	www.pgdigwtozq.com
+0.0.0.0	www.44cyorvjwu.com
+#-----------------------------------------------------------
+# Emotet downloader URLs
+# Source: https://otx.alienvault.com/pulse/5f6d5740719a10886153c50e
+
+# Domains
+accountsinstitute.com
+ambulanceservice.nl
+astronica.org
+bangkokcityjewel.com
+bballbreak.com
+cairocad.com
+camponovo.it
+crashboxcharlotte.com
+da-industrial.com
+dagranitegiare.com
+daprofesional.com
+degepro.com
+degisimkalip.com.tr
+delideal.in
+etiangong.com
+fcbc.group
+goldcoastoffice365.com
+hbprivileged.com
+hoagietesting10.com
+infolockerz.com
+kanbonim.com
+lbbniu.com
+lifeadvicer.com
+liulibug.com
+qualitychildcarepreschool.com
+speedypush.com
+syracusecoffee.com
+transfersuvan.com
+tulyboutiquehouse.com
+
+# Hosts
+0.0.0.0 bappeda.barrukab.go.id
+0.0.0.0 enews.enkj.com
+0.0.0.0 my.alphaschool.ir
+0.0.0.0 www.namwasports.com
+0.0.0.0 www.sanambakshi.com
+#-----------------------------------------------------------
+# Talos Blog || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence: Threat Roundup for August 14 to August 21
+# Source: https://otx.alienvault.com/pulse/5f40aec6ee7e89fd58e29b0d
+
+# Domains
+apxover.cn
+burusonol.com
+dealbigdata.com
+deloplen.com
+gfixprice.space
+poonamjoshi.com
+reevaipi.com
+telete.in
+
+# Hosts
+0.0.0.0	aminexd.no-ip.biz
+0.0.0.0	api.anti-captcha.com
+0.0.0.0	get.s-onetag.com
+0.0.0.0	hatancoool.no-ip.biz
+0.0.0.0	native.propellerclick.com
+0.0.0.0	no-ip1414.ddns.net
+0.0.0.0	prod-rotation-v2.guce.aws.oath.cloud
+0.0.0.0	t7l.no-ip.biz
+0.0.0.0	www.1wu55b5pua.com
+0.0.0.0	www.6bwxeoacgn.com
+0.0.0.0	www.6why1sz2se.com
+0.0.0.0	www.7wjak5mb8f.com
+0.0.0.0	www.9lhaps1wu2.com
+0.0.0.0	www.18ny7rrtyt.com
+0.0.0.0	www.btchfh3tfr.com
+0.0.0.0	www.dvulwwbkii.com
+0.0.0.0	www.e3jwezioip.com
+0.0.0.0	www.e9wgrblquh.com
+0.0.0.0	www.fqa2nwjdws.com
+0.0.0.0	www.gdbm7bvxya.com
+0.0.0.0	www.hayhmse6t6.com
+0.0.0.0	www.hcg3bau1sv.com
+0.0.0.0	www.i5fnvdeomp.com
+0.0.0.0	www.molnu9ypiw.com
+0.0.0.0	www.mumn8fnnqq.com
+0.0.0.0	www.mwgbwhofk2.com
+0.0.0.0	www.nhrry1xnyb.com
+0.0.0.0	www.oyutdttpeb.com
+0.0.0.0	www.vnhax.net
+0.0.0.0	www.yirebpgi48.com
+0.0.0.0	xes.redirectme.net
+#-----------------------------------------------------------
+# Emotet Downloader URLs -  Active at the time of publishing downloader URLs used by Emotet phishing Word docs 
+# Source: https://otx.alienvault.com/pulse/5f6a684457d155358c7f48ac
+
+# Domains
+bnmintl.com
+booksearch.com
+buildingrobots.net
+bytecreation.es
+castlestudios.com
+ckinterbiz.com
+creationskateboards.com
+davehale.ca
+drippglobal.com
+eaglehatch.com
+eliteweb.cl
+elmpajohan.ir
+giral2.com
+goldcoastoffice365.com
+hrmanagement.mx
+hulianwang114.com
+hxoptical.net
+indyoverheaddoors.com
+intrasistemas.com
+kitecorp.ca
+linhkienaiot.com
+livefarma.com
+lombardzista.pl
+macdonaldandsons.com
+merkadito.mx
+method21.net
+oneinsix.com
+personalizzabili.com
+qualitychildcarepreschool.com
+raintoday.org
+rocketviral.com
+socylmediapc.es
+stockval.com.br
+syracusecoffee.com
+tfbauru.com.br
+thammynhp.com
+vuatritue.com
+weneedyourhelpnow.org
+wynn838.com
+
+# Hosts
+0.0.0.0 blog.workshots.net
+0.0.0.0 brandstrumpet-001-site1.ctempurl.com
+0.0.0.0 ekinerja.megadata.co
+0.0.0.0 shop.homenhealthy.com
+0.0.0.0 tech332.synology.me
+0.0.0.0 www.afriqueindustries-sa.com
+0.0.0.0 www.equiposjj.com
+0.0.0.0 www.yeumoitruong.vn
+#-----------------------------------------------------------
+# Emotet Download IoCs - 19 days ago
+# Source: https://otx.alienvault.com/pulse/5f641241981f6e2b0fbb036a
+
+# Domains
+77yxx.com
+808district.com
+airlineproxy.com
+ajbuilds.uk
+bigtreestudios.org
+britanniacricketleague.com
+burstoutloud.com
+casabeethovenlb.com
+codelta.es
+cse-engineer.com
+da-industrial.com
+daprofesional.com
+dbestfishing.com.sg
+degisimkalip.com
+degisimkalip.com.tr
+deko-vizyon.com
+dheeranet.com
+dikshadayal.com
+girlgeekdinners.com
+jobcapper.com
+lblcomputacion.com
+lspahi.com
+marblingmagpie.com
+nucleokardecistalace.org.br
+playschoolmatritva.com
+shahramookht.com
+tomssteakhouse.com
+
+# Hosts
+0.0.0.0 ec2-52-56-233-157.eu-west-2.compute.amazonaws.com
+0.0.0.0 new.mylicense.ca
+0.0.0.0 www.hairlineunisexsalon.com
+0.0.0.0 www.hhbiao.com
+0.0.0.0 www.ksgresearch.org
+0.0.0.0 www.mitrausahacontrucion.com
+#-----------------------------------------------------------
+# Talos Blog || Cisco Talos Intelligence Group - Threat Roundup for August 7 to August 14
+# Source: https://otx.alienvault.com/pulse/5f374ea0c4428a7ecb600c98
+
+# Domains
+bestbrightday.ru
+boquils.ga
+connect-support-server.ru
+global-dahuatech.com
+handrass.co.rs
+hmcrogenics.com
+icepower.su
+mersia.com
+nutqauytva6azxd.com
+nutqauytva8azxd.com
+nutqauytva10azxd.com
+nutqauytva100azxd.com
+paranormal-online-kino.ru
+priple-red.su
+ragasgki.tk
+sigawd.gq
+ymams.cf
+zibind.tk
+
+# Hosts
+0.0.0.0	4cbe38387ffe0773c605cef59e77417a.f378aa487b16a643ff99d3805fb1cb93.sink1.doombringer.pw
+0.0.0.0	92b2eeaf1c756181519866a1837f0f65.d7ab16dc15f57e0b073d8b6cbe1db25d.sink1.doombringer.pw
+0.0.0.0	2755bfd9789361d8110422ee5c5a43c6.56e519622a486cc557b926f3be681509.sink1.doombringer.pw
+0.0.0.0	3569149a17a7613073c10f03a2339622.5cea3029ac4b8432302cb569497d4012.sink1.doombringer.pw
+0.0.0.0	api.wipmania.com
+0.0.0.0	be6e1ac5f9ee667e5ff4b59b40d35785.8cb19bb1aa8bccccd2f7c502f9b3befe.sink1.doombringer.pw
+0.0.0.0	d519f69ddb567ebfcc9865f11eab6203.bf93d4e6ca6a7b55757fdcbbbcd68359.sink1.doombringer.pw
+0.0.0.0	fav121.hopto.org
+0.0.0.0	ip02.gntl.co.uk
+0.0.0.0	ip.pr-cy.hacklix.com
+0.0.0.0	jabber001.nas.ru
+0.0.0.0	jonweek.hopto.org
+0.0.0.0	mail.elcarmelohotelhacienda.com
+0.0.0.0	msr.pool.gntl.co.uk
+0.0.0.0	n.aoyylwyxd.ru
+0.0.0.0	n.ezjhyxxbf.ru
+0.0.0.0	n.hmiblgoja.ru
+0.0.0.0	n.jntbxduhz.ru
+0.0.0.0	n.jupoofsnc.ru
+0.0.0.0	n.kvupdstwh.ru
+0.0.0.0	n.lotys.ru
+0.0.0.0	n.oceardpku.ru
+0.0.0.0	n.spgpemwqk.ru
+0.0.0.0	n.vbemnggcj.ru
+0.0.0.0	n.yqqufklho.ru
+0.0.0.0	n.yxntnyrap.ru
+0.0.0.0	n.zhgcuntif.ru
+0.0.0.0	s1.ipinfo.pw
+0.0.0.0	s2.ipinfo.pw
+0.0.0.0	smtp.badlogs101.com
+0.0.0.0	smtp.chidilogs.com
+0.0.0.0	u17094677.hopto.org
+0.0.0.0	ugo123.hopto.org
+0.0.0.0	www6.cdljussarago.com.br
+0.0.0.0	www6.tamareirashotelmg.com.br
+0.0.0.0	www.macniica.com
+0.0.0.0	www.offspring.co.uk
+#-----------------------------------------------------------
+# Emotet download IoCs
+# Source: https://otx.alienvault.com/pulse/5f516142fd03e9a93dab9614
+
+# Domains
+accemarbeyal.com
+alemelektronik.com
+aselsa.com
+asn-espirulina.com
+ballatstone.com
+dvers.me
+ezola.fr
+fabregat.eu
+familienbande-ley.de
+fernsehservice-stara.de
+finewines.com.sg
+ketisch.de
+#-----------------------------------------------------------
+# Emotet downloder info
+# Source: https://otx.alienvault.com/pulse/5f6299da65025861d5d70260
+
+# Domains
+amettatravel.com
+andresirjan.ir
+cococat.se
+cshub123.cn
+dtyl.shop
+elrofanfoods.com
+geevida.com
+kingchuen.com
+lookuppopup.co.uk
+luzzeri.com
+oneinsix.com
+volcanict.com
+xmjadever.com
+
+# Hosts
+0.0.0.0 blog.geekpai.top
+0.0.0.0 houtai.xiaopbk.com
+0.0.0.0 www.sifesro.com
+#-----------------------------------------------------------
+# Emotet download IoCs - Downloader URLs
+# Source: https://otx.alienvault.com/pulse/5f50455a5235cc819583b226
+
+# Domains
+bullardstowing.com
+canyonplastering.com
+commeavant.com
+crbremen.com
+creixenti.com
+e-brand.org
+earthinnovation.org
+farli.com
+fruehling.tv
+goldcoastoffice365.com
+goldschmiedemeister.net
+grabner-online.org
+greiser.net
+hoepfner-thoma.de
+hopfenziz.de
+hubrich-hannover.de
+lektorat-rauthe.de
+lember.de
+loungegangnam.com
+malini-design.de
+mamakumpir.de
+megastararena.com
+metalscape.com
+mmoehring.de
+modernmanna.org
+musiversum.com
+neotechnology.info
+niokolo.com
+nobius.org
+oneinsix.com
+ora-ks.com
+party-pix.org
+sabineschulte.net
+schlink.net
+seattlebugsafari.com
+snoeker.com
+villatera.com
+wernergansbergen.de
+
+# Hosts
+0.0.0.0 www.lunalysis.com
+#-----------------------------------------------------------
+# Emotet downloader IoCs - Second stage download URLs, hostnames, and hashes from malicious word docs
+# Source: https://otx.alienvault.com/pulse/5f4ec0b254334fe000ff6864
+
+# Domains
+ariefsetiawan.com
+avkasornaments.com
+azraktours.com
+carolinacanullo.com
+caryjonesdesign.com
+emakbelajarmasak.com
+innovationsstarter.com
+kanzlei-hermes.com
+kostjamusic.com
+lars-lohmann.com
+learn2wow.com
+lennarz.org
+liebchen-fashion.com
+m3interiors.com
+madurai-bengals.com
+pixelactinc.com
+svyatsy.org
+tarynminterlaw.com
+tinerservis.com
+toby-warren.com
+twisterprint.com
+uhlenbusch.info
+vanbrast.com
+varivoda.com
+vidriodecoracion.com
+wakan-tanka.org
+white-on-rice.com
+zahnarzt-flensburg.com
+zgtaiji.com
+
+# Hosts
+0.0.0.0 www.eyupoglumedya.com
+0.0.0.0 www.laportadelcel.com
+0.0.0.0 www.teleconx.com
+0.0.0.0 www.tierrasinsolitas.com
+#-----------------------------------------------------------
+# Emotet downloader IoCs - IoCs for more samples of Emotet including download URLs and file hashes. Downloaded with Powershell through malicious Word doc. 
+# Source: https://otx.alienvault.com/pulse/5f4eb87edb15a95233b12be0
+
+# Domains
+prprofile.com
+ptwmusic.com
+radiomuziekland.com
+rbji.com
+refinanz.org
+relicatessen.com
+schickle.org
+wasilewski-online.de
+weierstrass.de
+westend-zoo.de
+westerndata.com.au
+wetzi.de
+xxfreshxx.de
+
+# Hosts
+0.0.0.0 www.phoenix-internet.com
+#-----------------------------------------------------------
+# Downloaded Emotet Malware IoCs
+# Source: https://otx.alienvault.com/pulse/5f4d72ae279af703fdb43a47
+
+# Domains
+intrasistemas.com
+jemully.com
+jesusteam12.org
+jmnwebmaker.com
+jobcapper.com
+jrmachines.com
+jung-family.net
+metanopoly.com
+michaeljunk.de
+michna.de
+minerva-bg.net
+miragestudio.ro
+#-----------------------------------------------------------
+# Raw Emotet IOCs - 28 July 2020
+# Summary 2020/07/28: - New Mail Stealer V2 - Now steals 131072 byte or smaller attachments w/email to use in Reply Chains! Again, largest update ever we have done at nearly 1MB of IoCs. E1 had 143 links, E2 251 and E3 115. 
+# Source: https://otx.alienvault.com/pulse/5f215c1fe97b0f9bbd4b436f
+
+# Domains
+617pg.com
+aalbaekhus.dk
+afranoor.ir
+alfaltda.cl
+alpena.com.tr
+ammonhair.nl
+amppe.com.br
+anprax.com
+arcapps.org
+arizonaonsale.com
+armadalecfc.com
+artephatun.com.br
+aspectmanagement.com.au
+automaticrefreshments.com
+avitech.net.au
+badabadabingo.com
+badeggdesign.com
+bangkokglass.com
+basheijns.nl
+bdub.net
+bemnessa.com.br
+bestangeltravel.com
+bigblue.com.tr
+biotunes.org
+bitbenderz.com
+bjbus.net
+blogline.net
+blondenerd.com
+bloodink.com
+blswlaw.com
+bluepulse.co.za
+bluespaceit.com
+bodbderg.net
+boddicker.dk
+bodenstein.co.za
+bonstock.com
+booyamedia.com
+bosco.ch
+bosmj.net
+boulderinn.com
+bouwer.cc
+bphill.com
+brainora.com
+brandfish.co.uk
+brandsstudio.pk
+bratecbrt.com
+brechtstables.org
+breedenandsilver.com
+brightmega.com
+brightonrooms.co.uk
+brownshotelgroup.com
+bryanbuchan.com
+bubblecom.fr
+bumirubber.com
+bunchproperties.com
+busesworldwide.org
+businsurance.nl
+byteresa.com
+bzztcommunicatie.nl
+cabelectrical.com.au
+cabral.adv.br
+cairocad.com
+calabria.com.pk
+cali.de
+calledtochange.org
+cameronandswan.co.uk
+camponovo.it
+cankofte.com
+carlosmartins.ca
+cathelest.com
+caverncraft.com
+caygri.com
+ccsau.com
+cddvd.kz
+ceda.com.tr
+ceelen.nl
+centreforitexcellence.com.au
+ceyhunhurcan.com
+cfostudio.com
+cghmedia.com
+chadcast.com
+chahooa.com
+champlain1715.com
+charihome.com
+charterhouse.com.br
+chcquimica.com.br
+chmiola.net
+chocolatrouge.com
+chrisdior.com.au
+chrisgreenhalgh.co.uk
+chrishalaska.com
+chrisrambo.com
+chromaccess.com
+chunkagency.com
+cityplanter.co.uk
+clanwatson.co.uk
+classicpaint.net
+cleanbydesignllc.com
+clearcall.com
+clickvalue.com.au
+cliftonsecurities.co.uk
+climatemp.es
+closhlab.com
+codeconnect.com.au
+colemanco.com.au
+colinpoh.com
+comars.sk
+comitware.de
+communicateplc.com
+comprof.com.au
+compustate.com
+confricami.eu
+conilizate.com
+consulinfo.net
+controll.cl
+controllchile.cl
+convert.gr
+cookingbuffet.com.br
+copavflex.com.br
+coresite.ne.jp
+corrieanderson.com
+coruia.ro
+corumumutotomotiv.com
+coulsongraphics.com
+crazymut.com
+creatdev.com
+creativesecuritysolutions.co.uk
+creatrix.co.za
+criesagirl.com
+crocell.dk
+csburo.lu
+csds.ca
+currantmedia.com
+cushman.net
+customgrup.ro
+cwpfencing.co.uk
+cyberneticservices.in
+cygnuslabs.com
+czajkowski.dk
+dagda.es
+dahouse.pl
+dailynetworks.com
+danaldea.ro
+dandbtrucking.com
+dandyair.com
+dangilmore.com
+danielcamino.com
+danirvinphotography.com
+daoisthealing.com
+datwheel.com
+davethompson.me.uk
+davidfetherston.com
+davidnemeth.com
+davidsgreen.net
+dcgco.com
+dcjohnsonassociates.com
+defconshop.com
+delawaredata.com
+deltacraft.ro
+deltat.us
+delucca.dk
+demellowandco.com
+demonesia.net
+demonpaintball.co.uk
+demostenes.com.br
+demu.hu
+derksenwebid.nl
+dermogrup.com
+designworx.co.nz
+destilaria.tv
+detorre.es
+dfb-fredericia.dk
+diecieventi.com
+dijkp.nl
+diprotelco.com
+ditec.com.my
+djeffries.com
+djhavoc.net
+docecreativo.com
+dockerydesign.com
+dogbluemedia.com
+dorkyboy.com
+dotbenstar.co.uk
+dralcalde.es
+drewmaughan.com
+dualstudio.com.mx
+duusnicolajsen.dk
+dzyne.net
+e-motiva.com
+eagleserver.org
+easywork.com.br
+eatspam.co.uk
+ebcsb.net
+eclosion.jp
+ecombizz.com
+edandtrish.com
+eduprecaro.com
+edylawson.com.br
+efetiva.net.br
+efor.net
+ejder.com.tr
+ekramco.ir
+elevationadvertising.com
+elgrande.com.hk
+elkanto.com
+elook.com.tw
+eltallerartistico.com
+embark.com.br
+enhancementtechnology.co.uk
+entouchgraphics.com
+envirohealth.org
+epicurius.com.br
+eragrup.ro
+err0r.dk
+erronsplace.com
+especialdesign.hu
+espiraltravel.com
+evaddesign.com
+excelsiorlawpllc.com
+excess.web.tr
+exeo.com
+exilum.com
+extelcon.com
+extremcopy.hu
+facetsbusiness.ca
+faks.nl
+fam-honing.nl
+famaweb.ir
+fanatlanta.org
+fanction.jp
+faroholidays.in
+fashiondenver.com
+feelings504.com
+fenlabenergy.com
+ferafera.com
+ferienwohnung-malcesine.de
+fernandez-ulrich.cat
+fevziyildiz.com
+fhcigars.com
+figueiraseguros.com.br
+fili.es
+filipesantos.com.br
+finnigans.org.uk
+firman.com.au
+firstaid-redliv.dk
+fishbitedesign.com
+fitsystems.com
+flamesofrichmond.co.uk
+flancalfaltd10.com
+flexitravel.com
+flint.me.uk
+floridoweddings.com
+floydswoodshop.com
+fmcav.com
+fmlnz.com
+foodphotography.in
+foredeckmarine.com.au
+forestalaitue.cl
+forestanalytics.net
+franelessac.com
+freelancerland.com
+frenchiesballooncreations.com.au
+fresu.ch
+frnossa.com.br
+ftmvariations.org
+function5.com.au
+futuregraphics.com.ar
+g-and-f.co.jp
+gaemove.it
+galaenterprises.com.au
+galdonia.com
+gammapower.com.au
+gammatron.com.au
+gazedice.com
+geisterhouse.com
+geivoip.com
+genek.com
+genevievebeaupre.com
+gersonbranco.com.br
+gironynavarro.com
+gleevi.com
+global-ark.co.jp
+globaliaespacios.com
+globeartdesigners.com
+goharm.com
+goldilockstraining.com
+goodbad.co.uk
+gooddogrescue.com
+gptimers.com.au
+greenvalleyschool.com
+gregemmerth.com
+grupoleferas.com
+grupovisionpr.com
+hamiltonslive.com
+hanaikoi.jp
+hapaistanbul.com
+harboursplash.ie
+healinghandsonthemove.com
+heemaalnews.com
+henney.net
+hewittpender.com
+himbus.com
+hitstation.nl
+homecables.net
+homegrownorlando.com
+hostsr4.com.br
+hwalek.com
+iensenada.cl
+ijselrijders.nl
+illumin.org
+incluschile.cl
+infohost.net.au
+infohub.com.pk
+ingelse.net
+istok.de
+jenerationz.com
+jetfuelcreative.com
+joannes.nl
+johnbrussel.nl
+juroca.com
+justinscott.com.au
+karerguvenlik.com
+keasocial.com
+kellymorganscience.com
+kiismedia.com
+kjoeller.nu
+konican.com
+kriomed.uz
+laboratbahasa.com
+leavell-photography.com
+ledgernote.com
+linearis.ch
+lt-automobile.de
+ltrybus.com
+madisonchicagoindustries.com
+mariaballester.com
+massamadrefuncional.com.br
+matuteroofing.com
+mediainmedia.com
+megaplast.ba
+megasolucoesti.com
+meinhaarzauber.de
+meuambientedecoracoes.com.br
+mgregoire.net
+modbecloset.com
+mossfs.com.au
+mrveggy.com
+naturebeautyspa.com
+nettmart.com
+netview.es
+nevhangunduz.biz
+nitronet.net
+novamiholdings.com
+nypthealing.com
+omeryener.com.tr
+onlinewebmentor.com
+onmobile.co.za
+optimus.com.sg
+oshop.es
+ourplace.com.br
+oxahaus.com
+pajitnov.com
+paulancheta.com
+paypalupdateaccounts.com
+pcnuyomodel.org
+perfectprint.gr
+performanceactive.com
+perlahuelva.es
+pfuse.net
+philosopherswheel.com
+poloagencia.com.br
+ppgl.uk
+puebloamigo.com.mx
+quasi-monkey.com
+rafamora.net
+ramirezllc.com
+randradeseguros.com.br
+redsolution.com.br
+rhema.com.sg
+riamusports.com
+riserproperty.com
+rodselectrical.net.au
+roshnijewellery.com
+rtisistemas.com.br
+sacredscentsonline.com
+santyago.org
+seriousvanity.com
+sertcom.net
+shigrigroup.com
+shippingintime.com
+si-sq.com
+sihrsac.com
+simulations.org
+sirthinks.com
+skare.net
+skpsoft.com
+slbqms.co.ls
+smartbusinessoperations.com.au
+smashingcake.com
+smdcomputers.com
+solangecross.com
+sowka.pl
+spindelaar.nl
+stageone.dk
+stcswim.com
+steverenton.com
+stolkie.net
+streefkerk.be
+strike3productions.com
+studeraplus.com
+studiotoybox.com
+subwaynut.com
+sugarcoatedspider.co.uk
+suinfotech.net
+sujest.com
+sundaystudio.net
+suspended.page
+synsol.eu
+taltus.co.uk
+tcenteronline.com
+techhampton.com
+tecnofrota.net
+ted-shirt.de
+tewoerd.eu
+tgmobile.es
+theblacksheep.org
+theebeautyspot.co.uk
+thegomes.com
+theleus.com
+thesterlinggroup.org
+thoseweekendgolfguys.com
+tiffanysballoons.co.uk
+tomjoosten.nl
+tomtocemusic.com
+trainingbodies.com
+trevinos.net
+tria.ge
+undergarments.pk
+unilaksu.rw
+uniteddatabase.net
+urbane.co.id
+urgeventa.es
+urog.co.uk
+vandermade.eu
+vectortools.com
+velvet.com.br
+vemax.sk
+viperbux.com
+vipmein.com
+virtualservicospb.com.br
+vizpoets.com
+vonunger-representaciones.cl
+vtff.ca
+w1glv.com
+w3art.com
+w4icw.com
+wagls.com
+waynet.co.uk
+web-host.net
+webappbr.com
+webrep.ca
+wedoweb.biz
+wind-dreams.co.uk
+wishesconcierge.com
+witje.be
+wolung.com
+wormann.dk
+wtechsolution.com
+xaviertapias.com
+xeda.cz
+yamnadlan.com
+ydrool.me
+yeandle.co.uk
+zakahlife.com
+zebracolor.fi
+zentroser.com
+zilky.id
+zurfluh.net
+
+# Hosts
+0.0.0.0	ambiance.zestard.net
+0.0.0.0	paste.cryptolaemus.com
+0.0.0.0	robotics.kinex11.info
+0.0.0.0	www.acinutrilife.com
+0.0.0.0	www.behnasan.com
+0.0.0.0	www.bioklinika.lv
+0.0.0.0	www.bogenevent.at
+0.0.0.0	www.boincathull.net
+0.0.0.0	www.braingine.net
+0.0.0.0	www.campdevanol.com
+0.0.0.0	www.campsbayviews.com
+0.0.0.0	www.catamountcenter.org
+0.0.0.0	www.cebucoolstuff.com
+0.0.0.0	www.chairsdirect.eu
+0.0.0.0	www.choweng.com
+0.0.0.0	www.cinefamily.org
+0.0.0.0	www.clubyourlife.ca
+0.0.0.0	www.colfincas.com
+0.0.0.0	www.compednet.com
+0.0.0.0	www.cryser.com
+0.0.0.0	www.cuestionspirits.com
+0.0.0.0	www.cushionsandumbrellas.com
+0.0.0.0	www.cwa.mx
+0.0.0.0	www.darknova.eu
+0.0.0.0	www.databeuro.com
+0.0.0.0	www.ddct.cl
+0.0.0.0	www.dealio.com.au
+0.0.0.0	www.dearsport.it
+0.0.0.0	www.degriekseadvocaten.com
+0.0.0.0	www.diasdiascontabilidade.com.br
+0.0.0.0	www.directresponsegroup.com
+0.0.0.0	www.dobsoncentral.com
+0.0.0.0	www.dot2dot.com.my
+0.0.0.0	www.dotmarket.rs
+0.0.0.0	www.emmashop.sk
+0.0.0.0	www.enjoykalkan.com
+0.0.0.0	www.faccomputer.com
+0.0.0.0	www.famaval.pt
+0.0.0.0	www.fantasticz.org
+0.0.0.0	www.findesign.nl
+0.0.0.0	www.fizion.nl
+0.0.0.0	www.fulltel.it
+0.0.0.0	www.geotechnic.co.uk
+0.0.0.0	www.gizmo.ba
+0.0.0.0	www.gozowindmill.com
+0.0.0.0	www.handler.cl
+0.0.0.0	www.inch.net
+0.0.0.0	www.interibericos.com
+0.0.0.0	www.irishcarsagadir.net
+0.0.0.0	www.joyprimeschools.com
+0.0.0.0	www.juancieri.com
+0.0.0.0	www.jugerplast.net
+0.0.0.0	www.kellogic.com
+0.0.0.0	www.kmbautoparts.ro
+0.0.0.0	www.kyesgroups.com
+0.0.0.0	www.ledvinaphotography.net
+0.0.0.0	www.lgpass.com
+0.0.0.0	www.mdk-physio.info
+0.0.0.0	www.mi-tec.at
+0.0.0.0	www.mobialive.com
+0.0.0.0	www.molco.cl
+0.0.0.0	www.myhms.id
+0.0.0.0	www.netcorp.ec
+0.0.0.0	www.nsds.hr
+0.0.0.0	www.popfizzion.com
+0.0.0.0	www.puertosalsa.cl
+0.0.0.0	www.radioavivamiento939.com
+0.0.0.0	www.ramms.com.au
+0.0.0.0	www.ranking-site.de
+0.0.0.0	www.rhinoplas.co.id
+0.0.0.0	www.richardkellogg.com
+0.0.0.0	www.saludenestambul.com
+0.0.0.0	www.smarthub.ws
+0.0.0.0	www.startevo.com
+0.0.0.0	www.stempora.com
+0.0.0.0	www.tatweeralsham.com
+0.0.0.0	www.tinarom.ro
+0.0.0.0	www.valorpresente.cl
+0.0.0.0	www.vpinversiones.cl
+0.0.0.0	www.wagger.info
+0.0.0.0	www.wiredmoney.net
+0.0.0.0	www.worldhealthtourismcongress.org
+#-----------------------------------------------------------
+# Emotet Early 2020 Campaign
+# Source: https://otx.alienvault.com/pulse/5e2a0e5edc1c62744d9c8daf
+
+# Domains
+drect.top
+e-twow.be
+magnificentpakistan.com
+rect.top
+siwakuposo.com
+sporsho.org
+twthp.com
+yesimsatirli.com
+
+# Hosts
+0.0.0.0	ahc.mrbdev.com
+0.0.0.0	billing.wpkami.com
+0.0.0.0	humana.5kmtechnologies.com
+0.0.0.0	www.qwqoo.com
+#-----------------------------------------------------------
+# Emotet infection with spambot activity & other IOCs
+# Source: https://otx.alienvault.com/pulse/5dfa58c16d3e69f8756335ec
+
+# Domains
+duanchungcubatdongsan.com
+oki-dental.com
+
+# Hosts
+0.0.0.0	blog.itsaboutnature.net
+0.0.0.0	www.simple-it.org
+0.0.0.0	www.uaeneeds.com
+#-----------------------------------------------------------
+# Emotet - Office Macro IOCs
+# Source: https://otx.alienvault.com/pulse/5e0481ea7b55fc0834b9ec61
+
+# Domains
+apkiasaani.com
+dathachanhphongthuy.com
+ekobygghandel.se
+gotoproject.net
+klyp.co
+
+# Hosts
+0.0.0.0	d4.gotoproject.net
+0.0.0.0	feroscare.klyp.co
+#-----------------------------------------------------------
+# EMOTET_IOC's, by nsmteam
+# Source: https://otx.alienvault.com/pulse/5e2721cf2f9a1dead2530128
+
+# Hosts
+0.0.0.0	ahc.mrbdev.com
+0.0.0.0	test.noltestudiozadar.com
+0.0.0.0	wpdemo7.xtoreapp.com
+0.0.0.0	www.69po.com
+0.0.0.0	www.qwqoo.com
+#-----------------------------------------------------------
+# Emotet IOC 16Dec19, by nsmteam
+# Source: https://otx.alienvault.com/pulse/5df7bb893c487fd2ad7afab1
+
+# Domains
+armanchemical.com
+armgroup101.com
+nbnglobalhk.com
+pasadenacf.org
+polandpresents.info
+#-----------------------------------------------------------
+# Italiant CERT-PA - Emotet campaign IOCs
+# Source: https://otx.alienvault.com/pulse/5def7d32754e70be6d99e7a6
+
+# Domains
+betaoptimexfreze.com
+mapascolectivos.com
+minhvinh.xyz
+superlifenig.com
+
+# Hosts
+0.0.0.0	cdn.investaweb.com
+0.0.0.0	vhdogaru-001-site11.btempurl.com
+0.0.0.0	www.acaciapremier.com
+#-----------------------------------------------------------
+# Daily Emotet IoCs and Notes for 10/08/19
+# Source: https://otx.alienvault.com/pulse/5da0c79390c4314f388846c6
+
+# Domains
+1greatrealestatesales.com
+aaplindia.com
+abcconcreteinc.com
+aceontheroof.com
+amiworld.co
+anjietiyu.com
+astrametals.com
+awgpf.org
+boomenergyng.com
+capesandbox.com
+cheematransxpressinc.com
+childsupportattorneydirectory.com
+ctni.co.uk
+disdostum.com
+ecklund.no
+embalagemparadoce.com.br
+emilrozewski.pl
+fayedoudak.com
+flowerbodysports.com
+flyadriatic.co.nz
+georgereports.com
+gogogo.id
+goldindustry.tech
+gonouniversity.edu.bd
+halloweendayquotess.com
+harder.inc
+hometownflooringwf.com
+hurtowniatapet.pl
+iglogistics.in
+immiagents.co.uk
+infraturkey.com
+ismashednc.com
+joangorchs.com
+junengmoju.xyz
+kbkevolve.com
+ladariusgreen.com
+lapakmanis.com
+maisvisitados.com.br
+maolo.net
+milanoplaces.com
+milwaukeechinesetime.com
+nguoibeo.info
+norbertwaszak.pl
+ostadtarah.ir
+overwatchboostpro.com
+parscalc.ir
+pentechplumbing.com
+pharmonline.space
+physicaltrainernearme.com
+quantumneurology.com
+retos-enformaherbal.com
+roshanbhattarai.com.np
+roskillhairandbeauty.co.nz
+rotaract3131.org
+sahajanandmart.com
+scribo-cameroon.com
+skilmu.com
+suse-tietjen.com
+taskforce1.net
+toofancom.com.np
+wolfoxcorp.com
+yensaogianguyen.com
+
+# Hosts
+0.0.0.0	arabiasystems.bubaglobal.com
+0.0.0.0	blog.safary.ma
+0.0.0.0	clients.siquiero.es
+0.0.0.0	mbaplus.tabuzzco.com
+0.0.0.0	medias.chavassieux.fr
+0.0.0.0	nuevocorporativo.canal22.org.mx
+0.0.0.0	sandbox.iamrobertv.com
+0.0.0.0	wizard.erabia.io
+0.0.0.0	www.anhjenda.net
+0.0.0.0	www.bresbundles.com
+0.0.0.0	www.bundlesbyb.com
+0.0.0.0	www.copiermatica.com
+0.0.0.0	www.crookedchristicraddick.com
+0.0.0.0	www.denedolls.com
+0.0.0.0	www.dgxbydamonique.com
+0.0.0.0	www.diamondegy.com
+0.0.0.0	www.divinedollzco.com
+0.0.0.0	www.earthpillars360.org
+0.0.0.0	www.elibdesign.co.il
+0.0.0.0	www.endeavouronline.in
+0.0.0.0	www.evextensions.com
+0.0.0.0	www.exquisiteextensions.net
+0.0.0.0	www.farmersmarket.qa
+0.0.0.0	www.fernandaeberhardt.com.br
+0.0.0.0	www.goaribhs.edu.bd
+0.0.0.0	www.juriscoing.com
+0.0.0.0	www.kairod.com
+0.0.0.0	www.lavinotecaonline.it
+0.0.0.0	www.medyumsuleymansikayet.com
+0.0.0.0	www.myparacord.at
+0.0.0.0	www.noblesproperties.com
+0.0.0.0	www.nxn.one
+0.0.0.0	www.omniaevents.co
+0.0.0.0	www.openwaterswimli.com
+0.0.0.0	www.petrousortho.com
+0.0.0.0	www.reviewchamp.net
+0.0.0.0	www.saleemibookdepot.com
+0.0.0.0	www.salviasorganic.com
+0.0.0.0	www.skullbali.com
+0.0.0.0	www.stonergirldiary.com
+0.0.0.0	www.sweetpeahaircollection.com
+0.0.0.0	www.vanilla-extensions.com
+0.0.0.0	www.virtuoushairline.org
+0.0.0.0	www.xuperweb.com
+0.0.0.0	www.zhycron.com.br
+#-----------------------------------------------------------
+# Daily Emotet IoCs and Notes for 10/07/19
+# Source: https://otx.alienvault.com/pulse/5d9ca2038ebaeefdfb341300
+
+# Domains
+annaspetportraits.com
+capesandbox.com
+capitalpremiumfinancinginc.com
+casaderepousosantoandre.com.br
+chuyentiendinhcu.vn
+co-art.vn
+crismarti360.com
+culturalmastery.com
+dahuanigeria.com
+drewnianazagroda.pl
+edealsadvisor.com
+efectivafm.com
+encplaza.com
+g-rolled.com
+homengy.com
+hope-hospice.com
+huisuwl.com
+indievisualent.com
+kurumsalinternetsitesi.com
+larsyacleanq8.com
+latestgovernment.com
+luatsukiengiang.com
+ndit.ca
+nhaxequanghuy.com
+nosmenu.com
+prewento.com
+riyansolution.com
+scoalateliu.info
+stavixcamera.com
+targetcm.net
+techecn.com
+theinspiredblogger.com
+
+# Hosts
+0.0.0.0	blog.ahoomstore.com
+0.0.0.0	blog.gormey.com
+0.0.0.0	dulich.goasiatravel.com
+0.0.0.0	nekobiz.ikie3.com
+0.0.0.0	pramodchoudhary.examqualify.com
+0.0.0.0	www.essayseller.com
+0.0.0.0	www.materialsscienceconferences.com
+0.0.0.0	www.nurturetherapies.ca
+0.0.0.0	www.splitrailtickets.com
+0.0.0.0	www.stepsofcoffee.com
+0.0.0.0	www.tenangagrofarm.com
+0.0.0.0	www.thepartnerships.com
+0.0.0.0	www.travel-turkey.net
+0.0.0.0	www.whpipe.com
+#-----------------------------------------------------------
+# Emotet IoCs 23/5/19, by Cyber_Hat
+# Source: https://otx.alienvault.com/pulse/5ce66cb881007bfc1fa36c43
+
+# Domains
+3glav.ru
+9coderz.com
+advokat-kov.ru
+airconfidencebd.org
+akihi.net
+akoagro.com
+aktpl.com
+alphalif.se
+ambil-hadiahpb.cf
+an-premium.ru
+anase.org
+anpuchem.cn
+appsville.global
+aradministracionintegral.com
+asatc.ovh
+azbeton.ro
+b118group.com
+bcaa.gq
+bike-nomad.com
+biyoistatistikdoktoru.com
+bmeinc.com
+boilerservice-cambridge.co.uk
+bonizz.com
+buxton-inf.derbyshire.sch.uk
+carlyarts.tk
+centredentairedouville.com
+chinmayacorp.com
+chirurgien-ophtalmo-retine.fr
+cielecka.pl
+conjurosdelcorazon.info
+consortiumgardois.eu
+coronadobaptistchurch.org
+corporateipr.com
+crsigns.co.uk
+daizys.nl
+demositem.cf
+diarioprimeraplana.com.mx
+dnmartin.net
+dronint.com
+ds-cocoa.com
+duwon.net
+e-controlempresarial.com
+ecommercefajeza.web.id
+economika.com.ve
+eeda.tn
+emcimed.ml
+entertech.pt
+escoder.net
+esnconsultants.com
+esquso.com
+eticasolucoes.com.br
+euma.vn
+eurofutura.com
+exenture.net
+exposicaoceramicaearte.com.br
+faggioni.site
+feti-navi.net
+fills.info
+filosofiya.moscow
+fireprotectionservicespennsylvania.review
+fitnepali.com
+focuseducationcentre.cf
+gamingproapps.com
+garage-ucg.com
+gatewaymontessori.edu.gh
+giangdinh.vn
+giaoducvacongnghe.com
+giumaithanhxuan.com
+glumory.co.id
+graminea.or.id
+grinq.com.ua
+grupoxn.com
+halcelemates.com.ng
+haovok.com
+hashkorea.com
+havistore.net
+hestoghundehuset.dk
+heuveling.net
+hlclighting.ca
+iamzb.com
+ibuying.pk
+indahtour.com
+ipdesign.pt
+itcshop.com.ng
+jajiedgenet.name.ng
+javed.co.uk
+kamasexstory.com
+katesemernya.ru
+kauzar.com.br
+kgdotcom.my
+kipsoft.vn
+krasotatver.ru
+ksicardo.com
+kujuaid.net
+kumakun.com
+kuramodev.com
+lab-quality.com
+leeger.net
+lejintian.cn
+lencoltermicosonobom.com.br
+les.nyc
+lesantivirus.net
+liantrip.com
+lifetransformersgroup.com
+lizerubens.be
+llona.net
+lnemacs.com
+logicsoccer.vip
+longokura.com
+lr12sp10.org
+lucy-jade.com
+luisromero.es
+luz.ch
+m-ros.es
+maloninc.com
+manorviews.co.nz
+marbellastreaming.com
+markelliotson.com
+masana.cat
+masterchoicepizza.com
+masters-catering.kz
+mattshortland.com
+mayupan.com
+mazzglobal.com
+megfigyel.hu
+mejalook.com
+melondisc.co.th
+mentes.bolt.hu
+mic3412.ir
+mickreevesmodels.co.uk
+midnighthare.co.uk
+mireiatorrent.com
+misbragasusadas.com
+miv-survey.com
+mjc-arts-blagnac.com
+mmesupport.com
+mmgbarbers.sk
+mobilizr.com
+monsterz.net
+montour.co
+moolo.pl
+mstation.jp
+mtaconsulting.com
+multicapmais.com
+mwvisual.com
+myofficeplus.com
+ndm-services.co.uk
+nemexis.com
+nforsdt.org.np
+ninhodosanimais.com.br
+noons.ru
+novaoptica.pt
+osarofc.com
+ovakast.com
+paywhatyouwant.io
+phigvelers.com
+placo.de
+planetkram.com
+pmalyshev.ru
+priatman.co.id
+print-consult.be
+priyainfosys.com
+prom-alp.kz
+proxindo.id
+quangcaobanghieu.vn
+ramun.ch
+rociton.com.bd
+rzd-med.kz
+sa-pient.com
+sanalkeyfi.com
+sawitandtravel.com
+seabird.com.ph
+shadzisti.ir
+slppoffice.lk
+smake.in
+smartschools.co.zw
+snowballnaturals.com
+songdung.vn
+sreelabels.com
+srgranel.pt
+steventoddart.com
+subkhonov.com
+sulkanvariasimotor.com
+suspended.page
+swansgateshoppingcentre.com
+tataaquila.com
+tbwysx.cn
+teiamais.pt
+teknisi-it.id
+thegeekmind.pt
+theoptimacreative.com
+thethaoams.com
+toorya.in
+topaqiqah.com
+toreshim.kz
+torneosnh.com
+trademarkloft.com
+travel2njoy.com
+trendybirdie.it
+usemycredit.ml
+veresk-studio.ru
+vinkagu.com
+vinyasayogaschool.co.in
+warwickvalleyliving.com
+xpelair.com.ng
+yaxiang1976.com.tw
+yk-style.net
+zhas-daryn.kz
+zmeyerz.com
+
+# Hosts
+0.0.0.0	alageum.chook.kz
+0.0.0.0	atkt.markv.in
+0.0.0.0	blog.dmtours.lk
+0.0.0.0	blog.laviajeria.com
+0.0.0.0	blog.tactfudosan.com
+0.0.0.0	blogs.ct.utfpr.edu.br
+0.0.0.0	dag.gog.pk
+0.0.0.0	data.iain-manado.ac.id
+0.0.0.0	dembo.bangkok.th.com
+0.0.0.0	disperumkim.baliprov.go.id
+0.0.0.0	egplms.okmot.kg
+0.0.0.0	greencampus.uho.ac.id
+0.0.0.0	luxconstruction.mackmckie.me
+0.0.0.0	mjeas.seas.num.edu.mn
+0.0.0.0	www.912graphics.com
+0.0.0.0	www.adil-darugar.fr
+0.0.0.0	www.cmg.asia
+0.0.0.0	www.kleine-gruesse.de
+0.0.0.0	www.maria-hilber.at
+0.0.0.0	www.nucleomargarethferes.com.br
+0.0.0.0	www.rabotkerk.be
+0.0.0.0	www.slagmite.com
+0.0.0.0	www.sseg.ch
+0.0.0.0	www.vidalgesso.com.br
+#-----------------------------------------------------------
+# Daily Emotet IoCs and Notes for 10/03/19
+# Source: https://otx.alienvault.com/pulse/5d9c9fb2d77c515f7befab04
+
+# Domains
+01synergy.com
+87creationsmedia.com
+ahmmedgroup.com
+alkemepsych.com
+allways-always.us
+applechilli.com
+bestsexologist.xyz
+betc-photographe-alsace.com
+biswalfoodcircle.com
+capesandbox.com
+chichomify.com
+citizensforacri.com
+dixieblissluxuries.com
+dogustarmobilya.com
+donvosphotography.com
+dopenews.pl
+duskin-narakita.com
+fikirhaber.net
+gamestrefa.com
+hatterandsonsinc.com
+hdcom.org
+huangao6.com
+latinannualmeeting.com
+leadsift.com
+legrandmaghrebconsulting.com
+levarilaw.com
+mobosim.com
+nevanadesigns.com
+officekav.com
+otomotifme.com
+parck.net
+politecompany.org
+pratham.org
+prewento.com
+raisabook.com
+santakpo.com
+seatwoo.com
+sieuthitrevakhoe.com
+superecruiters.com
+tananfood.com
+teesvalleyinnovation.com
+thehansongrp.com
+theperfectkitandcompany.com
+tilsimliyuzuk.com
+vicarhomes.com
+
+# Hosts
+0.0.0.0	emergences.besancon.fr
+0.0.0.0	pl.thevoucherstop.com
+0.0.0.0	www.aecraft.ca
+0.0.0.0	www.combinedenergytech.com
+0.0.0.0	www.eurosima.com
+0.0.0.0	www.koodakeayande.com
+0.0.0.0	www.lenoxsalons.com
+0.0.0.0	www.marketfxelite.com
+0.0.0.0	www.marydating.com
+0.0.0.0	www.n01goalkeeper.com
+0.0.0.0	www.newuvolume2.com
+0.0.0.0	www.notihote.com
+0.0.0.0	www.pieceofpassion.net
+0.0.0.0	www.skylandtowncenter.com
+0.0.0.0	www.sofitec.fr
+0.0.0.0	www.stewardtechnicalcollege.com
+0.0.0.0	www.yh-metals.com
+#-----------------------------------------------------------
+# Daily Emotet IoCs and Notes for 10/02/19
+# Source: https://otx.alienvault.com/pulse/5d9c9e13c17818bf8c4c73a0
+
+# Domains
+almaei-hr.com
+azharsultan.com
+backyarddream.com
+bahamazingislandtours.com
+beaunita.com
+capesandbox.com
+carina-barbera.com
+casadaminhainfancia.com.br
+cjb-law.com
+creationhappened.org
+dsneng.com
+eeistrategicconsulting.com
+geometrai.com
+hungthangphatcons.com
+jiyuchen.club
+juice-dairy.com
+kaskazinimix.com
+kish-takhfifha.com
+larissapharma.com
+mahmoudi69.com
+makeyourmarkonline.net
+mediablade.com.ng
+naijaclockwiseconcept.com
+nevanadesigns.com
+nickelaction.com
+olivexchange.com
+otomotifme.com
+pensacqua.it
+prettywoman-cambodia.com
+radheshyamcityhomes.com
+softwayvn.com
+sophieguaremas.com
+soundlightsolutions.nl
+tancoskert.hu
+telemedics.co.tz
+thelooptravels.com
+whiteboardeducation.com
+
+# Hosts
+0.0.0.0	blog.myrenterhero.com
+0.0.0.0	businesslawyers.draftservers.com
+0.0.0.0	go.hellonews.site
+0.0.0.0	promotions.pipette.com
+0.0.0.0	www.3idiotscommunication.com
+0.0.0.0	www.austellseafood.com
+0.0.0.0	www.cuisineontheroadspr.com
+0.0.0.0	www.datatalentadvisors.com
+0.0.0.0	www.dilandilan.com
+0.0.0.0	www.esonpac.com
+0.0.0.0	www.famfe.org
+0.0.0.0	www.globalreddyfederation.com
+0.0.0.0	www.iproinfotech.com
+0.0.0.0	www.juriscoing.com
+0.0.0.0	www.mammothstraw.com
+0.0.0.0	www.newuvolume2.com
+0.0.0.0	www.nhadepkientruc.net
+0.0.0.0	www.reunionintledu.com
+0.0.0.0	www.roniashop.com
+0.0.0.0	www.sh-tradinggroup.com
+0.0.0.0	www.thebloodhandmovie.com
+0.0.0.0	www.todofitnessperu.com
+0.0.0.0	www.unidadejardins.maislaser.com.br
+0.0.0.0	www.xmxazd.com
+#-----------------------------------------------------------
+# Daily Emotet IoCs and Notes for 10/01/19
+# Source: https://otx.alienvault.com/pulse/5d94f0ce26e27b69e8ee69c4
+
+# Domains
+arabaresmi.com
+atr.it
+aylaspa.com
+capesandbox.com
+culturalmastery.com
+culturerings.com
+devotionalline.com
+encplaza.com
+escs-sarl.com
+groupsmarts.org
+incipepharma.com
+inokim.kz
+ioaindia.com
+jamilsultanli.com
+jonerproducoes.com.br
+junkoutpros.com
+laborlullabies.com
+littlepoppetschildcare.com
+liveinvented.com
+loveafrofoods.com
+oliverfps.com
+panelfiberton.com
+points-of-you.com.mx
+pressplay.com.br
+qirqle.com
+readysolutions.com.mx
+reezphotography.com
+riversidehoanghuy.com
+russvet.net
+sangsnagissue.net
+sociallitemedia.ca
+sysmobi.com
+tahsildaran.com
+themilkconcept.com
+transporteselfenix.com
+traveltovietnam.co
+truuhomecare.com
+visitarians.com
+xn--karins-schnelle-kche-5ec.de
+
+# Hosts
+0.0.0.0	blog.pokerclassified.com
+0.0.0.0	mbaplus.tabuzzco.com
+0.0.0.0	www.chongnet.cn
+0.0.0.0	www.dzinestudio87.co.uk
+0.0.0.0	www.energysensorium.com
+0.0.0.0	www.epageqatar.com
+0.0.0.0	www.evolutionstaffingllp.com
+0.0.0.0	www.frevolalaw.com
+0.0.0.0	www.ilahiassociates.com
+0.0.0.0	www.iltempiodivaleria.it
+0.0.0.0	www.itmsas.net
+0.0.0.0	www.lightvalleyprune.com
+0.0.0.0	www.lotushairandbeauty.com
+0.0.0.0	www.mbkvisionent.com
+0.0.0.0	www.merkmodeonline.nl
+0.0.0.0	www.n01goalkeeper.com
+0.0.0.0	www.paraitelengria.com
+0.0.0.0	www.pinnacleclinic.com
+0.0.0.0	www.reposesionbancaria.com
+0.0.0.0	www.rugsdecore.com
+0.0.0.0	www.turncpd.com
+#-----------------------------------------------------------
+# Emotet IOCs for 18/2/19, by Cyber_Hat
+# Source: https://otx.alienvault.com/pulse/5c6bb13daab50721ad86c875
+
+# Domains
+1lorawicz.pl
+agilife.pl
+alainghazal.com
+allaboutpoolsnbuilder.com
+awcq60100.com
+barabooseniorhigh.com
+bazee365.com
+beheshtimaal.com
+bobvr.com
+bonex.it
+botmechanic.io
+buonbantenmien.com
+burodetuin.nl
+cairnterrier.in.ua
+carolechabrand.it
+cashin.ca
+cild.edu.vn
+cityofpossibilities.org
+clashofclansgems.nl
+clipestan.com
+cngda.tw
+decorinfo.ru
+detsad-kr.ru
+distribuidorajb.com.ar
+dverliga.ru
+ejder.com.tr
+embrava.eu
+eosago99.com
+eventcherry.com
+ewan-eg.com
+eyestopper.ru
+fenichka.ru
+fiat-fullback.ru
+frog.cl
+further.tv
+fwpanels.com
+galeriakolash.com.ve
+galinakulesh.ru
+giancarloraso.com
+groundswellfilms.org
+hifucancertreatment.com
+hourofcode.cn
+idecor.ge
+ingramjapan.com
+ipnat.ru
+istratrans.ru
+kanyambu35.co.ke
+karditsa.org
+karkw.org
+keshtafzoon.com
+khobep.com
+kostrzewapr.pl
+krisen.ca
+kymviet.vn
+kynangbanhang.edu.vn
+kynanggiaotiepungxu.edu.vn
+laylalanemusic.com
+liketop.tk
+lionabrasives.ru
+mak-sports.kz
+markkellylive.com.au
+masjidsolar.nl
+mask.studio
+matongcaocap.vn
+mediarox.com
+mirkma.ru
+missionautosalesinc.com
+mostkuafor.com
+mrm.lt
+napier.eu
+navigatorpojizni.ru
+newsmediainvestigasi.com
+nexusinfor.com
+noithatchungcudep.info
+noithatshop.vn
+northcityspb.ru
+portriverhotel.com
+rhlnetwork.com
+saleswork.nl
+satellit-group.ru
+spb0969.ru
+stemcoderacademy.com
+supportabc.xyz
+tattoolabmaxakula.kz
+techboy.vn
+tekirmak.com.tr
+tellusvillas.com
+testcrowd.nl
+themodellabel.com
+tischer.ro
+tolstyakitut.ru
+trandinhtuan.edu.vn
+truenorthtimber.com
+ulco.tv
+venta72.ru
+webnuskin.com
+weiweinote.com
+weresolve.ca
+xn--90achbqoo0ahef9czcb.xn--p1ai
+xn----7sbb4abj9beddh.xn--p1ai
+xn----dtbicbmcv0cdfeb.xn--p1ai
+yushifandb.co.th
+zolotoykluch69.ru
+zprb.ru
+
+# Hosts
+0.0.0.0	admin.staging.buildsmart.io
+0.0.0.0	allens.youcheckit.ca
+0.0.0.0	aplikasipln.fharhanamrin.rantauengineering.com
+0.0.0.0	demo.liuzhixiong.top
+0.0.0.0	distro.attaqwapreneur.com
+0.0.0.0	galeriakolash.galeriacollage.com.ve
+0.0.0.0	helpdesk.lesitedemamsp.fr
+0.0.0.0	hipecard.yazdvip.ir
+0.0.0.0	kgr.kirov.spb.ru
+0.0.0.0	lun.otrweb.ru
+0.0.0.0	mantoerika.yazdvip.ir
+0.0.0.0	print.abcreative.com
+0.0.0.0	secure.myaccount.resourses.com
+0.0.0.0	secure.myaccount.send.net
+0.0.0.0	serhatevren.godohosting.com
+0.0.0.0	thales-las.cfdt-fgmm.fr
+0.0.0.0	verif.myacc.send.com
+0.0.0.0	wordpress-219768-716732.cloudwaysapps.com
+0.0.0.0	wp.berbahku.id.or.id
+0.0.0.0	wpdemo.wctravel.com.au
+0.0.0.0	www.aemo-mecanique-usinage.fr
+0.0.0.0	www.cbmagency.com
+0.0.0.0	www.difalabarghoo.ir
+0.0.0.0	www.dkstudy.com
+0.0.0.0	www.timothymills.org.uk
+#-----------------------------------------------------------
+# Emotet 21/01/2019, by SogetiLUX
+# Source: https://otx.alienvault.com/pulse/5c47263961101402b8424573
+
+# Domains
+abmtrust.org
+aconiaformation.fr
+aeco.ir
+afordioretails.com
+agentfox.io
+aguilarnoticias.com
+aimypie.com
+airmanship.nl
+alfemimoda.com
+allo-prono.fr
+amerigau.com
+amitisazma.com
+andrewsalmon.co.uk
+andyclark.xyz
+animoderne.com
+appliancestalk.com
+appsproplus.fr
+apresearch.in
+arneck-rescue.com
+array.com.ua
+artebru.com
+aryahospitalksh.com
+asertiva.cl
+askhenry.co.uk
+astra-empress.com.ve
+atashneda.com
+authenticrooftiles.com
+avn.parts
+aztel.ca
+batdongsan3b.com
+batdongsanbamien24h.com
+beget.tech
+bellevega.com
+berichtvoorjou.nl
+bh-mehregan.org
+biometricsystems.ru
+bobin-head.com
+bootaly.com
+brosstayhype.co.za
+bspb.info
+buligbugto.org
+butgoviet.com
+bvibus.com
+caginerhastanesi.com.tr
+cardealersforbadcredit.net
+cbc-platform.org
+cbrrbdy.gq
+cbsr.com.pk
+checkreview.ooo
+chervinsky.ru
+chzhfdy.gq
+citycheb.ru
+clarisse-hervouet.fr
+clinicainnovate.com.br
+cloudwaysapps.com
+clubmestre.com
+cnjlxdy.gq
+como-consulting.be
+condosbysmdc.ph
+constructiis3.ro
+copsnailsanddrinks.fr
+craigryan.eu
+creditorgroup.com
+csrcampaign.com
+cumbrehambrecero.com
+denleddplighting.com
+dhgl.vn
+dijitalbaskicenter.com
+dirc-madagascar.ru
+directsnel.nl
+distinctiveblog.ir
+dohodtut.ru
+dothidongsaigon.com
+drapart.org
+driveformiles.org
+droobedu.com
+dsltech.co.uk
+eirak.co
+emalaya.org
+emmanuelboos.info
+ermaproduction.com
+ero4790k.com
+eroes.nl
+erolatak.com
+etsybizthai.com
+evaviet.net
+excellenceconstructiongroup.com
+fatma-bouchiha-psychologue.fr
+fce-transport.nl
+fidesconstantia.com
+fira.org.za
+forodigitalpyme.es
+futminna.edu.ng
+giancarlopuppo.com
+glazastiks.ru
+goldengateschool.in
+goserver.host
+grantkulinar.ru
+gtcticket.com
+hembacka.fi
+hjsanders.nl
+hopeintlschool.org
+hopeswithin.org
+housesittingreference.com
+idgnet.nl
+iepedacitodecielo.edu.co
+igloo-formation.fr
+immo-en-israel.com
+improve-it.uy
+inspireworksmarketing.com
+ipeople.vn
+iplb.ir
+irsoradio.nl
+ishiura.org
+isikbahce.com
+ivydental.vn
+jameshunt.org
+jaspinformatica.com
+jcpersonaliza.com.br
+jk-consulting.nl
+johnnycrap.com
+joinerycity.co.uk
+jongerenpit.nl
+jongewolf.nl
+jrkcompany.com
+justexam.xyz
+kadinveyasam.org
+kantova.com
+kcespolska.pl
+kheiriehsalehin.com
+khothietbivesinh24h.com
+kiber-soft.net
+kiber-soft.ru
+kids-education-support.com
+kleinamsterdam.be
+kosarhaber.xyz
+kosolve.com
+ktml.org
+lagbag.it
+lanhodiepuytin.com
+leodruker.com
+lespetitsloupsmaraichers.fr
+lexfort.ru
+liarla.com
+lineupsports.me
+linkingphase.com
+ljfpajpdy.cf
+lstasshdy.cf
+lvajnczdy.cf
+mandalafest.com
+mandezik.com
+marionsigwalt.fr
+marisel.com.ua
+masswheyshop.com
+mayphatrasua.com
+maytinhdau.vn
+megatramtg.com
+migoshen.org
+millennialsberkarya.com
+mimiabner.com
+mingroups.vn
+mobiilat.com
+modern-autoparts.com
+mroffers.co.ke
+msobrasciviles.cl
+mstudija.lt
+muasam360.com
+mywebnerd.com
+nancycheng.nl
+nbhgroup.in
+newcanadianmedia.ca
+newwayit.vn
+nghiataman.com
+nhakhoavieta.com
+northernpost.in
+nouslesentrepreneurs.fr
+novosibirsk.ru
+nsk.ru
+oculista.com.br
+odesagroup.com
+offblack.de
+ojoquesecasan.com
+onlinenhadat.net
+ontamada.ru
+otohondavungtau.com
+pa-cirebon.go.id
+panafspace.com
+panlierhu.com
+parkhomes.vn
+pe-co.nl
+petersatherley.live
+petparents.com.br
+phelieuasia.com
+photomoura.ir
+phuckien.com.vn
+pivmag02.ru
+plan.sk
+pmcorporation.fr
+polatlimatbaa.com
+pontocritico.org
+postvaxel.se
+prakritikkrishi.org
+pro-ind.ru
+pwpami.pl
+qigong-gironde.fr
+quahandmade.org
+queensaccessories.co.za
+quentinberra.fr
+radintrader.com
+rahkarinoo.com
+rapport-de-stage-tevai-sallaberry.fr
+rccgregion15juniorchurch.org
+rdweb.ir
+realdesignn.ir
+realgen-marketing.nl
+realgen-webdesign.nl
+realistickeportrety.sk
+redwing.com.eg
+regenerationcongo.com
+reparaties-ipad.nl
+reveance.nl
+revistarevival.com
+robbedinbarcelona.com
+roytransfer.com
+rozwijamy.biz
+runtah.com
+saigonthinhvuong.net
+saintjohnscba.com.ar
+samet-celik.com
+sanmarengenharia.com.br
+savel.ru
+sbern.com
+scanliftmaskin.no
+seitenstreifen.ch
+sevensites.es
+sgtsrl.it
+shafanikan.com
+shlifovka.by
+shootinstars.in
+sidelineking.xyz
+skyrim-gow.fr
+smsin.site
+smsold.com
+sobrinosroma.mx
+sofathugian.vn
+somov-igor.ru
+songlinhtran.vn
+sos-debouchage-dumeny.com
+southafricanvenousforum.co.za
+southernthatch.co.za
+southpacificawaits.com
+sp11dzm.ru
+spbv.org
+spcoretraining.com
+squawkcoffeehouse.com
+srru.ac.th
+sskymedia.com
+starbilisim.net
+stoutarc.com
+suglafish.com
+swarajyaawards.com
+tag.ir
+take-one2.com
+talktowendyssurvey.us
+teacherinnovator.com
+technoexam.com
+thanhlapdoanhnghiephnh.com
+thelivingstonfamily.net
+themanorcentralparknguyenxien.net
+theonlineezzy.store
+therxreview.com
+thesunavenuequan2.com
+thevesuvio.com
+tingera.com
+titheringtons.com
+tlpdesignstudios.com
+tomsk.ru
+towerchina.com.cn
+tral24.su
+tritonwoodworkers.org.au
+trottmyworld.ch
+truongland.com
+tsg-orbita.ru
+tunerg.com
+ubocapacitacion.cl
+ucfoundation.online
+ulco.tv
+umasterov.org
+universalsmile.org
+universobolao.com.br
+urlhaus.ch
+usgtf.com
+vincopoker.com
+viralvidespro.xyz
+vndaily.site
+vnxpress24h.com
+waggrouponline.org
+washuis.nl
+webinview.com
+welovecreative.co.nz
+weresolve.ca
+westland-onderhoud.nl
+whitekhamovniki.ru
+wholehealthcrew.com
+wijdoenbeter.be
+windailygh.com
+wins-power.com
+wtede.com
+xn--80aealqgfg1azg.xn--p1ai
+xn--80apaabfhzk7a5ck.xn--p1ai
+xn--90aeb9ae9a.xn--p1ai
+xn----8sbef8axpew9i.xn--p1ai
+xn--d1albnc.xn--p1ai
+xn--k1afw.net
+yaheedudy.cf
+ycykudy.cf
+ykpsvczdy.cf
+ylimody.cf
+yserechdy.cf
+ytteedy.cf
+yxcsdy.cf
+zidanmeubel.com
+zonnestroomtilburg.nl
+zsz-spb.ru
+
+# Hosts
+0.0.0.0	3.dohodtut.ru
+0.0.0.0	accionr2.sevensites.es
+0.0.0.0	anthinhland.onlinenhadat.net
+0.0.0.0	antigua.aguilarnoticias.com
+0.0.0.0	ar.caginerhastanesi.com.tr
+0.0.0.0	artemvqe.beget.tech
+0.0.0.0	atkcgnew.evgeni7e.beget.tech
+0.0.0.0	autodiscover.appliancestalk.com
+0.0.0.0	ayumi.ishiura.org
+0.0.0.0	blogg.postvaxel.se
+0.0.0.0	bloggers.swarajyaawards.com
+0.0.0.0	book.roytransfer.com
+0.0.0.0	cms.berichtvoorjou.nl
+0.0.0.0	cpanel.appliancestalk.com
+0.0.0.0	demo.gtcticket.com
+0.0.0.0	demo.jrkcompany.com
+0.0.0.0	demos.technoexam.com
+0.0.0.0	dev.umasterov.org
+0.0.0.0	en.tag.ir
+0.0.0.0	etsj.futminna.edu.ng
+0.0.0.0	felicidad.sevensites.es
+0.0.0.0	ftp.spbv.org
+0.0.0.0	gephesf.pontocritico.org
+0.0.0.0	k.iepedacitodecielo.edu.co
+0.0.0.0	kamdhenu.technoexam.com
+0.0.0.0	lamppm.asertiva.cl
+0.0.0.0	lokanou.webinview.com
+0.0.0.0	mail.buligbugto.org
+0.0.0.0	mail.queensaccessories.co.za
+0.0.0.0	merchants.newcanadianmedia.ca
+0.0.0.0	miano.sevensites.es
+0.0.0.0	milan-light.savel.ru
+0.0.0.0	mskala2.rise-up.nsk.ru
+0.0.0.0	nanesenie-tatu.granat.nsk.ru
+0.0.0.0	nigeriafasbmbcongress.futminna.edu.ng
+0.0.0.0	njeas.futminna.edu.ng
+0.0.0.0	oceangate.parkhomes.vn
+0.0.0.0	photos.leodruker.com
+0.0.0.0	prestashop.sevensites.es
+0.0.0.0	punkyseeds.sevensites.es
+0.0.0.0	register.srru.ac.th
+0.0.0.0	remont-okon.tomsk.ru
+0.0.0.0	rwhois.newcanadianmedia.ca
+0.0.0.0	salah.mobiilat.com
+0.0.0.0	salecar2.muasam360.com
+0.0.0.0	shantiniketangranthalay.technoexam.com
+0.0.0.0	shockbabies83.distinctiveblog.ir
+0.0.0.0	shop.avn.parts
+0.0.0.0	smsold401.smsold.com
+0.0.0.0	sosh47.citycheb.ru
+0.0.0.0	stats.emalaya.org
+0.0.0.0	stats.www.giancarlopuppo.com
+0.0.0.0	surbikes.sevensites.es
+0.0.0.0	swanpark.dothidongsaigon.com
+0.0.0.0	tejidos.sevensites.es
+0.0.0.0	temptest123.reveance.nl
+0.0.0.0	test.newcanadianmedia.ca
+0.0.0.0	tommie.tlpdesignstudios.com
+0.0.0.0	travel.leodruker.com
+0.0.0.0	trial.newcanadianmedia.ca
+0.0.0.0	uborka-snega.spectehnika.novosibirsk.ru
+0.0.0.0	warmlan08.distinctiveblog.ir
+0.0.0.0	web63.s150.goserver.host
+0.0.0.0	web113.s152.goserver.host
+0.0.0.0	web.pa-cirebon.go.id
+0.0.0.0	webmail.aeco.ir
+0.0.0.0	webview.bvibus.com
+0.0.0.0	wordpress-147603-423492.cloudwaysapps.com
+0.0.0.0	www.abmtrust.org
+0.0.0.0	www.afordioretails.com
+0.0.0.0	www.agentfox.io
+0.0.0.0	www.airmanship.nl
+0.0.0.0	www.alfemimoda.com
+0.0.0.0	www.amitisazma.com
+0.0.0.0	www.animoderne.com
+0.0.0.0	www.apresearch.in
+0.0.0.0	www.array.com.ua
+0.0.0.0	www.aztel.ca
+0.0.0.0	www.batdongsan3b.com
+0.0.0.0	www.bh-mehregan.org
+0.0.0.0	www.biometricsystems.ru
+0.0.0.0	www.bootaly.com
+0.0.0.0	www.cbsr.com.pk
+0.0.0.0	www.chervinsky.ru
+0.0.0.0	www.craigryan.eu
+0.0.0.0	www.csrcampaign.com
+0.0.0.0	www.dijitalbaskicenter.com
+0.0.0.0	www.dirc-madagascar.ru
+0.0.0.0	www.drapart.org
+0.0.0.0	www.driveformiles.org
+0.0.0.0	www.droobedu.com
+0.0.0.0	www.dsltech.co.uk
+0.0.0.0	www.emmanuelboos.info
+0.0.0.0	www.ermaproduction.com
+0.0.0.0	www.ero4790k.com
+0.0.0.0	www.eroes.nl
+0.0.0.0	www.erolatak.com
+0.0.0.0	www.etsybizthai.com
+0.0.0.0	www.fatma-bouchiha-psychologue.fr
+0.0.0.0	www.forma-31.ru
+0.0.0.0	www.forodigitalpyme.es
+0.0.0.0	www.glazastiks.ru
+0.0.0.0	www.grantkulinar.ru
+0.0.0.0	www.gtp.usgtf.com
+0.0.0.0	www.hjsanders.nl
+0.0.0.0	www.hopeintlschool.org
+0.0.0.0	www.housesittingreference.com
+0.0.0.0	www.idgnet.nl
+0.0.0.0	www.immo-en-israel.com
+0.0.0.0	www.iplb.ir
+0.0.0.0	www.irsoradio.nl
+0.0.0.0	www.jaspinformatica.com
+0.0.0.0	www.jongerenpit.nl
+0.0.0.0	www.jongewolf.nl
+0.0.0.0	www.kheiriehsalehin.com
+0.0.0.0	www.khothietbivesinh24h.com
+0.0.0.0	www.kiber-soft.net
+0.0.0.0	www.kiber-soft.ru
+0.0.0.0	www.kleinamsterdam.be
+0.0.0.0	www.leodruker.com
+0.0.0.0	www.lexfort.ru
+0.0.0.0	www.ljfpajpdy.cf
+0.0.0.0	www.mandezik.com
+0.0.0.0	www.marisel.com.ua
+0.0.0.0	www.migoshen.org
+0.0.0.0	www.mimiabner.com
+0.0.0.0	www.mingroups.vn
+0.0.0.0	www.modern-autoparts.com
+0.0.0.0	www.msobrasciviles.cl
+0.0.0.0	www.mstudija.lt
+0.0.0.0	www.mywebnerd.com
+0.0.0.0	www.nancycheng.nl
+0.0.0.0	www.newcanadianmedia.ca
+0.0.0.0	www.oculista.com.br
+0.0.0.0	www.odesagroup.com
+0.0.0.0	www.ontamada.ru
+0.0.0.0	www.panafspace.com
+0.0.0.0	www.panlierhu.com
+0.0.0.0	www.petparents.com.br
+0.0.0.0	www.pivmag02.ru
+0.0.0.0	www.polatlimatbaa.com
+0.0.0.0	www.pro-ind.ru
+0.0.0.0	www.pwpami.pl
+0.0.0.0	www.rahkarinoo.com
+0.0.0.0	www.realistickeportrety.sk
+0.0.0.0	www.regenerationcongo.com
+0.0.0.0	www.reparaties-ipad.nl
+0.0.0.0	www.robbedinbarcelona.com
+0.0.0.0	www.runtah.com
+0.0.0.0	www.saigonthinhvuong.net
+0.0.0.0	www.salonbellasa.sk
+0.0.0.0	www.sanmarengenharia.com.br
+0.0.0.0	www.sbern.com
+0.0.0.0	www.scanliftmaskin.no
+0.0.0.0	www.sgtsrl.it
+0.0.0.0	www.shafanikan.com
+0.0.0.0	www.shlifovka.by
+0.0.0.0	www.skyrim-gow.fr
+0.0.0.0	www.southafricanvenousforum.co.za
+0.0.0.0	www.sp11dzm.ru
+0.0.0.0	www.stoutarc.com
+0.0.0.0	www.stud.newcanadianmedia.ca
+0.0.0.0	www.thanhlapdoanhnghiephnh.com
+0.0.0.0	www.thelivingstonfamily.net
+0.0.0.0	www.therxreview.com
+0.0.0.0	www.towerchina.com.cn
+0.0.0.0	www.ubocapacitacion.cl
+0.0.0.0	www.ulco.tv
+0.0.0.0	www.universalsmile.org
+0.0.0.0	www.vincopoker.com
+0.0.0.0	www.washuis.nl
+0.0.0.0	www.web.pa-cirebon.go.id
+0.0.0.0	www.whitekhamovniki.ru
+0.0.0.0	www.wholehealthcrew.com
+0.0.0.0	www.wijdoenbeter.be
+0.0.0.0	www.windailygh.com
+0.0.0.0	www.wins-power.com
+0.0.0.0	www.xn----8sbef8axpew9i.xn--p1ai
+0.0.0.0	www.xn--d1albnc.xn--p1ai
+0.0.0.0	www.zonnestroomtilburg.nl
+0.0.0.0	www.zsz-spb.ru
+0.0.0.0	zamena-schetchikov.novosibirsk.ru
+#-----------------------------------------------------------
+# Emotet IOC information 03/Sep/2018
+# Source: https://otx.alienvault.com/pulse/5b8cdbf45baedd29de34cabd
+
+# Domains
+3music.net
+5ccmyoung.com
+acejapan.net
+ahlihosting.com
+alkhashen.com
+ameublementenligne.com
+aqualuna.jp
+ar-text.nl
+astariglobal.com.cn
+avuctekintekstil.com
+axcity.ru
+bdhyman.com
+bemnyc.com
+bigtvjoblist.com
+brearleyphoto.com
+bytesoftware.com.br
+calpen.com.br
+canlibets10.com
+catherstone.co.uk
+challengerballtournament.com
+clipkadeh.ir
+closhlab.com
+cmitik.ru
+cuentocontigo.net
+depisce.com
+dolhun.pl
+downinthecountry.com
+dradarlinydiaz.com
+drclaudiadiez.com
+erikortvad.dk
+familiekoning.net
+fischbach-miller.sk
+fluorescent.cc
+fullstacks.cn
+goldsellingsuccess.com
+grafobox.com
+haldeman.info
+infolierepvc.ro
+ingridkaslik.com
+interconectiva.com.br
+it-workshop.pro
+kanaangroupsociety.com
+khalyndawholehealthservice.com.au
+kofye.com
+lunacine.com
+mainlis.pt
+manatour.cl
+menricus.eu
+mlsboard.org.nz
+moschee-wil.ch
+mport.org
+mzep.ru
+nossositio.pt
+omlinux.com
+puntoyaparteseguros.com
+righttrackeducation.com
+rtnbd24.com
+satisfyer-kaufen.de
+sg2i.com
+shaunwest.co.uk
+sigmanqn.com.ar
+sv-konstanz.info
+taninepasargad.ir
+the-road-gs.com
+thesun.nu
+tonyleme.com.br
+tresillosmunoz.com
+triptoplan.com
+vii-seas.com
+vvcbg.com
+wiratechmesin.com
+xn--b1abfba5bieepl.xn--p1ai
+
+# Hosts
+0.0.0.0	anketa.orenmis.ru
+0.0.0.0	app.any.run
+0.0.0.0	blog.ruichuangfagao.com
+0.0.0.0	design.basicdecor.vn
+0.0.0.0	english315portal.endlesss.io
+0.0.0.0	sae.uet.vnu.edu.vn
+0.0.0.0	shihab.wieconece.org
+0.0.0.0	whois.expertstrend.com
+0.0.0.0	www.autocom.mx
+0.0.0.0	www.eurekalogistics.co.id
+0.0.0.0	www.ultigamer.com
+0.0.0.0	www.yuanjhua.com
+#-----------------------------------------------------------
+# InfoSec Handlers Diary Blog - Malspam pushing Emotet malware
+# Source: https://otx.alienvault.com/pulse/59789528481b4c0d9df5f810
+
+# Domains
+ais-fo.fr
+anduron.com
+approxim.com
+beckiyore.com
+bluedevils.be
+blushphotoandfilm.com
+boscoandzoe.com
+bravasav.net
+bugbbq.com
+cohenbenefits.com
+cpkapability.com
+danielmerchen.com
+denbar.com.au
+driften.org
+dzynr.com
+euphorianet.com
+event-weekend.ch
+falconbilgisayar.com
+flexlogic.nl
+ftpgmbh.ch
+getoutofthecube.com
+goldencoyote.com
+hcsnet.com.br
+hobbycoinexchange.com
+homexxl.de
+huiwei19.com
+intedyn.com
+interwatts.com
+kovalantie.fi
+lincolngroup.biz
+livablecity.org
+mariamartinezportfolio.com
+merz.com.ar
+molodin.org
+netoip.com
+phvfd221.org
+procebe.com
+prodevinc.com
+rehaunion.de
+rekonaudio.com
+
+# Hosts
+0.0.0.0	ns1.anduron.com
+0.0.0.0	ns2.anduron.com
+0.0.0.0	www.huiwei19.com
+0.0.0.0	www.lincolngroup.biz
+0.0.0.0	www.netoip.com
+0.0.0.0	www.rekonaudio.com
+#-----------------------------------------------------------
+# Emotet phishing attack
+# Source: https://otx.alienvault.com/pulse/595cca5b4c6ef229a4c98f8c
+
+# Domains
+alessiocorvaglia.com
+ariankhak.com
+atvicon.com
+backlinkhizmet.com
+bartelstaylor.net.au
+carlfoggjr.com
+casedinlemnbacau.ro
+cipherme.pl
+cis-care.net
+cloudforest.nl
+dekkgiganten.no
+delta.com.gt
+digikarl.org
+dragonflyitconsulting.com
+fambaas.nl
+fklane.com
+frossweddingcollections.co.uk
+hampsteadclinic.co.uk
+henkbruurs.nl
+hobbycoinexchange.com
+inkwelltheater.com
+intconsultgroup.com
+ishtera.net
+itomedia.nl
+jlif.org
+ludik.cl
+madaboutscience.net
+makmedia.ch
+mivibabyshop.com
+nlac.asn.au
+polesel.com
+service4pc.nl
+theflowingofthedao.com
+
+# Hosts
+0.0.0.0 sga.press.hollins.edu
