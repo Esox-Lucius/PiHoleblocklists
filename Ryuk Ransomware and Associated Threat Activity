@@ -1,0 +1,690 @@
+# Ryuk Ransomware and Associated Threat Activity + (cobalt strike)
+# Threat actor: UNC1878
+# Source: https://otx.alienvault.com
+#
+# UPDATED: 24-11-2020
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+#------------------------------------------------------
+# ThreatConnect Research Roundup: Possible Ryuk Infrastructure
+# Source: https://otx.alienvault.com/pulse/5fbbe02c00019a5f3630f8b9
+
+# Domains
+beerpong101.com
+growtancy.com
+hustlerclubnewyork.com
+hustlernewyorkstripclub.com
+hustlernycstripclub.com
+hustlernystripclub.com
+hustlerstripclub.com
+kamitorishoji.com
+thespunj.com
+#------------------------------------------------------
+# Additional Ryuk C&C infrastructure - 19 October 2020
+# Source: https://otx.alienvault.com/pulse/5f8d5f5120f163e62084b094
+
+# Domains
+backup-helper.com
+backup-leader.com
+boost-servicess.com
+nas-leader.com
+service-checker.com
+service-hellper.com
+service-leader.com
+#------------------------------------------------------
+# Ryuk Infrastructure
+# Source: https://otx.alienvault.com/pulse/5f8da57b0062780d5beebf52
+
+# Domains
+backup1nas.com
+backup1service.com
+backup-simple.com
+backupmastter.com
+backupnas1.com
+bukaguka.com
+debug-service.com
+dotmaingame.com
+elephantdrrive.com
+nas-helper.com
+nas-simple-helper.com
+nasmasterservice.com
+nasmastrservice.com
+open1vpn.com
+service-boosterr.com
+service-boostter.com
+service-hellper.com
+serviceboosterr.com
+servicesupdater.com
+
+# Hosts
+0.0.0.0	ad.cantliee.com
+0.0.0.0	ad.hungrrybaby.com
+0.0.0.0	ad.imagodd.com
+0.0.0.0	ad.maybebaybe.com
+0.0.0.0	ad.raaidboss.com
+0.0.0.0	ad.saynoforbubble.com
+0.0.0.0	ad.sunofgodd.com
+0.0.0.0	ad.tarhungangster.com
+0.0.0.0	af.cantliee.com
+0.0.0.0	af.hungrrybaby.com
+0.0.0.0	af.imagodd.com
+0.0.0.0	af.maybebaybe.com
+0.0.0.0	af.raaidboss.com
+0.0.0.0	af.saynoforbubble.com
+0.0.0.0	af.sunofgodd.com
+0.0.0.0	af.tarhungangster.com
+0.0.0.0	an.gtrsqer.com
+0.0.0.0	as.ayiyas.com
+0.0.0.0	as.bithunterr.com
+0.0.0.0	as.cantliee.com
+0.0.0.0	as.havemosts.com
+0.0.0.0	as.hungrrybaby.com
+0.0.0.0	as.imagodd.com
+0.0.0.0	as.lindasak.com
+0.0.0.0	as.loockfinderrs.com
+0.0.0.0	as.maybebaybe.com
+0.0.0.0	as.mountasd.com
+0.0.0.0	as.puckhunterrr.com
+0.0.0.0	as.raaidboss.com
+0.0.0.0	as.raidbossa.com
+0.0.0.0	as.rapirasa.com
+0.0.0.0	as.saynoforbubble.com
+0.0.0.0	as.servicemount.com
+0.0.0.0	as.serviceupdatter.com
+0.0.0.0	as.sibalsakie.com
+0.0.0.0	as.sunofgodd.com
+0.0.0.0	as.tarhungangster.com
+0.0.0.0	as.tiancaii.com
+0.0.0.0	as.voiddas.com
+0.0.0.0	asd.errvghu.com
+0.0.0.0	cv.bugsbunnyy.com
+0.0.0.0	cv.qascker.com
+0.0.0.0	cv.sweetmonsterr.com
+0.0.0.0	cv.wodemayaa.com
+0.0.0.0	df.bugsbunnyy.com
+0.0.0.0	df.qascker.com
+0.0.0.0	df.sweetmonsterr.com
+0.0.0.0	df.wodemayaa.com
+0.0.0.0	er.bugsbunnyy.com
+0.0.0.0	er.qascker.com
+0.0.0.0	er.sweetmonsterr.com
+0.0.0.0	er.wodemayaa.com
+0.0.0.0	fg.cheapshhot.com
+0.0.0.0	fg.gungameon.com
+0.0.0.0	fg.gunsdrag.com
+0.0.0.0	fg.hybriqdjs.com
+0.0.0.0	fg.luckyhunterrs.com
+0.0.0.0	fg.quwasd.com
+0.0.0.0	fg.remotessa.com
+0.0.0.0	fg.secondlivve.com
+0.0.0.0	fg.sobcase.com
+0.0.0.0	fg.unlockwsa.com
+0.0.0.0	hs.bouths.com
+0.0.0.0	kl.gtrsqer.com
+0.0.0.0	mn.fastbloodhunter.com
+0.0.0.0	mn.vnuret.com
+0.0.0.0	nj.errvghu.com
+0.0.0.0	nm.vnuret.com
+0.0.0.0	ns1.errvghu.com
+0.0.0.0	ns1.gtrsqer.com
+0.0.0.0	ns1.vnuret.com
+0.0.0.0	ns2.errvghu.com
+0.0.0.0	ns2.gtrsqer.com
+0.0.0.0	ns2.vnuret.com
+0.0.0.0	ns3.vnuret.com
+0.0.0.0	nv.fastbloodhunter.com
+0.0.0.0	ohn.bouths.com
+0.0.0.0	pl.reginds.com
+0.0.0.0	qw.ayiyas.com
+0.0.0.0	qw.bithunterr.com
+0.0.0.0	qw.chalengges.com
+0.0.0.0	qw.fastbloodhunter.com
+0.0.0.0	qw.havemosts.com
+0.0.0.0	qw.lindasak.com
+0.0.0.0	qw.loockfinderrs.com
+0.0.0.0	qw.mountasd.com
+0.0.0.0	qw.puckhunterrr.com
+0.0.0.0	qw.raidbossa.com
+0.0.0.0	qw.rapirasa.com
+0.0.0.0	qw.servicemount.com
+0.0.0.0	qw.serviceupdatter.com
+0.0.0.0	qw.sibalsakie.com
+0.0.0.0	qw.tiancaii.com
+0.0.0.0	qw.voiddas.com
+0.0.0.0	rt.cheapshhot.com
+0.0.0.0	rt.gungameon.com
+0.0.0.0	rt.gunsdrag.com
+0.0.0.0	rt.hybriqdjs.com
+0.0.0.0	rt.luckyhunterrs.com
+0.0.0.0	rt.quwasd.com
+0.0.0.0	rt.remotessa.com
+0.0.0.0	rt.secondlivve.com
+0.0.0.0	rt.sobcase.com
+0.0.0.0	rt.unlockwsa.com
+0.0.0.0	rx.raidbossa.com
+0.0.0.0	tasa.chalengges.com
+0.0.0.0	tt.vnuret.com
+0.0.0.0	tva.chalengges.com
+0.0.0.0	uj.errvghu.com
+0.0.0.0	un.reginds.com
+0.0.0.0	vb.cheapshhot.com
+0.0.0.0	vb.gungameon.com
+0.0.0.0	vb.gunsdrag.com
+0.0.0.0	vb.hybriqdjs.com
+0.0.0.0	vb.luckyhunterrs.com
+0.0.0.0	vb.quwasd.com
+0.0.0.0	vb.remotessa.com
+0.0.0.0	vb.secondlivve.com
+0.0.0.0	vb.sobcase.com
+0.0.0.0	vb.unlockwsa.com
+0.0.0.0	yn.bouths.com
+0.0.0.0	yn.gtrsqer.com
+0.0.0.0	ys.reginds.com
+0.0.0.0	zx.ayiyas.com
+0.0.0.0	zx.bithunterr.com
+0.0.0.0	zx.havemosts.com
+0.0.0.0	zx.lindasak.com
+0.0.0.0	zx.loockfinderrs.com
+0.0.0.0	zx.mountasd.com
+0.0.0.0	zx.puckhunterrr.com
+0.0.0.0	zx.raidbossa.com
+0.0.0.0	zx.rapirasa.com
+0.0.0.0	zx.servicemount.com
+0.0.0.0	zx.serviceupdatter.com
+0.0.0.0	zx.sibalsakie.com
+0.0.0.0	zx.tiancaii.com
+0.0.0.0	zx.voiddas.com
+#------------------------------------------------------
+# Additional Possible Ryuk Infrastructure
+# ThreatConnect Research identified several possible Ryuk domains based on consistencies with infrastructure identified in Incident 20200930A:     
+# Domains Registered Through MonoVM Used with Cobalt Strike. At least two of the domains were also identified in behavioral information for Cobalt Strike executables, similar to those in the aforementioned incident.
+# The domains' consistencies include naming similarities, registration through NameCheap, and reuse of the same CIDR blocks for hosting.
+# It should be noted that those consistencies are not unique and most of the identified infrastructure is not hosted on ASNs seen in the previous infrastructure and SSL certificates have not been created for most of the domains.
+# New SSL certificates or relevant malicious file behavior consistent with the previously identified infrastructure would help increase our confidence in the assessed relationship to Ryuk.
+# Source: https://otx.alienvault.com/pulse/5f8951f692b5498caff9170a
+
+# Domains
+backup1helper.com
+backup1master.com
+backup-helper.com
+backup-leader.com
+backup-simple.com
+bakcup-checker.com
+bakcup-monster.com
+best-backup.com
+best-nas.com
+bestservicehelper.com
+boost-servicess.com
+boost-yourservice.com
+checktodrivers.com
+driver1master.com
+driver1updater.com
+driverdwl.com
+godofservice.com
+nas-leader.com
+nas-simple-helper.com
+service1updater.com
+service-checker.com
+service-leader.com
+simple-backupbooster.com
+simpleservice-checker.com
+top3-services.com
+top-backuphelper.com
+top-backupservice.com
+topbackup-helper.com
+topbackupintheworld.com
+topservice-masters.com
+topservicebooster.com
+viewdrivers.com
+#------------------------------------------------------
+# Possible Ryuk Infrastructure iocs
+# Source: https://otx.alienvault.com/pulse/5f9d247933f8499cd068b75e
+
+# Domains
+ayiyas.com
+bithunterr.com
+cantliee.com
+chainnss.com
+chekingking.com
+giveasees.com
+hungrrybaby.com
+imagodd.com
+jonsonsbabyy.com
+lindasak.com
+loockfinderrs.com
+loxliver.com
+martahzz.com
+maybebaybe.com
+mountasd.com
+puckhunterrr.com
+raaidboss.com
+raidbossa.com
+rapirasa.com
+realgamess.com
+rulemonster.com
+saynoforbubble.com
+servicegungster.com
+shabihere.com
+sibalsakie.com
+sunofgodd.com
+tarhungangster.com
+tiancaii.com
+voiddas.com
+wondergodst.com
+zetrexx.com
+zhameharden.com
+
+# Hosts
+0.0.0.0	ad.cantliee.com
+0.0.0.0	ad.hungrrybaby.com
+0.0.0.0	ad.imagodd.com
+0.0.0.0	ad.maybebaybe.com
+0.0.0.0	ad.raaidboss.com
+0.0.0.0	ad.saynoforbubble.com
+0.0.0.0	ad.sunofgodd.com
+0.0.0.0	af.cantliee.com
+0.0.0.0	af.hungrrybaby.com
+0.0.0.0	af.imagodd.com
+0.0.0.0	af.maybebaybe.com
+0.0.0.0	af.raaidboss.com
+0.0.0.0	af.saynoforbubble.com
+0.0.0.0	af.sunofgodd.com
+0.0.0.0	as.ayiyas.com
+0.0.0.0	as.bithunterr.com
+0.0.0.0	as.cantliee.com
+0.0.0.0	as.chainnss.com
+0.0.0.0	as.hungrrybaby.com
+0.0.0.0	as.imagodd.com
+0.0.0.0	as.lindasak.com
+0.0.0.0	as.loockfinderrs.com
+0.0.0.0	as.maybebaybe.com
+0.0.0.0	as.mountasd.com
+0.0.0.0	as.puckhunterrr.com
+0.0.0.0	as.raaidboss.com
+0.0.0.0	as.raidbossa.com
+0.0.0.0	as.rapirasa.com
+0.0.0.0	as.saynoforbubble.com
+0.0.0.0	as.sibalsakie.com
+0.0.0.0	as.sunofgodd.com
+0.0.0.0	as.tiancaii.com
+0.0.0.0	as.voiddas.com
+0.0.0.0	bn.jonsonsbabyy.com
+0.0.0.0	bn.martahzz.com
+0.0.0.0	gh.jonsonsbabyy.com
+0.0.0.0	gh.martahzz.com
+0.0.0.0	gh.realgamess.com
+0.0.0.0	gh.wondergodst.com
+0.0.0.0	gh.zetrexx.com
+0.0.0.0	gh.zhameharden.com
+0.0.0.0	nm.shabihere.com
+0.0.0.0	qw.ayiyas.com
+0.0.0.0	qw.bithunterr.com
+0.0.0.0	qw.chainnss.com
+0.0.0.0	qw.lindasak.com
+0.0.0.0	qw.loockfinderrs.com
+0.0.0.0	qw.mountasd.com
+0.0.0.0	qw.puckhunterrr.com
+0.0.0.0	qw.raidbossa.com
+0.0.0.0	qw.rapirasa.com
+0.0.0.0	qw.sibalsakie.com
+0.0.0.0	qw.tiancaii.com
+0.0.0.0	qw.voiddas.com
+0.0.0.0	rx.raidbossa.com
+0.0.0.0	sm.shabihere.com
+0.0.0.0	ty.jonsonsbabyy.com
+0.0.0.0	ty.martahzz.com
+0.0.0.0	ty.realgamess.com
+0.0.0.0	ty.wondergodst.com
+0.0.0.0	ty.zetrexx.com
+0.0.0.0	ty.zhameharden.com
+0.0.0.0	zx.ayiyas.com
+0.0.0.0	zx.bithunterr.com
+0.0.0.0	zx.lindasak.com
+0.0.0.0	zx.loockfinderrs.com
+0.0.0.0	zx.mountasd.com
+0.0.0.0	zx.puckhunterrr.com
+0.0.0.0	zx.raidbossa.com
+0.0.0.0	zx.rapirasa.com
+0.0.0.0	zx.sibalsakie.com
+0.0.0.0	zx.tiancaii.com
+0.0.0.0	zx.voiddas.com
+#------------------------------------------------------
+# Ransomware Activity Targeting the Healthcare and Public Health Sector | CISA
+# Source: https://otx.alienvault.com/pulse/5f9c6c872a0ec59a96e4818a
+
+# Domains
+chishir.com
+h-isac.org
+kostunivo.com
+mangoclone.com
+onixcellent.com
+
+# Hosts
+0.0.0.0 www.isao.org
+0.0.0.0 www.nationalisacs.org
+#------------------------------------------------------
+# Ryuk Ransomware and Associated Threat Activity - Threat Actor UNC1878
+# This pulse contains a dump of IOCs from various sources related to the actor called UNC1878 and their campaigns delivering Ryuk ransomware, and cobalt strike. 
+# Source: https://otx.alienvault.com/pulse/5f99dd6b17da45dfb9dc296e
+
+# Domains
+aaatus.com
+actionshunter.com
+allrulk.com
+avenueofthewines.com
+avrenew.com
+ayechecker.com
+ayiyas.com
+backup1helper.com
+backup1master.com
+backup1service.com
+backup1services.com
+backup-helper.com
+backup-leader.com
+backup-simple.com
+backupmaster-service.com
+backupmasterservice.com
+backupmastter.com
+backupnas1.com
+backups1helper.com
+bakcup-checker.com
+bakcup-monster.com
+best-backup.com
+best-nas.com
+bestservicehelper.com
+besttus.com
+bigtus.com
+biliyilish.com
+bithunterr.com
+blackhoall.com
+boost-helper.com
+boost-servicess.com
+boost-yourservice.com
+boostsecuritys.com
+boostyourservice.com
+bouths.com
+brainschampions.com
+breezdesign.com
+bubl6g.com
+bugsbunnyy.com
+cantliee.com
+caonimas.com
+chainnss.com
+chalengges.com
+chaseltd.top
+cheapshhot.com
+check1domains.com
+check4list.com
+checkhunterr.com
+checktodrivers.com
+checkwinupdate.com
+chekingking.com
+chishir.com
+ciscocheckapi.com
+cleardefencewin.com
+cmdupdatewin.com
+comssite.com
+conceptinteriors.ae
+conhostservice.com
+cuprinc.com
+cylenceprotect.com
+daggerclip.com
+debug-service.com
+defenswin.com
+developmasters.com
+dghns.xyz
+dotmaingame.com
+driver1downloads.com
+driver1master.com
+driver1updater.com
+driver-boosters.com
+driverdwl.com
+driverjumper.com
+easytus.com
+eighteenthservicehelper.com
+eighthservicehelper.com
+eighthserviceupdater.com
+eithtservice-developer.com
+elephantdrrive.com
+eleventhservicehelper.com
+eleventhserviceupdater.com
+ericrause.com
+errvghu.com
+fastbloodhunter.com
+fifteenthservicehelper.com
+fifthservice-developer.com
+fifthservicehelper.com
+fifthserviceupdater.com
+findtus.com
+firstservice-developer.com
+firstserviceupdater.com
+firstservisehelper.com
+firsttus.com
+fotmailz.com
+fourservicehelper.com
+fourteenthservicehelper.com
+fourthservice-developer.com
+fourthserviceupdater.com
+freeallsafe.com
+freeoldsafe.com
+gameleaderr.com
+getinformationss.com
+giveasees.com
+greattus.com
+greenmountains.ae
+grumhit.com
+gtrsqer.com
+gungameon.com
+gunsdrag.com
+hakunaman.com
+hakunamatatata.com
+harddagger.com
+havemosts.com
+havesetup.net
+helpforyourservice.com
+hungrrybaby.com
+hunopk.xyz
+huntersservice.com
+hurrypotter.com
+hybriqdjs.com
+idrivecheck.com
+idrivedownload.com
+idrivedwn.com
+idrivefinder.com
+idrivehepler.com
+idriveupdate.com
+idriveview.com
+iexploreservice.com
+imagodd.com
+info-develop.com
+inremedia.com
+jomamba.best
+jonsonsbabyy.com
+kostunivo.com
+kungfupandasa.com
+labelcs.com
+lindasak.com
+livecheckpointsrs.com
+livetus.com
+lokoloppo4.com
+loockfinderrs.com
+loxliver.com
+lsassupdate.com
+lsasswininfo.com
+luckyhunterrs.com
+mangoclone.com
+maper.info
+martahzz.com
+maybebaybe.com
+microsoftupdateswin.com
+mitsuoka.co
+mixunderax.com
+mobile-fueldrain.co.uk
+mobilefueldoctor.co.uk
+moonshardd.com
+mountasd.com
+musicapuntocero.com
+myservicebooster.com
+myservicebooster.net
+myserviceconnect.net
+myserviceupdater.com
+myyserviceupdater.com
+nas-leader.com
+nas-simple-helper.com
+nasmastrservice.com
+newservicehelper.com
+nineteenthservicehelper.com
+ninethservice-developer.com
+ninethserviceupdater.com
+ninthservicehelper.com
+nomadfunclub.com
+onevdg.com
+onixcellent.com
+pori89g5jqo3v8.com
+puckhunterrr.com
+pudgeee.com
+qascker.com
+quwasd.com
+raaidboss.com
+raidbossa.com
+rapirasa.com
+razorses.com
+realgamess.com
+regbed.com
+reginds.com
+remotessa.com
+renovatesystem.com
+rulemonster.com
+saynoforbubble.com
+scrservallinst.info
+sebco.co.ke
+secondlivve.com
+secondservice-developer.com
+secondservicehelper.com
+secondserviceupdater.com
+sersd.xyz
+service1boost.com
+service1update.com
+service1updater.com
+service1view.com
+service-booster.com
+service-boosterr.com
+service-checker.com
+service-hel.com
+service-hellper.com
+service-helpes.com
+service-hunter.com
+service-leader.com
+service-updateer.com
+service-updater.com
+serviceboosterr.com
+serviceboostnumberone.com
+servicecheckerr.com
+servicedbooster.com
+servicedhunter.com
+servicedpower.com
+servicedupdater.com
+servicegungster.com
+servicehel.com
+servicehunterr.com
+servicemonsterr.com
+servicemount.com
+servicereader.com
+servicesbooster.com
+servicesbooster.org
+servicesecurity.org
+serviceshelpers.com
+serviceshelps.com
+servicesupdater.com
+serviceswork.net
+serviceupdates.net
+serviceupdatter.com
+serviceuphelper.com
+servicewikii.com
+seventeenthservicehelper.com
+seventhservice-developer.com
+seventhservicehelper.com
+seventhserviceupdater.com
+sexycservice.com
+sexyservicee.com
+shabihere.com
+shawigroup.com
+sibalsakie.com
+simple-backupbooster.com
+sixteenthservicehelper.com
+sixthservice-developer.com
+sixthservicehelper.com
+sixthserviceupdater.com
+sobcase.com
+sophosdefence.com
+sunofgodd.com
+supservupdate.com
+sweetmonsterr.com
+target-support.online
+tarhungangster.com
+taskshedulewin.com
+tenthservice-developer.com
+tenthservicehelper.com
+tenthserviceupdater.com
+thirdservice-developer.com
+thirdservicehelper.com
+thirdserviceupdater.com
+thirteenthservicehelper.com
+tiancaii.com
+timesshifts.com
+titlecs.com
+top3-services.com
+top3servicebooster.com
+top-backuphelper.com
+top-backupservice.com
+top-servicebooster.com
+top-serviceupdater.com
+topbackup-helper.com
+topbackupintheworld.com
+topsecurityservice.net
+topservice-masters.com
+topservicebooster.com
+topservicehelper.com
+topservicesbooster.com
+topservicesecurity.com
+topservicesecurity.net
+topservicesecurity.org
+topservicesupdate.com
+topservicesupdates.com
+topserviceupdater.com
+twelfthservicehelper.com
+twelvethserviceupdater.com
+twentiethservicehelper.com
+unlockwsa.com
+update-wind.com
+update-wins.com
+updatemanagir.us
+updatewinlsass.com
+updatewinsoftr.com
+view-backup.com
+viewdrivers.com
+vnuret.com
+voiddas.com
+web-analysis.live
+westurn.in
+windefenceinfo.com
+windefens.com
+winsysteminfo.com
+winsystemupdate.com
+wodemayaa.com
+wondergodst.com
+worldtus.com
+yourserviceupdater.com
+yoursuperservice.com
+zapored.com
+zetrexx.com
+zhameharden.com
+
+# Hosts
+0.0.0.0 ip.anysrc.net
+0.0.0.0 www.gmmfuelassist.co.uk
