@@ -1,0 +1,346 @@
+# TA551 IOCs
+# Cybercrime gangs are increase using the threat actor Shatak/TA551 template to spread malware with Office documents. 
+# From Ursnif/Gozi to IcedID, passing through Valak. It emerged in recent campaigns that are hitting many countries. 
+# Cyber security experts believe that this practice could be a trend. The attacks that exploit it in fact hit everywhere worldwide, from Europe (especially Italy and Germany) to the United States. 
+# Moreover, the template is used in many ways.
+# - Highly suspicious domains
+#
+# Source: https://otx.alienvault.com/user/343GuiltySpark/pulses
+#
+# UPDATED: 15-11-2020
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download.
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# ********************************************************************************************************************************************************************
+#---------------------------------------------------------------------------------------
+# Additional IcedID / Shathak / TA551 IOCs - 20 October 2020
+# Source: https://otx.alienvault.com/pulse/5f8ed52f98d6180e693b4d13
+
+# Domains
+defthebest.club
+elliekg.com
+gjcz2j8.com
+greerknees.top
+isolatedglubus.top
+ixrbph.com
+k8qdr07.com
+kleeslikreff.top
+luxcarlegend.club
+mwnb93z.com
+ossxj1.com
+pizzaeaters.top
+posipako.top
+rusoldat.click
+touchification.pw
+ud7vzlt.com
+xydf0m.com
+ym5zuxo.com
+zcbw6z7.com
+#---------------------------------------------------------------------------------------
+# Additional TA551 / Shathak / IcedID IOCs - 15 October 2020
+# Source: https://otx.alienvault.com/pulse/5f884cfa6d9da2deba878fa4
+
+# Domains
+akfumi.com
+aqdcyy.com
+ar99xc.com
+bn50bmx.com
+c7cyzl.com
+dsv3tk.com
+foud7v4.com
+h4dv4c1w.com
+huntysmally.top
+i5hibsc.com
+krwrf1.com
+mbc8xtc.com
+minishtab.cyou
+novemberdejudge.cyou
+osohc6.com
+pdtcgw.com
+qczpij.com
+smalleryurta.club
+sryvplanrespublican.cyou
+suddekaster.best
+t72876p.com
+tynupd.com
+vwofdq.com
+vx1sz8.com
+wqmxf8k.com
+xoxofuck.cyou
+yg2zdng.com
+#---------------------------------------------------------------------------------------
+# Thallium attacks, same template as TA551
+# Source: https://otx.alienvault.com/pulse/5f85b30b85e5af091b489f2b
+
+# Domains
+atwebpages.com
+getenjoyment.net
+medianewsonline.com
+myartsonline.com
+mygamesonline.org
+mypressonline.com
+onlinewebshop.net
+scienceontheweb.net
+sportsontheweb.net
+
+# Hosts
+0.0.0.0 busyday.atwebpages.com
+0.0.0.0 goldbin.myartsonline.com
+0.0.0.0 kenyanews.atwebpages.com
+#---------------------------------------------------------------------------------------
+# Additional IcedID/Shathak/TA551 IOCs - 24 Septemeber 2020
+# Source: https://otx.alienvault.com/pulse/5f6c886816048f4af4c8511e
+
+# Domains
+antologymaster.pw
+astedolo.asia
+b82uw6.com
+droidattac.cyou
+epgymd.com
+gswxig.com
+headtroller.pw
+lokopotio.pw
+m7zfuu.com
+mddgdia.com
+qtudtro.com
+smavellpolia.cyou
+sqgdzi.com
+vragafraga.beer
+vxsi5p2.com
+wertigohol.click
+#---------------------------------------------------------------------------------------
+# TA551/Shathak/IcedID additional IOCs - 18 September 2020
+# Source: https://otx.alienvault.com/pulse/5f64c01fd1d4316a4de55fe7
+
+# Domains
+c6ut9we.com
+g94ju4.com
+gaagachelo.cyou
+gjb3sd1.com
+ldrmercury.casa
+ldrstar.casa
+m6vtrk.com
+odnovoennbundes.cyou
+p3gcak.com
+pvi24bu.com
+ue4j6g.com
+xgsxdae.com
+#---------------------------------------------------------------------------------------
+# Shathak/IcedID/TA551 additional IOCs - 17 September 2020
+# Source: https://otx.alienvault.com/pulse/5f63310e74d23fc7fbeca72d
+
+# Domains
+ab94z0.com
+allpikoloserdzwe.cyou
+bl3cavy.com
+c1c2l0i.com
+cztixxy.com
+fffufk.com
+loadro3.casa
+loadwe4.casa
+obnaprimezert.cyou
+safj3ng.com
+sipmptomsledy.top
+sprbumazna.club
+swf1fas.com
+tq9kma.com
+uragapediculez.top
+vdnu32a.com
+vsav42a.com
+#---------------------------------------------------------------------------------------
+# Additional TA551 IOCs - 21 August 2020
+# Source: https://otx.alienvault.com/pulse/5f3fdfedcedefadd19614431
+
+# Domains
+rolifo23.top
+babafirst.top
+mintrillion.club
+thirdava.cyou
+cheapoilz.best
+vuv7s5k.com
+ty5uaq.com
+ehy2iyq.com
+apparatto.top
+c0sfgh.com
+wirrhb.com
+babafourth.club
+ltdcsz.com
+g8pf47.com
+musorru.top
+#---------------------------------------------------------------------------------------
+# 2020-08-18-TA551-IOCs-for-IcedID
+# Source: https://otx.alienvault.com/pulse/5f3ec01e2543cf84848ef391
+
+# Domains
+apparatto.top
+babafirst.top
+rolifo23.top
+c0sfgh.com
+ehy2iyq.com
+g8pf47.com
+thirdava.cyou
+vuv7s5k.com
+repository.click
+babafourth.club
+wirrhb.com
+mintrillion.club
+musorru.top
+ty5uaq.com
+ltdcsz.com
+cheapoilz.best
+#---------------------------------------------------------------------------------------
+# TA551 (Shathak) Word docs push IcedID (Bokbot)
+# Source: https://otx.alienvault.com/pulse/5f2d6455719f8b1d5d3f254a
+
+# Domains
+pt48tir.com
+northkorisla.co
+ed9fb4.com
+qazyaquanauti.co
+oyomc2z.com
+xk625lf.com
+j9b8q8.com
+osog5n.com
+vebk1x.com
+ch4ck0j.com
+sv51gh.com
+leaderfreeder.co
+dywb3va.com
+juveperdhue.top
+pncq6h.com
+scgi76.com
+#---------------------------------------------------------------------------------------
+# Evolution of Valak, from Its Beginnings to Mass Distribution (TA551)
+# Source: https://otx.alienvault.com/pulse/5f1e265b13d0276c7c53e863
+
+# Domains
+repository.click
+awh93dhkylps5ulnq-be.com
+sx-facemask.com
+c88gpm21qoal18bmk.com
+oaw5ibkcxru.com
+hzo0aut97bfu7zweb.com
+bbfjjf8.com
+klt9x5q3tj.com
+xcjhb30ton.com
+d9q944ord8l-tydx.com
+k4xqhb6u4fo.com
+v4x99v.com
+h6e2at7du07f7a2ip.com
+bdd1b2i68gj.com
+amc4we.com
+00otg18ixk6o8kows.com
+m4tz0of0xi8o3brr.com
+his3t35rif0krjkn.com
+ebh3zy1l0l66zt144-ph.com
+ft23fpcu5yabw2.com
+xumti39cg1kuf9t2y.com
+d7uap.com
+kuvk07l2dzj6wfc.com
+voaxd.com
+hlyctn2zx8zyjox1.com
+xljksdu.com
+tpc2snch0g7njxjq.com
+ws3adlfkm1.com
+wnrfa9y.com
+dy5x1.com
+nwwgbluv65j6g0xgr-xk.com
+j20d7b.com
+m8pwsczg0bbzw48j7.com
+pk3ehqmow0a.com
+l95dtz8.com
+lj2xwtcr7920v8.com
+bangrajan.org
+ya66lsx81lwxocgey.com
+u8pmg.com
+nbwvg2egflr8t2da1-wo.com
+rlb9lmt.com
+a8xui1akl9gjqucfa.com
+hges2gnmvvv8mv8yi.com
+zp9x80h.com
+gwn2649pm.com
+k1n3pxnd5e6x2h09a-df.com
+ttcfv.com
+je85oemozig2x4yq.com
+wfpyutf.com
+xolzrorth.com
+5u2mr.com
+k0llld9j.com
+bqoxits0mu0ga6aul.com
+gx6995.com
+hswawuo7c8axfxw3.com
+e2o4bd6sh2b1sjk56-fv.com
+f0hc7osjnl2vi61g.com
+j4abq17dqadmb4hz.com
+amgvgrlm2w41l2lt373.com
+58tiy.com
+e5ud9xh7fppe78y.com
+landcareus.com
+siicg8lgad.com
+le7dv4wry1qy0dozb-df.com
+v0rzpbu.com
+xsiv7v4qzjq6rdmpp.com
+2zvdoq8grm7vwed20-zz.com
+ls9areetm1cxszmsg-ck.com
+fdhwgm.com
+p7hne.com
+nrhlxbt9covscex9b.com
+gandael6.com
+j5sfioue15kxqs.com
+gr223t.com
+kzex9vp0jfw6a8up1.com
+eto9ve1.com
+m2mfbpsqgq0e2e20.com
+qqm9lv.com
+d6rc53.com
+qut6oga5219bf00e.com
+kwjqbk2fw9p8q5y.com
+mbzrrt.com
+se66ndx04fofu3sqv.com
+g7bxxcu.com
+eed9jqjd4b600bu2b-md.com
+grumnoud.com
+a4zy33hbmhxx70w9q.com
+herzqvtpb99m0cn.com
+turjaxqqzwyfzy6a.com
+pui4p.com
+dwniu8n.com
+c1vfsbk.com
+jzi0hc.com
+edszkas7gimk7v.com
+sktrutx.com
+g009clvp1l7.com
+gma7im.com
+ft6gw.com
+x0fopmxsq5y2oqud.com
+9bgnq.com
+iibb9j93k0z.com
+w0j3oq.com
+ws3lfkm.com
+a0enorc6of7.com
+qut69bf00e.com
+adersr4utx.com
+fz782ze.com
+e7xfxb.com
+vrsv2haqaq3xy6x.com
+c1j4xptyujjpyt8.com
+fw6rzlxc.com
+chersoicryss.com
+50pm4.com
+9nag0.com
+ihgd1u.com
+yfpyutf.com
+fepz41.com
+ebwz497.com
+ofxvp.com
+a9nq0z.com
+zs6eb.com
+m1rd9egxfxinnsoq.com
+xekolw77fzn-pwzb.com
+siicg8lgadurupkt.com
+
+# Hosts
+0.0.0.0 www.nasproje.com
