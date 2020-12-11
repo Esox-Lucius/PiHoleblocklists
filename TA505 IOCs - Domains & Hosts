@@ -1,0 +1,2026 @@
+# TA505 IOCs
+# @TA505, a well-established organised cybercrime group on the threat landscape, has continued its ongoing attack campaign into September. 
+# Malware used in this campaign includes SDBbot, Get2 Downloader, and GraceWire RAT. TA505 is also reportedly the operator of Clop ransomware.
+#
+# Source: https://otx.alienvault.com/user/343GuiltySpark/pulses - https://otx.alienvault.com/browse/global?section=All&q=TA505&include_inactive=0&sort=-modified&page=1&indicatorsSearch=modified:%22%22%20TA505
+# 
+# UPDATED: 31-10-2020
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download.
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# ********************************************************************************************************************************************************************
+#-------------------------------------------------------------------------
+# Ransomware IoCs targeting health sector by Microsoft (TA505)
+# Malware Family: TrickBot - S0266 
+# Source: https://otx.alienvault.com/pulse/5f9b61f73dce037ab0c2ec32
+
+# Domains
+ayiyas.com
+backup1helper.com
+backup1master.com
+backup1nas.com
+backup1service.com
+backup1services.com
+backup-helper.com
+backup-leader.com
+backup-simple.com
+backupmaster-service.com
+backupmasterservice.com
+backupmastter.com
+backupnas1.com
+backups1helper.com
+bakcup-checker.com
+bakcup-monster.com
+balanarr.com
+best-backup.com
+best-nas.com
+bestservicehelper.com
+biliyilish.com
+bithunterr.com
+blackhoall.com
+boost-servicess.com
+boost-yourservice.com
+bouths.com
+bugsbunnyy.com
+cantliee.com
+caonimas.com
+chainnss.com
+chalengges.com
+cheapshhot.com
+check1domains.com
+check4list.com
+checkhunterr.com
+checktodrivers.com
+chekingking.com
+daggerclip.com
+debug-service.com
+dotmaingame.com
+driver1downloads.com
+driver1master.com
+driver1updater.com
+driver-boosters.com
+driverdwl.com
+driverjumper.com
+elephantdrrive.com
+errvghu.com
+fastbloodhunter.com
+gameleaderr.com
+getinformationss.com
+giveasees.com
+glory76.com
+godofservice.com
+gtrsqer.com
+gungameon.com
+gunsdrag.com
+hakunaman.com
+harddagger.com
+havemosts.com
+hungrrybaby.com
+hurrypotter.com
+hybriqdjs.com
+imagodd.com
+jonsonsbabyy.com
+kungfupandasa.com
+lindasak.com
+loockfinderrs.com
+loxliver.com
+luckyhunterrs.com
+martahzz.com
+maybebaybe.com
+mixunderax.com
+moonshardd.com
+mountasd.com
+nas-helper.com
+nas-leader.com
+nas-simple-helper.com
+nasmasterservice.com
+nasmastrservice.com
+nomadfunclub.com
+numklo.xyz
+open1vpn.com
+puckhunterrr.com
+pudgeee.com
+qascker.com
+quwasd.com
+raaidboss.com
+raidbossa.com
+raingamess.com
+rapirasa.com
+razorses.com
+realgamess.com
+regbed.com
+reginds.com
+remotessa.com
+rulemonster.com
+saynoforbubble.com
+secondlivve.com
+service1booster.com
+service1update.com
+service1updater.com
+service1view.com
+service-boosterr.com
+service-boostter.com
+service-checker.com
+service-hel.com
+service-hellper.com
+service-leader.com
+serviceboosterr.com
+servicegungster.com
+servicehel.com
+servicemount.com
+servicemusthave.com
+servicereader.com
+servicesupdater.com
+serviceswork.net
+serviceupdatter.com
+servicewikii.com
+sh78bug.xyz
+shabihere.com
+sibalsakie.com
+simple-backupbooster.com
+sobcase.com
+sunofgodd.com
+sweetmonsterr.com
+tarhungangster.com
+tiancaii.com
+titlecs.com
+top3-services.com
+top3servicebooster.com
+top-backuphelper.com
+top-backupservice.com
+topbackup-helper.com
+topbackupintheworld.com
+topservice-masters.com
+topservicebooster.com
+toyotacamryy.com
+unlockwsa.com
+view-backup.com
+viewdrivers.com
+vnuret.com
+voiddas.com
+winserverad.com
+wodemayaa.com
+wondergodst.com
+zapored.com
+zetrexx.com
+zhameharden.com
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 14 September
+# Source: https://otx.alienvault.com/pulse/5f5f47770cf5bea756b11c93
+
+# Domains
+dropbox-cdnt.com
+near-back.com
+nels-ltd.com
+news-37876-mshome.com
+news-389767-mshome.com
+onedrives-live.com
+pssd-ltdgroup.com
+shortcut-links.com
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 3 September
+# Source: https://otx.alienvault.com/pulse/5f50f7bf34d2681be0afaeb3
+
+# Domains
+fosdommtoi.com
+onehub-cdn.com
+#-------------------------------------------------------------------------
+# TA505's September Campaign - 2 Sept 2020
+# Source: https://otx.alienvault.com/pulse/5f4f9c8ed4376fdbde1d627b
+
+# Domains
+365online-message-box.com
+one-drive-ms.com
+us-microsoft-store.com
+west-dat.com
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 27 August
+# Source: https://otx.alienvault.com/pulse/5f47aea5507c75226cde578f
+
+# Domains
+store-003774-live.com
+dropbox-cdns.com
+groms-dat.com
+toppon-studio.com
+store-000846-live.com
+#-------------------------------------------------------------------------
+# (TA505) - Complicated network of spam senders, call home endpoints, masking domains, multiple malware hashes
+# Source: https://otx.alienvault.com/pulse/5f10c1512cf56d2fa224e0b3
+
+# Domains
+onlwrk.in
+vtec.com
+deppcodis.com
+walterbed.fr
+whoislookupdb.com
+cigape.net
+dcdalbam4.com
+jamo.tv
+krier-alize.net
+svtec.com
+dirpy.com
+hidehref.com
+fiction-et-cie.fr
+ownsyjij.com
+uuidgdp.com
+maltego.as
+calling4you.com
+gifsdb.com
+novinitie.com
+bodisparking.com
+immo3clic.com
+cat3movie.com
+immo-reseau.pro
+nicline.com
+facile.com
+1111be.com
+qrcode.immo
+
+# Hosts
+0.0.0.0 www.proprietes-privees.org
+0.0.0.0 vadescure.speedtest.immo-facile.com
+0.0.0.0 img.expertbynet.fr
+0.0.0.0 prod.ac3-groupe.com
+0.0.0.0 immo3concept-vendeur.vadescure.immo-facile.com
+0.0.0.0 pop3.proprietes-privees.com
+0.0.0.0 vds-bluemind.media.immo-facile.com
+0.0.0.0 cabinet-couderc.vadescure.immo-facile.com
+0.0.0.0 loco.mailwatchspam.immo-facile.com
+0.0.0.0 cabinet-couderc.speedtest.immo-facile.com
+0.0.0.0 encheres.proprietes-privees.com
+0.0.0.0 img.auberge-du-lac.fr
+0.0.0.0 login.proprietes-privees.com
+0.0.0.0 ns-398.awsdns-49.com
+0.0.0.0 reporting.recette.fronts.mailwatchspam.immo-facile.com
+0.0.0.0 reporting.recette.fronts.vds-bluemind.immo-facile.com
+0.0.0.0 img.reflex-bi.com
+0.0.0.0 home.recette.fronts.immo3concept-vendeur.immo
+0.0.0.0 wiki.oryx-immobilier.com
+0.0.0.0 images.proprietes-privees.com
+0.0.0.0 identity.groupe-cassous.com
+0.0.0.0 orpi.recette.immo-facile.com
+0.0.0.0 vadescure.immo3concept-vendeur.immo-facile.com
+0.0.0.0 preprod.crm3.proprietes-privees.com
+0.0.0.0 mailwatchspam.vds-bluemind.immo-facile.com
+0.0.0.0 immo.ac3-distribution.com
+0.0.0.0 metabase.oryx-immobilier.com
+0.0.0.0 www.proprietes-privees.com
+0.0.0.0 speedtest.vadescure.immo-facile.com
+0.0.0.0 ganeti.proprietespriveesvm1.housing.isvtec.com
+0.0.0.0 wikifacile.immo-facile.net
+0.0.0.0 globe-preprod.pf.immo-facile.com
+0.0.0.0 prestige.proprietes-privees.com
+0.0.0.0 ww1.t10f.com
+0.0.0.0 loco.vds-bluemind.immo-facile.com
+0.0.0.0 immo3concept-vendeur.immo3concept-vendeur.immo-facile.com
+0.0.0.0 mail.proprietes-privees.com
+0.0.0.0 vds-bluemind.reporting.recette.fronts.immo-facile.com
+0.0.0.0 ns2.prodomaines.com
+0.0.0.0 vadescure.immo-facile.com
+0.0.0.0 dns.colonval.be
+0.0.0.0 preprod.ac3-groupe.com
+0.0.0.0 ns1.coloratutto.it
+0.0.0.0 mercure.oryx-immobilier.com
+0.0.0.0 immo3concept-vendeur.speedtest.immo-facile.com
+0.0.0.0 mailwatchspam.immo3concept-vendeur.immo-facile.com
+0.0.0.0 keycloak.preprod.oryx-immobilier.com
+0.0.0.0 multi-diff.fronts.immo-facile.com
+0.0.0.0 vds-bluemind.immo3concept-vendeur.immo
+0.0.0.0 izicom.proprietes-privees.com
+0.0.0.0 pf.immo-facile.com
+0.0.0.0 api.rdv-mandats.proprietes-privees.com
+0.0.0.0 cabinet-couderc.immo3concept-vendeur.immo-facile.com
+0.0.0.0 preprod.crm1.immo-reseau.com
+0.0.0.0 home.recette.fronts.vadescure.immo-facile.com
+0.0.0.0 using.isvtec.com
+0.0.0.0 ns1.drim.com
+0.0.0.0 mailwatchspam.vadescure.immo-facile.com
+0.0.0.0 ftp.24hvttcrapauds.com
+0.0.0.0 vds-bluemind.registry.immo-facile.com
+0.0.0.0 vadescure.cabinet-couderc.immo-facile.com
+0.0.0.0 immo3concept-vendeur.immo-facile.com
+0.0.0.0 ns-559.awsdns-05.net
+0.0.0.0 img.espace-lmnp.com
+0.0.0.0 ns1.prodomaines.com
+0.0.0.0 vadescure.registry.immo-facile.com
+0.0.0.0 preprod.marketplace.paradissimmo.com
+0.0.0.0 registry.registry.immo-facile.com
+0.0.0.0 home.recette.fronts.cabinet-couderc.immo-facile.com
+0.0.0.0 speedtest.immo-facile.com
+0.0.0.0 proprietesprivess-lb-tcp-171db2dab10b34ac.elb.eu
+0.0.0.0 globe-preprod.media.immo-facile.com
+0.0.0.0 transaction.stephaneplazaimmobilier.com
+0.0.0.0 photos.immo-facile.com
+0.0.0.0 rdo.immo-facile.com
+0.0.0.0 img.newsletter-crpcen.fr
+0.0.0.0 m.proprietes-privees.com
+0.0.0.0 preprod.immo-reseau.com
+0.0.0.0 www.paradissimmo.com
+0.0.0.0 loco.immo-facile.com
+0.0.0.0 reporting.recette.fronts.immo3concept-vendeur.immo-facile.com
+0.0.0.0 img.gestimum.com
+0.0.0.0 vds-bluemind.speedtest.immo-facile.com
+0.0.0.0 speedtest.media.immo-facile.com
+0.0.0.0 cabinet-couderc.reporting.recette.fronts.immo
+0.0.0.0 img.formation-industries-pdl.fr
+0.0.0.0 mailwatchspam.immo-facile.com
+0.0.0.0 preprod.encheres.proprietes-privees.com
+0.0.0.0 ftp.1paye1gratuit.com
+0.0.0.0 globe-preprod.speedtest.immo-facile.com
+0.0.0.0 reporting.recette.fronts.vadescure.immo-facile.com
+0.0.0.0 reporting.recette.fronts.cabinet-couderc.immo-facile.com
+0.0.0.0 ftp.1ville-1annonce.com
+0.0.0.0 preprod.proprietes-privees.com
+0.0.0.0 registry.immo3concept-vendeur.immo-facile.com
+0.0.0.0 recrutement.proprietes-privees.org
+0.0.0.0 event.proprietes-privees.com
+0.0.0.0 speedtest.registry.immo-facile.com
+0.0.0.0 pf.reporting.recette.fronts.immo-facile.com
+0.0.0.0 home.recette.fronts.immo-facile.com
+0.0.0.0 globe-preprod.immo3concept-vendeur.immo
+0.0.0.0 api.expanded.proprietes-privees.com
+0.0.0.0 keycloak.oryx-immobilier.com
+0.0.0.0 cabinet-couderc.immo-facile.com
+0.0.0.0 cabinet-couderc.registry.immo-facile.com
+0.0.0.0 evenement.proprietes-privees.com
+0.0.0.0 vadescure.vds-bluemind.immo-facile.com
+0.0.0.0 vadescure.reporting.recette.fronts.immo-facile.com
+0.0.0.0 smtp.proprietes-privees.com
+0.0.0.0 proprietespriveesvm1.housing.isvtec.com
+0.0.0.0 munki.groupe-cassous.com
+0.0.0.0 ftp.187gc.com
+0.0.0.0 speedtest.cabinet-couderc.immo-facile.com
+0.0.0.0 passimage.groupe-cassous.com
+0.0.0.0 loco.pf.immo-facile.com
+0.0.0.0 media.registry.immo-facile.com
+0.0.0.0 ns1.ericlhomme.com
+0.0.0.0 www6.t10f.com
+0.0.0.0 pf.cabinet-couderc.immo-facile.com
+0.0.0.0 img.sbc37.com
+0.0.0.0 immo3concept-vendeur.vds-bluemind.immo
+0.0.0.0 marketplace.immo-reseau.com
+0.0.0.0 mailwatchspam.immo3concept-vendeur.immo
+0.0.0.0 speedtest.vds-bluemind.immo-facile.com
+0.0.0.0 loco.speedtest.immo-facile.com
+0.0.0.0 img.apartner-it.com
+0.0.0.0 preprod.izicom.proprietes-privees.com
+0.0.0.0 www.r8y8.com
+0.0.0.0 loco.vadescure.immo-facile.com
+0.0.0.0 preprod.home.immo-reseau.com
+0.0.0.0 cabinet-couderc.media.immo-facile.com
+0.0.0.0 settings.fronts.immo-facile.com
+0.0.0.0 img.numen.fr
+0.0.0.0 speedtest.reporting.recette.fronts.immo-facile.com
+0.0.0.0 moneo1.housing.proprietespriveesvm1.housing.isvtec.com
+0.0.0.0 mail.azzato.eu
+0.0.0.0 formation.suptechimmo.com
+0.0.0.0 odns10.dns-server.fr
+0.0.0.0 ftp.1001bass.net
+0.0.0.0 ns1.derny.biz
+0.0.0.0 preprod.icom.immo-reseau.com
+0.0.0.0 pma.wordpress.immo-facile.com
+0.0.0.0 coaching.proprietes-privees.com
+0.0.0.0 vds-bluemind.pf.immo-facile.com
+0.0.0.0 crm.immo-reseau.com
+0.0.0.0 mailwatchspam.cabinet-couderc.immo-facile.com
+0.0.0.0 zimbravippp.immo-facile.com
+0.0.0.0 vemc.sytes.net
+0.0.0.0 dev.immo-facile.com
+0.0.0.0 v3.gercop-transac.net
+0.0.0.0 immo3concept-vendeur.reporting.recette.fronts.immo-facile.com
+0.0.0.0 v2.ericmey-office.com
+0.0.0.0 ftp.19streetdev.com
+0.0.0.0 www.paradisimmo.com
+0.0.0.0 registry.cabinet-couderc.immo-facile.com
+0.0.0.0 registry.immo-facile.com
+0.0.0.0 media.pf.immo-facile.com
+0.0.0.0 ns-1198.awsdns-21.org
+0.0.0.0 composer.api.immo-facile.com
+0.0.0.0 vds-bluemind.immo3concept-vendeur.immo-facile.com
+0.0.0.0 immo3concept-vendeur.registry.immo-facile.com
+0.0.0.0 home.recette.fronts.speedtest.immo-facile.com
+0.0.0.0 dns.4000m.pl
+0.0.0.0 evenement.immo-reseau.com
+0.0.0.0 traefik-prod.immo-facile.com
+0.0.0.0 img.news-antiguamedicalcaraibes.fr
+0.0.0.0 imap.immo-facile.com
+0.0.0.0 ftp.proprietes-privees.com
+0.0.0.0 img.aufildesmarques.com
+0.0.0.0 registry.vadescure.immo-facile.com
+0.0.0.0 pf.vadescure.immo-facile.com
+0.0.0.0 ns-1908.awsdns-46.co.uk
+0.0.0.0 registry.speedtest.immo-facile.com
+0.0.0.0 ftp.r8y8.com
+0.0.0.0 reporting.recette.fronts.reporting.recette.fronts.immo
+0.0.0.0 marketplace.paradissimmo.com
+0.0.0.0 cabinet-couderc.mailwatchspam.immo-facile.com
+0.0.0.0 pf.registry.immo-facile.com
+0.0.0.0 ns3128987.ip-51-68-38.eu
+0.0.0.0 immo3concept-vendeur.reporting.recette.fronts.immo
+0.0.0.0 loco.reporting.recette.fronts.immo-facile.com
+0.0.0.0 www.proprietespriveesvm1.housing.isvtec.com
+0.0.0.0 registry.reporting.recette.fronts.immo-facile.com
+0.0.0.0 globe-preprod.reporting.recette.fronts.immo-facile.com
+0.0.0.0 setup.mailify.com
+0.0.0.0 news.proprietes-privees.com
+0.0.0.0 pf.speedtest.immo-facile.com
+0.0.0.0 home.recette.fronts.mailwatchspam.immo-facile.com
+0.0.0.0 preprod.marketplace.immo-reseau.com
+0.0.0.0 www10.smartname.com
+0.0.0.0 r8y8.com.hbogo.ba
+0.0.0.0 monitoring.proprietespriveesvm1.housing.isvtec.com
+0.0.0.0 immo3concept-vendeur.immo3concept-vendeur.immo
+0.0.0.0 mailwatchspam.reporting.recette.fronts.immo-facile.com
+0.0.0.0 cabinet-couderc.reporting.recette.fronts.immo-facile.com
+0.0.0.0 intranet.groupe-cassous.com
+0.0.0.0 sing.isvtec.com
+0.0.0.0 vds-bluemind.vds-bluemind.immo-facile.com
+0.0.0.0 izitexto.proprietes-privees.com
+0.0.0.0 dns.explisite.eu
+0.0.0.0 dns2.namebay.com
+0.0.0.0 tds.it.fsi.io
+0.0.0.0 registry.vds-bluemind.immo-facile.com
+0.0.0.0 img.axaluxembourg.lu
+0.0.0.0 pf.pf.immo-facile.com
+0.0.0.0 imap.proprietes-privees.com
+0.0.0.0 custemail-mail1.housing.proprietespriveesvm1.housing.isvtec.co
+0.0.0.0 proprietesprivees-vm1.isvtec.net
+0.0.0.0 ns1.99phosting.com
+0.0.0.0 www.t10f.com
+0.0.0.0 ftp.19-75.com
+0.0.0.0 passbolt.oryx-immobilier.com
+0.0.0.0 mail1.housing.proprietespriveesvm1.housing.isvtec.co
+0.0.0.0 reporting.recette.fronts.reporting.recette.fronts.immo-facile.com
+0.0.0.0 immo3concept-vendeur.cabinet-couderc.immo
+0.0.0.0 preprod.paradissimmo.com
+0.0.0.0 img.axelliance.com
+0.0.0.0 ssl.groupe-cassous.com
+0.0.0.0 www.groupe-cassous.com
+0.0.0.0 img.newsletter.proprietes-privees.com
+0.0.0.0 mailwatchspam.registry.immo-facile.com
+0.0.0.0 preprod.home.oryx-immobilier.com
+0.0.0.0 globe-preprod.vadescure.immo-facile.com
+0.0.0.0 pf.mailwatchspam.immo-facile.com
+0.0.0.0 immo3concept-vendeur.pf.immo-facile.com
+vdev.groupe-cassous.com
+0.0.0.0 registry.media.immo-facile.com
+0.0.0.0 loco.media.immo-facile.com
+0.0.0.0 admin-1.ac3-distribution.com
+0.0.0.0 eagle.kwfrance.com
+0.0.0.0 svrdev.proprietes-privees.com
+0.0.0.0 mail1.housing.proprietespriveesvm1.housing.isvtec.com
+0.0.0.0 vadescure.media.immo-facile.com
+0.0.0.0 home.fronts.immo-facile.com
+0.0.0.0 reporting.recette.fronts.registry.immo-facile.com
+0.0.0.0 proprietesprivees-vm2.isvtec.net
+0.0.0.0 preprod.crm1.proprietes-privees.com
+0.0.0.0 mdm.groupe-cassous.com
+0.0.0.0 reporting.recette.fronts.pf.immo-facile.com
+0.0.0.0 navidis1.housing.proprietespriveesvm1.housing.isvtec.com
+0.0.0.0 img.customizedurl.com
+0.0.0.0 loco.cabinet-couderc.immo-facile.com
+0.0.0.0 home.recette.fronts.immo3concept-vendeur.immo-facile.com
+0.0.0.0 mailwatchspam.pf.immo-facile.com
+0.0.0.0 ns11.chtizz.fr
+0.0.0.0 stats.proprietes-privees.com
+0.0.0.0 pf.vds-bluemind.immo-facile.com
+0.0.0.0 home.recette.fronts.media.immo-facile.com
+0.0.0.0 paste.proprietespriveesvm1.housing.isvtec.com
+0.0.0.0 v2.immo-facile.com
+0.0.0.0 ftp.24heures-legende.com
+0.0.0.0 ip193.ip-51-77-249.eu
+0.0.0.0 setting.fronts.immo-facile.com
+0.0.0.0 globe-preprod.immo-facile.com
+0.0.0.0 vendeur.immo-facile.com
+0.0.0.0 vadesecure.proprietes-privees.com
+0.0.0.0 ns1.4host.cc
+0.0.0.0 vadescure.mailwatchspam.immo-facile.com
+0.0.0.0 ns1.cursossanitarios.com
+0.0.0.0 www.immo-facile.com
+0.0.0.0 mailwatchspam.reporting.recette.fronts.immo
+0.0.0.0 izidata.proprietes-privees.com
+0.0.0.0 dns1.namebay.com
+0.0.0.0 vds-bluemind.immo-facile.com
+0.0.0.0 svrprod.proprietes-privees.com
+0.0.0.0 mercure.preprod.oryx-immobilier.com
+0.0.0.0 proprietesprivees-crm.isvtec.net
+0.0.0.0 globe-preprod.registry.immo-facile.com
+0.0.0.0 vds-bluemind.vadescure.immo-facile.com
+0.0.0.0 vds-bluemind.mailwatchspam.immo-facile.com
+0.0.0.0 vadescure.vadescure.immo-facile.com
+0.0.0.0 registry.mailwatchspam.immo-facile.com
+0.0.0.0 reporting.recette.fronts.media.immo-facile.com
+0.0.0.0 ftp.106consult.com
+0.0.0.0 ftp.138crimee.fr
+0.0.0.0 ns2.rovahost.co.ke
+0.0.0.0 proprietesprivees1.housing.proprietespriveesvm1.housing.is
+0.0.0.0 zimbraguyhoquet.immo-facile.com
+0.0.0.0 speedtest.pf.immo-facile.com
+0.0.0.0 backup7.proprietespriveesvm1.housing.isvtec.com
+0.0.0.0 immo3concept-vendeur.cabinet-couderc.immo-facile.com
+0.0.0.0 vadescure.pf.immo-facile.com
+0.0.0.0 custemail-mail1.housing.proprietespriveesvm1.housing.isvtec.com
+0.0.0.0 globe-preprod.cabinet-couderc.immo-facile.com
+0.0.0.0 speedtest.speedtest.immo-facile.com
+0.0.0.0 cloud-sqh.immo-facile.com
+0.0.0.0 ftp.2abassociates.com
+0.0.0.0 mailwatchspam.speedtest.immo-facile.com
+0.0.0.0 webmail.immo-facile.com
+0.0.0.0 wiki.immo-facile.net
+0.0.0.0 immo3concept-vendeur.vds-bluemind.immo-facile.com
+0.0.0.0 img.news-les-perles.com
+0.0.0.0 www1.proprietes-privees.org
+0.0.0.0 preprod.evenement.immo-reseau.com
+0.0.0.0 vds-bluemind.cabinet-couderc.immo-facile.com
+0.0.0.0 notification.fronts.immo-facile.com
+0.0.0.0 registry.pf.immo-facile.com
+0.0.0.0 preprod.crm.immo-reseau.com
+0.0.0.0 test.immo-reseau.com
+0.0.0.0 ww6.t10f.com
+0.0.0.0 pf.media.immo-facile.com
+0.0.0.0 img.sbc33.com
+0.0.0.0 osm.immo-facile.com
+0.0.0.0 rdsovh.groupe-cassous.com
+0.0.0.0 speedtest.immo3concept-vendeur.immo-facile.com
+0.0.0.0 preprod.nuxt.immo-reseau.com
+0.0.0.0 crm.proprietes-privees.com
+0.0.0.0 pdf-api.immo-facile.com
+0.0.0.0 immo3concept-vendeur.media.immo-facile.com
+0.0.0.0 reporting.fronts.immo-facile.com
+0.0.0.0 preprod.home.proprietes-privees.com
+0.0.0.0 loco.immo3concept-vendeur.immo-facile.com
+0.0.0.0 backup15.proprietespriveesvm1.housing.isvtec.com
+0.0.0.0 img.sbc38.com
+0.0.0.0 setup.trustinstaller.com
+0.0.0.0 marketplace.proprietes-privees.com
+0.0.0.0 ns2.4host.cc
+0.0.0.0 immocloud-web.immo-facile.com
+0.0.0.0 ensembleintervm1.housing.proprietespriveesvm1.housing.is
+0.0.0.0 reporting.recette.fronts.speedtest.immo-facile.com
+0.0.0.0 icom.immo-reseau.com
+0.0.0.0 preprod.sf3.evenement.immo-reseau.com
+0.0.0.0 immo3concept-vendeur.immo3concept-vendeur.immo-immo3concept-vendeur.mailwatchspam.immo-facile.com
+0.0.0.0 reporting.recette.fronts.immo3concept-vendeur.immo
+0.0.0.0 mailwatchspam.media.immo-facile.com
+0.0.0.0 abitaweb.immo-facile.com
+0.0.0.0 wildcard-in-use.immo-facile.com
+0.0.0.0 pf.immo3concept-vendeur.immo-facile.com
+0.0.0.0 speedtest.mailwatchspam.immo-facile.com
+0.0.0.0 vpn.groupe-cassous.com
+0.0.0.0 immo3concept-vendeur.mailwatchspam.immo-facile.com
+0.0.0.0 dns.explisite.com
+0.0.0.0 cabinet-couderc.cabinet-couderc.immo-facile.com
+0.0.0.0 globe-preprod.mailwatchspam.immo-facile.com
+0.0.0.0 ip135.ip-176-31-92.eu
+0.0.0.0 globe-preprod.vds-bluemind.immo-facile.com
+0.0.0.0 www.domainchecktool.net
+0.0.0.0 admin.immo-facile.com
+0.0.0.0 setup.sarbacane.com
+0.0.0.0 media.immo-facile.com
+0.0.0.0 reporting.recette.fronts.cabinet-couderc.immo
+0.0.0.0 media.reporting.recette.fronts.immo-facile.com
+0.0.0.0 globe-preprod.immo3concept-vendeur.immo-facile.com
+0.0.0.0 72655.bodis.com
+0.0.0.0 azweupub.hbogo.eu
+0.0.0.0 business.proprietes-privees.com
+0.0.0.0 reporting.recette.fronts.mailwatchspam.immo
+0.0.0.0 mailwatchspam.mailwatchspam.immo-facile.com
+0.0.0.0 cabinet-couderc.vds-bluemind.immo-facile.com
+0.0.0.0 cabinet-couderc.immo3concept-vendeur.immo
+0.0.0.0 loco.registry.immo-facile.com
+0.0.0.0 ftp.1440etcie.com
+0.0.0.0 img.sbc36.com
+0.0.0.0 preprod.izitexto.proprietes-privees.com
+0.0.0.0 cabinet-couderc.pf.immo-facile.com
+0.0.0.0 reporting.recette.fronts.immo-facile.com
+0.0.0.0 ns2.drim.com
+0.0.0.0 immo3concept-vendeur.mailwatchspam.immo
+0.0.0.0 home.recette.fronts.vds-bluemind.immo-facile.com
+0.0.0.0 www.arab-life.com
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 26 August
+# Source: https://otx.alienvault.com/pulse/5f4649b68d54476ce83140d8
+
+# Domains
+filesharess.com
+near-fast.com
+box-cdn.com
+first-destin.com
+#-------------------------------------------------------------------------
+# TA505 August 2020 Campaign
+# Source: https://otx.alienvault.com/pulse/5f2af3438e6633b8cd59afac
+
+# Domains
+direct-space.com
+nellscorp.com
+mop-shere.com
+definite-limits.com
+none-class.com
+river-store.com
+tremd-space.com
+band-switch.com
+long-space.com
+transff-reddon.com
+siron-del.com
+digitals-space.com
+one-drives.com
+see-back.com
+store-000846-live.com
+store-003774-live.com
+backup-place.com
+onesdrives.com
+
+# Hosts
+0.0.0.0 dl.river-store.com
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 20 August 2020
+# Source: https://otx.alienvault.com/pulse/5f3e7596cc9de694ad2e0c50
+
+# Domains
+decor8.ie
+tenchfishingworld.co.uk
+oiseau-perdu.fr
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs
+# Source: https://otx.alienvault.com/pulse/5f3d3867f6a2ccb84c4f4e19
+
+# Domains
+scgis.co.uk
+siron-del.com
+cumc-hmb.com
+digitals-space.com
+jesamcorp.com
+smitt.nl
+diaita.ch
+theswimshop.co.za
+dorianbaroque.org
+blackbass.mx
+madeleinekrook.nl
+tsbm.ch
+
+# Hosts
+0.0.0.0 redir9.alteabz.it
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs
+# Source: https://otx.alienvault.com/pulse/5f36772e803b6c0facebefd8
+
+# Domains
+transff-reddon.com
+long-space.com
+
+# Hosts
+0.0.0.0 dw.long-space.com
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 13 August 2020
+# Source: https://otx.alienvault.com/pulse/5f351445b9da8d55bfebefd8
+
+# Domains
+us-microsoft-store.com
+oca-telemetry-microsoft.com
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 11 August
+# Source: https://otx.alienvault.com/pulse/5f327b68cb86bdbf0d040844
+
+# Domains
+none-class.com
+archifaktura.hu
+#-------------------------------------------------------------------------
+# Latest TA505 IOCs - 10 July 2020
+# Source: https://otx.alienvault.com/pulse/5f085ab91df691e721c3ef11
+
+# Domains
+main-boost.com
+personal-dss.com
+service-get.com
+
+# Hosts
+0.0.0.0 d3904.fast-bits.com
+0.0.0.0 d0012.fast-bits.com
+#-------------------------------------------------------------------------
+# TA505 August campain
+# Source: https://otx.alienvault.com/pulse/5f2bd098376c101c8dc45360
+
+# Domains
+direct-space.com
+yhti.net
+definite-limits.com
+mop-shere.com
+
+# Hosts
+0.0.0.0 dl14028.direct-space.com
+
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs
+# Source: https://otx.alienvault.com/pulse/5f2bde398c9270e74b447399
+
+# Domains
+direct-space.com
+
+# Hosts
+0.0.0.0 dl74501.direct-space.com
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 7 August 20
+# Source: https://otx.alienvault.com/pulse/5f2d18cd96da624efaab17d8
+
+# Domains
+none-class.com
+river-store.com
+
+# Hosts
+0.0.0.0 dl.river-store.com
+#-------------------------------------------------------------------------
+# TA505 August 2020 Campaign
+# Source: https://otx.alienvault.com/pulse/5f2ba7eaa6181edf58b4b4e5
+
+# Domains
+direct-space.com
+nellscorp.com
+#-------------------------------------------------------------------------
+# ServHelper: Hidden Miners (TA505)
+# Source: https://otx.alienvault.com/pulse/5f0ebb2744fc0103d9183031
+
+# Domains
+asggh554tgahhr.pw
+nsggh554tgahhr.pw
+sgahugu4ijgji.xyz
+esggh554tgahhr.pw
+dfsgu747hugr.pw
+safuuf7774.pw
+romashka.cn
+gabardina.xyz
+losos.cn
+almagel.icu
+rotoscoping.xyz
+sggh554tgahhr.pw
+kuarela.xyz
+hsggh554tgahhr.pw
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 11 June
+# Source: https://otx.alienvault.com/pulse/5ee23843493f18d1f48023dd
+
+# Domains
+s77657453-onedrive.com
+s89065339-onedrive.com
+sdff-corp.com
+def-update.com
+
+# Hosts
+0.0.0.0 dl-037746476.sl-downloads.com
+0.0.0.0 dl-876636623.sl-downloads.com
+#-------------------------------------------------------------------------
+# TA505 June 2020 Campaign
+# Source: https://otx.alienvault.com/pulse/5ed6792bbc276d41051ed969
+
+# Domains
+fasts-downloads.com
+corp-storage.com
+reselling-corp.com
+filessz.com
+rmt-downloads.com
+sharefileszz.com
+store-downloads.com
+downloads-links.com
+shr-links.com
+sdff-corp.com
+eu-download.com
+def-update.com
+nffsd-corp.com
+md-downloads.com
+ex-downloads.com
+wire-share.com
+mgrs-service.com
+data-downloads.com
+dropboxscdn.com
+get-hlinks.com
+dropboxccdn.com
+rapid-stores.com
+fast-gl-backups.com
+dropboxwcdn.com
+ex-stores.com
+dropboxrcdn.com
+alpha-telemetry-microsoft.com
+usr-telemetry-microsoft.com
+google-us-cdn.com
+google-eu-cdn.com
+mira-store.com
+direct-share.com
+global-downloads.com
+limo-ones.com
+personal-dss.com
+fast-bits.com
+
+# Hosts
+0.0.0.0 dl-008653.fasts-downloads.com
+0.0.0.0 dl-013749.fasts-downloads.com
+#-------------------------------------------------------------------------
+# TA505 CLOP Ransomware attack indicators
+# Source: https://otx.alienvault.com/pulse/5f02f791b1ab29bcd04e03d8
+
+# Domains
+limo-ones.com
+
+# Hosts
+0.0.0.0 dl2.global-downloads.com
+0.0.0.0 dl1.global-downloads.co
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 1 July 2020
+# Source: https://otx.alienvault.com/pulse/5efc6e552212bd0d30bb3349
+
+# Domains
+music-server17-facebook.com
+mira-store.com
+music-server11-facebook.com
+usr-telemetry-microsoft.com
+alpha-telemetry-microsoft.com
+direct-upt.com
+
+# Hosts
+0.0.0.0 drive.google-us-cdn.com
+0.0.0.0 shr-9466488.direct-share.com
+0.0.0.0 drive.google-eu-cdn.com
+0.0.0.0 shr-0746734.direct-share.com
+0.0.0.0 app.boxrcdn.com
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 16 June 2020
+# Source: https://otx.alienvault.com/pulse/5ee8cc7e8334f3f07fd21a72
+
+# Domains
+ex-downloads.com
+wire-share.com
+
+# Hosts
+0.0.0.0 dl8643.ex-downloads.com
+0.0.0.0 dl4435.ex-downloads.com
+#-------------------------------------------------------------------------
+# OSINT - TA505 Group Adopts New ServHelper Backdoor and FlawedGrace RAT
+# Source: https://otx.alienvault.com/pulse/5ee33865b0122b6f746b9fbe
+
+# Domains
+arepos.bit
+dedsolutions.bit
+#-------------------------------------------------------------------------
+# TA505 ongoing campaign - 8 June 2020
+# Source: https://otx.alienvault.com/pulse/5ede180a53be71d67bcc455a
+
+# Domains
+ivvsx.com
+shr-links.com
+sdff-corp.com
+
+# Hosts
+0.0.0.0 dl-036544.store-downloads.com
+0.0.0.0 dl-05378523.eu-download.com
+0.0.0.0 dl-09756546.eu-download.com
+0.0.0.0 dl-675423.store-downloads.com
+#-------------------------------------------------------------------------
+# TA505
+# Source: https://otx.alienvault.com/pulse/5ed76817cf912d1462acfaee
+
+# Domains
+filessz.com
+
+# Hosts
+0.0.0.0 dl-675423.store-downloads.com
+0.0.0.0 dl-00954.rmt-downloads.com
+0.0.0.0 dl-05678.rmt-downloads.com
+0.0.0.0 dl-036544.store-downloads.com
+0.0.0.0 dl-013749.fasts-downloads.com
+0.0.0.0 dl-008653.fasts-downloads.com
+#-------------------------------------------------------------------------
+# TA505 June 2020 Campaign
+# Source: https://otx.alienvault.com/pulse/5ed75e16e7e9c91af8acfaee
+
+# Domains
+fasts-downloads.com
+corp-storage.com
+reselling-corp.com
+
+# Hosts
+0.0.0.0 dl-008653.fasts-downloads.com
+0.0.0.0 dl-013749.fasts-downloads.com
+#-------------------------------------------------------------------------
+# TA505 are back - malicious redirects from compromised domains to drop malware
+# Source: https://otx.alienvault.com/pulse/5ed666bb9cff7dbb843f48b0
+
+# Domains
+corp-storage.com
+
+# Hosts
+0.0.0.0 dl-013749.fasts-downloads.com
+0.0.0.0 dl-008653.fasts-downloads.com
+#-------------------------------------------------------------------------
+# TA505 COVID-19 Phishing Lures
+# Source: https://otx.alienvault.com/pulse/5ea10eb33286a8c22476cf6c
+
+# Domains
+	i-sharecloud.com
+#-------------------------------------------------------------------------
+# TA505 Continues to Infect Networks With SDBbot RAT
+# Source: https://otx.alienvault.com/pulse/5e96d26f73bd9596a702bf87
+
+# Domains
+microsoft-live-us.com
+drm-server-booking.com
+
+# Hosts
+0.0.0.0 dl1.sync-share.com
+#-------------------------------------------------------------------------
+# Multiple TA505 campaigns
+# Source: 
+
+# Domains
+update365-office-ens.com
+windows-several-update.com
+office365-update-en-gb.com
+office365-en-gb.com
+windows-dev-sec.com
+windows-update-02-en.com
+office-teml-en.com
+office365-update-eu.com
+office365-update-en.com
+windows-wsus-en.com
+windows-sys-update.com
+onedrive-sdn.com
+googledrive-en.com
+windows-msd-update.com
+windows-fsd-update.com
+windows-update-sdbt.com
+windows-wsus-eu.com
+windows-se-update.com
+windows-me-update.com
+windows-upgrade-en.com
+office365-eu-update.com
+office365-us-update.com
+onedrive-download.com
+onedrive-download-en.com
+windows-en-us-update.com
+dropbox-en.com
+windows-afx-update.com
+windows-wsus-update.com
+windows-service-en.com
+dropbox-er.com
+windows-update-sys.com
+onedrive-us-en.com
+windows-office365.com
+syncdownloading.com
+office-en-service.com
+googledrive-download.com
+dropbox-download-eu.com
+dropbox-download.com
+microsoft-online-en-us.com
+cdn-onedrive-live.com
+onedrive-en-live.com
+onedrive-sn.com
+onedrive-fn.com
+onedrive-sd.com
+dropbox-sdn.com
+onedrive-en.com
+microsoft-live-us.com
+sync-share.com
+microsoft-hub-us.com
+box-en.com
+box-cnd.com
+onehub-en.com
+microsoft-cnd-en.com
+onedrive-live-en.com
+microsoft-cnd.com
+box-en-au.com
+microsoft-store-en.com
+sharefile-cnd.com
+windows-service-us.com
+jp-microsoft-store.com
+sharefiles-en.com
+boxfiles-en.com
+sharefiles-eu.com
+sharefile-us.com
+msonebox.com
+online-office365.com
+microsoft-home-en.com
+live-en.com
+windows-appstore-en.com
+onms-home.com
+upgrade-ms-home.com
+onedrive-en-eu.com
+onedrive-eu.com
+geo-st-microsoft.com
+ms-en-microsoft.com
+ms-global-store.com
+fileshare-cdn.com
+xbox-en-cnd.com
+share-stores.com
+fileshare-storage.com
+selling-group.com
+reselling-corp.com
+integer-ms-home.com
+general-lcfd.com
+one-drive-storage.com
+share-downloading.com
+global-logic-stl.com
+studio-stlsdr.com
+shared-download.com
+store-in-box.com
+files-downloads.com
+stt-box.com
+download-shares.com
+clouds-share.com
+microsoft-store-drm-server.com
+clouds-doanload-cnd.com
+cloud-store-cdn.com
+microsoft-sback-server.com
+one-drive-ms.com
+wpad-home.com
+mainten-ferrum.com
+shared-cnd.com
+live-cnd.com
+live-msr.com
+ms-break.com
+download-cdn.com
+ms-home-store.com
+fileshare-cdns.com
+sharefiles-download.com
+ms-upgrades.com
+cdn-box.com
+home-storages.com
+dl-sharefile.com
+ms-rdt.com
+dl-sync.com
+microsoft-ware.com
+owncloud-cdn.com
+clouds-cdn.com
+glr-ltd.com
+int-download.com
+att-download.com
+share-clouds.com
+rdmsom.com
+shares-cloud.com
+into-box.com
+cdn-downloads.com
+shares-cdns.com
+tnrff-home.com
+dl-icloud.com
+get-downloads.com
+sharespoint-en.com
+i-sharecloud.com
+dysoool.com
+stat-downloads.com
+onedrives-en-live.com
+clietns-download.com
+static-downloads.com
+clients-share.com
+mays-ltd.com
+getlink-service.com
+dyn-downloads.com
+
+# Hosts
+0.0.0.0 ddf-08.onedrive-sdn.com
+0.0.0.0 dl3.onedrive-us-en.com
+0.0.0.0 dl2.onedrive-us-en.com
+0.0.0.0 my.sharespoint-en.com
+#-------------------------------------------------------------------------
+# TA505 targets germany
+# Source: https://otx.alienvault.com/pulse/5e75017d6c0f9c1f0fd008c0
+
+# Domains
+juristlex.com
+#-------------------------------------------------------------------------
+# TA505 joins the party - coronavirus phishing lures
+# Source: https://otx.alienvault.com/pulse/5e68ccc321bd494b84b48495
+
+# Domains
+i-sharecloud.com
+
+# Hosts
+0.0.0.0 www.0202.com.tw
+#-------------------------------------------------------------------------
+# Multiple TA505 attack campaigns
+# Source: https://otx.alienvault.com/pulse/5e32e664ff328fe10cb6a63a
+
+# Domains
+update365-office-ens.com
+windows-service-en.com
+office365-update-en-gb.com
+syncdownloading.com
+live-en.com
+ms-global-store.com
+onehub-en.com
+office365-eu-update.com
+xbox-en-cnd.com
+office365-us-update.com
+windows-several-update.com
+office-en-service.com
+windows-appstore-en.com
+share-stores.com
+sync-share.com
+sharefile-us.com
+microsoft-home-en.com
+shared-download.com
+windows-update-sys.com
+onedrive-en-eu.com
+windows-upgrade-en.com
+box-cnd.com
+windows-service-us.com
+global-logic-stl.com
+office365-update-eu.com
+dropbox-er.com
+googledrive-en.com
+windows-sys-update.com
+one-drive-storage.com
+store-in-box.com
+microsoft-online-en-us.com
+cdn-onedrive-live.com
+microsoft-store-en.com
+onedrive-sn.com
+onedrive-sd.com
+onedrive-en-live.com
+studio-stlsdr.com
+boxfiles-en.com
+sharefiles-en.com
+ms-en-microsoft.com
+fileshare-cdn.com
+reselling-corp.com
+windows-update-02-en.com
+onms-home.com
+dropbox-download.com
+office365-update-en.com
+integer-ms-home.com
+onedrive-live-en.com
+general-lcfd.com
+microsoft-cnd.com
+office-teml-en.com
+box-en-au.com
+googledrive-download.com
+windows-wsus-en.com
+box-en.com
+upgrade-ms-home.com
+jp-microsoft-store.com
+sharefile-cnd.com
+geo-st-microsoft.com
+windows-wsus-eu.com
+online-office365.com
+sharefiles-eu.com
+windows-wsus-update.com
+onedrive-download.com
+msonebox.com
+microsoft-hub-us.com
+onedrive-eu.com
+windows-dev-sec.com
+office365-en-gb.com
+onedrive-en.com
+windows-afx-update.com
+microsoft-cnd-en.com
+dropbox-sdn.com
+dropbox-en.com
+share-downloading.com
+windows-me-update.com
+onedrive-fn.com
+fileshare-storage.com
+dropbox-download-eu.com
+windows-fsd-update.com
+windows-msd-update.com
+microsoft-live-us.com
+windows-office365.com
+windows-se-update.com
+download-shares.com
+onedrive-download-en.com
+windows-en-us-update.com
+windows-update-sdbt.com
+
+# Hosts
+0.0.0.0 cdn-de-0691.clouds-share.com
+0.0.0.0 dl1.sharefiles-en.com
+0.0.0.0 dl2.sharefiles-en.com
+0.0.0.0 dl3.sharefiles-en.com
+0.0.0.0 cdn-en-0334.clouds-share.com
+0.0.0.0 ddf-08.onedrive-sdn.com
+0.0.0.0 dl2.onedrive-us-en.com
+0.0.0.0 dl1.onedrive-us-en.com
+0.0.0.0 dl3.onedrive-us-en.com
+#-------------------------------------------------------------------------
+# TA505 attack campaign against an unknown Laboratory
+# Source: https://otx.alienvault.com/pulse/5e32e264b6cbe31f75b6a63a
+
+# Domains
+40ticketmaster.com.au
+stt-box.com
+selling-group.com
+files-downloads.com
+secure-53.com
+
+# Hosts
+0.0.0.0 dl3.sharefiles-en.com
+0.0.0.0 dl2.sharefiles-en.com
+0.0.0.0 dl1.sharefiles-en.com
+0.0.0.0 cdn-de-0691.clouds-share.com
+0.0.0.0 cdn-en-0334.clouds-share.com
+#-------------------------------------------------------------------------
+# TA505 IOCs linked to use of Cobalt Strike exploitation tool
+# Source: https://otx.alienvault.com/pulse/5e552d710a345c30b09e1679
+
+# Domains
+mays-ltd.com
+
+# Hosts
+0.0.0.0 app-0029.att-download.com
+0.0.0.0 cdn-server.int-download.com
+0.0.0.0 cdn-007538.share-clouds.com
+0.0.0.0 cdn-004734.share-clouds.com
+0.0.0.0 app-0947.att-download.com
+#-------------------------------------------------------------------------
+# Most Likely TA505 Domain Using DNSpod Name Servers
+# Source: https://otx.alienvault.com/pulse/5dd2da0615a3634fdb888562
+
+# Domains
+microsoft-cnd.com
+tuftonmotors.com
+microsoft-store-en.com
+box-en-au.com
+online-office365.com
+windows-service-us.com
+dropbox-cdn.com
+live-en.com
+sharefile-cnd.com
+ms-home-live.com
+msonebox.com
+jp-microsoft-store.com
+sharefiles-en.com
+onms-home.com
+remoted.icu
+office365msbox.com
+g50e.com
+iluj.in
+staler.se
+office365-en-gb.com
+adobeonlinecdn.co
+windows-wsus-en.com
+esetcdnserver.icu
+2by7.com
+orderlynet.net
+microsoftoffice365box.com
+officeservice365.com
+slemend.com
+elienne.net
+office365-en-update.com
+theonly365office.com
+arepos.bit
+safegross.com
+thesystem-alarm.xyz
+ms365box.com
+the-systemsecures.xyz
+workingsolutionsrome.org
+windows-update-sdfw.com
+kramerleonard.com
+gcnhqshn.pw
+clievland.pw
+luchies.com
+rostelekom.pw
+nivans.pro
+nagomi-753.jp
+dsntu.top
+dsfk3322442fr44446g.icu
+update365-office-ens.com
+engast.top
+nettubex.top
+e-commerce-shop.com
+zonaykan.com
+virusssystemsalert.xyz
+windows-cnd-update.com
+office365-update-eu.com
+bullettruth.com
+office365id.com
+box365msmicrosoft.com
+office365onlinehome.com
+krans.nl
+hinessite.com
+myofficeboxsupport.com
+idoffice365.com
+officemysuppbox.com
+officemsbox365.com
+agdshnjdi.xyz
+box365office.com
+datdepot.net
+makosoft.hu
+nanepashemet.com
+btmurl.xyz
+traveser.net
+aureliostefaniniarte.com
+office365addons.com
+shortag.icu
+lancehugginsltd.co.uk
+update-msoffice365.com
+365boxoffice.com
+mybox365ms.com
+kiserma.pw
+office365online.net
+mshomebox365.com
+rff3faafefw.pw
+huseyinyucel.com.tr
+fonetorap.com
+windows-msd-update.com
+homeofficepage.com
+stelar.icu
+trailerbla.icu
+fakers.co.jp
+reandol.pw
+stalpina.com
+trictac.com
+home365box.com
+adobeupdate.co
+msboxoffice.com
+virus-system-alert.xyz
+handous.net
+furhatsth.net
+office365idstore.com
+cdpet.org
+office365ms.com
+office365homeboxmx.com
+f67i.com
+vairina.top
+digitalinvoicing.net
+ulda.com
+solsin.top
+rayshash.com
+bigpresense.top
+adobeonlinecdn.net
+microsoftbox365.com
+checksolutions.bit
+bascif.com
+7hg6.com
+officesupportbox.com
+amnsns.com
+g78k.com
+adobeonlineid.com
+greenthumbsup.jp
+n57u.com
+ldtfair.top
+turl.icu
+globe-trotterltd.com
+4y6f.com
+ogallar.com
+windows-update-sdbt.com
+krselectrical.co.uk
+jbswin.net
+servicebox365office.com
+canyoning-austria.at
+clippersonly.icu
+kupitorta.net
+joisff333.icu
+korpla.co.kr
+offices365mssupport.com
+gohaiendo.com
+waiireme.com
+adobeonlinecdn.com
+kreewalk.com
+kreslousak.cz
+main365office.com
+cmarcite.net
+carpc.si
+dedsolutions.bit
+tares.nl
+i86h.com
+aasdkkkdsa3442.icu
+medastr.com
+lecmess.top
+windows-wsus-eu.com
+office365suppurt.com
+kosmetolodzy.com
+cathits.net
+asgdscc.pw
+towerprod3.com
+adobeupdate.net
+officehomems.com
+office365online.co
+local365office.com
+velquene.net
+goodfood.co.jp
+office-teml-en.com
+shanakaplan.com
+office365-update-en.com
+r48t.com
+offficebox.com
+cdn-onedrive-live.com
+office365homedep.com
+jsmatrix.icu
+the-systems-security.xyz
+update-ms-en-office365.com
+adobeupdt.com
+store365office.com
+textilerestoration.co.uk
+perlinisystems.com
+t69c.com
+365boxms.com
+citroenmehari.dk
+statesdr.top
+adobeupdt.net
+cjsebbelov.dk
+
+# Hosts
+0.0.0.0 dl2.onedrive-live-en.com
+0.0.0.0 dl3.onedrive-live-en.com
+0.0.0.0 dl1.onedrive-live-en.com
+0.0.0.0 ns1.domain-imminent3.com
+0.0.0.0 cdf2.box-en-au.com
+0.0.0.0 cdf1.box-en-au.com
+0.0.0.0 cdf3.box-en-au.com
+0.0.0.0 dl1.sharefiles-eu.com
+0.0.0.0 dl2.sharefiles-eu.com
+0.0.0.0 dl3.sharefiles-eu.com
+0.0.0.0 dl1.sharefile-us.com
+0.0.0.0 dl3.sharefile-us.com
+0.0.0.0 dl2.sharefile-us.com
+0.0.0.0 en001.dropbox-cnd.com
+0.0.0.0 cn008.dropbox-cnd.com
+0.0.0.0 en002.dropbox-cnd.com
+0.0.0.0 cn007.dropbox-cnd.com
+0.0.0.0 app1.boxfiles-en.com
+0.0.0.0 app2.boxfiles-en.com
+0.0.0.0 app3.boxfiles-en.com
+0.0.0.0 app4.boxfiles-en.com
+0.0.0.0 www.pa.airnet.ne.jp
+0.0.0.0 toocoolaisha.bravepages.com
+0.0.0.0 tinkerspots.bravepages.com
+0.0.0.0 sscvl.fcpages.com
+0.0.0.0 pack301.bravepages.com
+0.0.0.0 operasanpiox.bravepages.com
+0.0.0.0 lindasconley.bravepages.com
+0.0.0.0 lidovemilice.unas.cz
+0.0.0.0 dp45320398.lolipop.jp
+0.0.0.0 counciloflight.bravepages.com
+0.0.0.0 amenyan.zouri.jp
+0.0.0.0 www.specsrv.pw
+0.0.0.0 www.sysupdts.pw
+0.0.0.0 cdn-003.dropbox-download.com
+0.0.0.0 www.windows-several-update.com
+0.0.0.0 www.afsafasdarm.icu
+0.0.0.0 www.protset.pw
+0.0.0.0 www.windows-update-01-en.com
+0.0.0.0 www.facebook-drm-server.com
+0.0.0.0 www.vinomag.pw
+0.0.0.0 cmf-006.googledrive-en.com
+0.0.0.0 www.hitterda.icu
+0.0.0.0 www.suppl.icu
+0.0.0.0 smn-001.onedrive-cdn.com
+0.0.0.0 www.en-gb-facebook.com
+0.0.0.0 www.office365-update-en-gb.com
+0.0.0.0 smn-002.onedrive-cdn.com
+0.0.0.0 mail.thenewsletter.xyz
+0.0.0.0 cmf-005.googledrive-en.com
+0.0.0.0 www.reporta.pw
+0.0.0.0 www.versiliaradi.it
+0.0.0.0 mail.rabtmw.xyz
+0.0.0.0 www.rasggagadfa.pw
+0.0.0.0 www.soletto-poletto.com
+0.0.0.0 www.google-analtyic.com
+0.0.0.0 www.hidserterm.ml
+0.0.0.0 www.portos.icu
+0.0.0.0 www.gidjshrvz.xyz
+0.0.0.0 mail.cumenpolim.icu
+0.0.0.0 www.setgo.pw
+0.0.0.0 www.afgdhjkrm.pw
+0.0.0.0 www.sysav.pw
+0.0.0.0 www.winserver.icu
+0.0.0.0 kdqtq.administrationcalm.icu
+0.0.0.0 www.rgozxzvdfa.pw
+0.0.0.0 www.checksolutions.ml
+0.0.0.0 www.asgaage.pw
+0.0.0.0 www.agfssr.xyz
+0.0.0.0 www.ref345.icu
+0.0.0.0 www.ma.mctv.ne.jp
+0.0.0.0 www.izu.co.jp
+0.0.0.0 ddf-09.onedrive-sdn.com
+0.0.0.0 cdn-004.dropbox-download.com
+0.0.0.0 www.arhhaderm.pw
+0.0.0.0 www.arhidsfderm.pw
+0.0.0.0 www.cc9.ne.jp
+0.0.0.0 www.sofet.pw
+0.0.0.0 www.thenewsletter.xyz
+0.0.0.0 www.checksolutions.pw
+0.0.0.0 mail.glbtmow.xyz
+0.0.0.0 mail.administrationcalm.icu
+0.0.0.0 www.cdnavupdate.icu
+0.0.0.0 www.updateavsystems.pw
+0.0.0.0 www.dedoshop.pw
+0.0.0.0 www.windows-dev-sec.com
+0.0.0.0 www.updateavsystems.ml
+0.0.0.0 www.elast.pw
+0.0.0.0 www.vesecase.com
+0.0.0.0 ehj.administrationcalm.icu
+0.0.0.0 www.secureav.pw
+0.0.0.0 www.windows-update-02-en.com
+0.0.0.0 www.esupdate.icu
+0.0.0.0 www.pointsoft.pw
+0.0.0.0 www.kmpg.icu
+0.0.0.0 www.rgdsghhdfa.pw
+#-------------------------------------------------------------------------
+# TA505 evolves ServHelper, uses Predator The Thief and Team Viewer Hijacking
+# Source: https://otx.alienvault.com/pulse/5dfcfffe67cf6fca9b9c290c
+
+# Domains
+iluj.in
+jpiluj.in
+nagomi-753.jp
+elast.pw
+solsin.top
+appmakosoft.hu
+fakers.co.jp
+microsoftsyncservice.biz
+test-service012505.com
+koppepan.app
+0141koppepan.com
+newfolder2-service.space
+greenthumbsup.jp
+nanepashemet.com
+windows-several-update.com
+windows-update-02-en.com
+makosoft.hu
+office365onlinehome.com
+bigpresense.top
+fakers.co
+kentona.su
+cafafafa.xyz
+letitbe.icu
+0926tv.xyz
+foxlnklnk.xyz
+gabardine.xyz
+artrolife.club
+supremeconnect.xyz
+soul-fly.xyz
+kuarela.xyz
+
+# Hosts
+0.0.0.0 ltd.dbaimena.ua
+0.0.0.0 redmond.corp-microsoft.com
+#-------------------------------------------------------------------------
+# Most Likely TA505 Domain Using DNSpod Name Servers
+# Source: https://otx.alienvault.com/pulse/5dcd47c5cc416dcd5a6283fa - https://otx.alienvault.com/pulse/5dcd48628cac6b27ea4224f8
+
+# Domains
+microsoft-cnd-en.com
+
+# Hosts
+0.0.0.0 dl1.box-cnd.com
+0.0.0.0 dl2.box-cnd.com
+0.0.0.0 dl3.box-cnd.com
+0.0.0.0 ws3.onehub-en.com
+0.0.0.0 ws2.onehub-en.com
+0.0.0.0 ws1.onehub-en.com
+#-------------------------------------------------------------------------
+# TA505 Activity
+# Source: https://otx.alienvault.com/pulse/5dc8af0d48aeb3358f7083f2
+
+# Domains
+microsoft-hub-us.com
+
+# Hosts
+0.0.0.0 app3.box-en.com
+0.0.0.0 app2.box-en.com
+0.0.0.0 app1.box-en.com
+#-------------------------------------------------------------------------
+# TA505 spoofed domain - ThreatConnect Research identified two additional domains most likely associated with TA505 activity that were registered later on October 24 2019
+# Source: https://otx.alienvault.com/pulse/5db9f915889ad0ffa30d5c6d
+
+# Domains
+windows-update-sys.com
+windows-office365.com
+windows-service-en.com
+drm-server-booking.com
+windows-wsus-update.com
+windows-afx-update.com
+microsoft-live-us.com
+
+# Hosts
+0.0.0.0 dl3.dropbox-download-eu.com
+0.0.0.0 dl1.onedrive-us-en.com
+0.0.0.0 dl2.onedrive-us-en.com
+0.0.0.0 dl3.onedrive-us-en.com
+0.0.0.0 dl1.dropbox-download-eu.com
+0.0.0.0 dl2.dropbox-download-eu.com
+0.0.0.0 dl2.dropbox-er.com
+0.0.0.0 dl1.dropbox-er.com
+0.0.0.0 dl3.dropbox-er.com
+0.0.0.0 dl2.onedrive-sn.com
+0.0.0.0 dl3.onedrive-sn.com
+0.0.0.0 dl1.onedrive-sn.com
+0.0.0.0 dw3.dropbox-eu.com
+0.0.0.0 dw1.dropbox-eu.com
+0.0.0.0 cdn2.onedrive-sd.com
+0.0.0.0 dw2.dropbox-eu.com
+0.0.0.0 cdn1.onedrive-sd.com
+0.0.0.0 cdn3.onedrive-sd.com
+0.0.0.0 dl2.sync-share.com
+0.0.0.0 dl3.sync-share.com
+0.0.0.0 dl1.sync-share.com
+0.0.0.0 dl3.own-eu-cloud.com
+0.0.0.0 dl1.own-eu-cloud.com
+0.0.0.0 dl2.own-eu-cloud.com
+#-------------------------------------------------------------------------
+# Active TA505 Campaigns
+# Source: https://otx.alienvault.com/pulse/5dad976536418494e8540014
+
+# Domains
+vtjxjkndo.club
+onedrive-cdn.com
+office365-update-eu.com
+dropbox-download.com
+windows-msd-update.com
+windows-fsd-update.com
+
+# Hosts
+0.0.0.0 cdn-003.dropbox-download.com
+0.0.0.0 www.dropbox-download.com
+0.0.0.0 cdn-004.dropbox-download.com
+0.0.0.0 smn-001.onedrive-cdn.com
+0.0.0.0 down.vtjxjkndo.club
+#-------------------------------------------------------------------------
+# TA505 Distributes New SDBbot Remote Access Trojan with Get2 Downloader
+# Source: https://otx.alienvault.com/pulse/5da719a5ca8d0afb2368f4ef
+
+# Domains
+drm-server13-login-microsoftonline.com
+windows-cnd-update.com
+windows-se-update.com
+#-------------------------------------------------------------------------
+# TA505 Campaign Targeting European Retailers
+# Source: https://otx.alienvault.com/pulse/5d78ebce59f5a9525bf66f01
+
+# Domains
+update365-office-ens.com
+#-------------------------------------------------------------------------
+# TA505 Targets Retailers
+# Source: https://otx.alienvault.com/pulse/5d74b099f1612053b3c19a41
+
+# Domains
+applebankoaofamelc.ml
+mangersecurityheleprservice.com
+officesupportbox.com
+chaseservericaserlaertsse.ml
+officemysuppbox.com
+applesforcustmer.net
+onlineservicebanofamericaservice.tk
+amazonservericaseracalerts.tk
+serviceboaalertssofamerica.ga
+comcasrerserc.ga
+boaserivaalertsnitoa.ml
+upgradeclduodplans.com
+scureamazo.com
+alertsonlineb.site
+serviceofamericasecousre.ml
+serveicealbanofamericase.com
+bankofamerica-re.tk
+servicesingnaletboa.com
+amazonalertsservice.net
+boaseerviceid.com
+boaserviceraletst.cf
+onlineservicebanofamericaservice.ml
+scureamazonsec.com
+appleicloudeservice.net
+appleserverisa.link
+serviceboaalertssofamerica.ml
+servicealerts.net
+servivwgofamerica.com
+registriatirigonhernew.gq
+wellserfromgnd.ml
+serviceerboaofamericasercila.tk
+appleicloudeservice.com
+banofameriservice.com
+servicuiwells.com
+comcastserviceaatinfo.tk
+wellsservicessu.com
+sercvbnofamericaalertss.ml
+alertsofamericaservice.org
+ofamericasertcercenterserverices.ga
+sercvboaof.com
+alertsonlineb.info
+servicapplecustomers.ga
+servicealerts.website
+appleredierect.net
+office365advance.com
+comcastserivei.com
+amazonalertsservice.com
+wellsfinfpupadet.ml
+sericasboaofamericasercrboa.tk
+secureredirectonline.com
+servicboas.com
+bofamericaservicealertscusto.tk
+comcasrerserc.tk
+applesergalertsatmcustmer.com
+servviceappleaccounts.net
+appserrverlinkalert.com
+bankodamericaser.cf
+iclinstructstorge.com
+serveicealbanofamericase.net
+wellfaservicealerts.tk
+bof-apiservicesalert.tk
+bof-1apiservicesalert.ml
+support-your-accounet.tk
+boalserricersvierfay.tk
+appleservicesficloude.com
+verifed-account-896628153.com
+service-pp.xyz
+serviceralertboaserv.com
+serviceboa.online
+wellsfinfpupadet.ga
+secureservicesercures.cf
+amazonsecuve.com
+chasservice.com
+wellserfercfgtoserivcer.cf
+boalserricersvierfay.cf
+boaservicertalak.com
+servicealertsonline.site
+serviceralertsdecuom.net
+serviceboa.com
+appstoreservices.com
+serverboaservice.cf
+accountservice.link
+confirmyurstclod.com
+scureloginactiveamazo.com
+comcstserricer.tk
+appleservicealerts.tk
+applesicloudeser.com
+service-alert.link
+coxservicealertscoxser.tk
+servicesingnvboa.com
+servicebankofamericaseralerts.tk
+appleidservcer.net
+servicerofamericaservice.tk
+applseraiaase.com
+servicboaservicesupoboa.ga
+servicealerts.club
+boaservicalonotiservicesa.tk
+bankodamericaser.tk
+applebankoaofamelc.ga
+bof-1apiservicesalert.tk
+amazonservericaseracalerts.ml
+serviceboaalertssofamerica.tk
+bankofamericabofa.ml
+alertsofamericaservice.net
+wellsfarfoisservice.com
+sercvboaof.net
+secure-alert.email
+bankofamericaservicese.cf
+service-boaofamerica.cf
+applesergalertsatmcustmer.net
+serveraserasalero.ml
+registriatirigonhernew.ga
+bankfoaemrica.ml
+servicealertsofservi.net
+icloudserviceate.com
+applecsertcas.ga
+serviboaalertsacess.ga
+secureredirectonline.net
+appleicloudeservice.org
+banksofamericaservice.com
+apleid-store.ga
+appleseritealerts.tk
+appteammores.com
+servicefargoserc.com
+appleidservcer.com
+service-boaserive.ml
+boaalertsnotifationsservc.cf
+appleservicesficloude.org
+serviceralertsamazonservice.com
+comcstconnect.cf
+servicewallweralerts.tk
+serveriaos.com
+bofasserserivcersa.ga
+servicebankofamericaseralerts.cf
+servicboaservicesupoboa.ml
+servicesellsfargoservice.com
+appleseritealerts.ml
+icloudserviceate.casa
+serviceboaamerica.cf
+servicebankofamericas.com
+serviceralertsdecuom.com
+boaserivaalertsnitoa.tk
+service-boaserive.cf
+appleidcustomersaer.com
+chasepnlineba.com
+regisrtwellsfasrgoserla.tk
+serviscesecuusreserc.cf
+servicealoneapple.com
+servicealerts.site
+appleidservcer.org
+sericasboaofamericasercrboa.cf
+icloudserviceate.net
+servicerofamericaservice.ga
+ofamericasertcercenterserverices.cf
+applesecurityservcer.net
+servicewallweralerts.ml
+icloudserviceate.org
+applesforcustomers.com
+appstrmorestrge.com
+amazonservicesaeqwec.com
+boaofamerica-serviceas.cf
+applesrtskila.com
+microsoftoffice365box.com
+boaofamerica-serviceas.tk
+serviceonlineidcustomer.com
+icloudserviceate.nl
+iclostoreservsubs.com
+bankofamerica-reactivte.ml
+service-boaofamerica.ml
+appleidcustomersaer.net
+servericaseralertsforaccou.net
+bankooferamerico.ml
+serviceralertsamazonservice.net
+chaseservericaserlaertsse.tk
+servicerofamericaservice.ml
+secureamaz.com
+upgradeoffice365.com
+bankooferamerico.cf
+bankodamericaser.ml
+servicealerts.online
+serviceboaserser.com
+comcasservicealerts.ga
+sercvbnofamericaalertss.tk
+mystorageappsteam.com
+comcastertiser.tk
+#-------------------------------------------------------------------------
+# TA505 At It Again: Variety is the Spice of ServHelper and FlawedAmmyy
+# Source: https://otx.alienvault.com/pulse/5d64fbc282c35637154029fd
+
+# Domains
+senddocs.icu
+krselectrical.co.uk
+armyoffers.com
+korpla.co.kr
+towerprod3.com
+coreapc.co.kr
+fonetorap.com
+lotmoji.com
+nonestored.com
+stalpina.com
+fakers.co.jp
+stelar.icu
+
+# Hosts
+0.0.0.0 www.pa.airnet.ne.jp
+0.0.0.0 runpen.dothome.co.kr
+0.0.0.0 backdoor.win32.flawedammy.aq
+0.0.0.0 trojan.w97m.flawedammy.ad
+0.0.0.0 www.izu.co.jp
+0.0.0.0 www.fedexdocs.icu
+0.0.0.0 hukumaru.nobody.jp
+0.0.0.0 www.fedexdocs.top
+0.0.0.0 www.ma.mctv.ne.jp
+#-------------------------------------------------------------------------
+# New TA505 Malware: Gelup and FlowerPippi
+# Source: https://otx.alienvault.com/pulse/5d260e194ee4ee3edd4bd34a
+
+# Domains
+nivans.pro	
+workingsolutionsrome.org	
+kramerleonard.com
+lancehugginsltd.co.uk
+ogallar.com
+aureliostefaniniarte.com	
+cdpet.org
+nanepashemet.com
+iluj.in	
+kosmetolodzy.com
+safegross.com
+staler.se
+engast.top
+nagomi-753.jp
+ulda.com
+makosoft.hu	
+handous.net
+cjsebbelov.dk
+bascif.com
+shortag.icu
+jbswin.net
+trictac.com
+bigpresense.top
+luchies.com
+carpc.si
+e-commerce-shop.com
+orderlynet.net
+huseyinyucel.com.tr
+
+# Hosts
+0.0.0.0 runpen.dothome.co.kr
+0.0.0.0 operasanpiox.bravepages.com
+0.0.0.0 lidovemilice.unas.cz
+0.0.0.0 sscvl.fcpages.com
+0.0.0.0 dp45320398.lolipop.jp
+0.0.0.0 pack301.bravepages.com
+0.0.0.0 counciloflight.bravepages.com
+0.0.0.0 www.versiliaradi.it
+#-------------------------------------------------------------------------
+# TA505
+# Source: https://otx.alienvault.com/pulse/5d21d5c4f40ebfbe71824460
+
+# Domains
+kreewalk.com
+bigpresense.top
+cathits.net
+bascif.com
+nettubex.top
+cmarcite.net
+#-------------------------------------------------------------------------
+# TA505 using new malware Gelup and Flowerpipi
+# Source: https://otx.alienvault.com/pulse/5d1e22a82ecd4fa614684a6e
+
+# Domains
+kreewalk.com
+bigpresense.top
+cathits.net
+bascif.com
+nettubex.top
+cmarcite.net
+#-------------------------------------------------------------------------
+# Breaking Down TA505 Groups Use of HTML and RATs
+# Source: https://otx.alienvault.com/pulse/5d00f923684ce2bac6dd094c
+
+#  Domains
+billyjimmyer.top
+fjiisiis33.icu
+dannysannyer.top
+statesdr.top
+vairina.top
+topdalescotty.top
+lecmess.top
+govhotel.us
+tommyhalfigero.top
+houusha33.icu
+angelmariotti.xyz
+#-------------------------------------------------------------------------
+# TA505
+# Source: https://otx.alienvault.com/pulse/5aa7f19b54a7961e61da7e1d
+
+#Domains
+cfecgcaquitaine.com
+balzantruck.com
+buyviagraoverthecounterusabb.net
+chimachinenow.com
+highlandfamily.org
+motifahsap.com
+sittalhaphedver.com
+wassronledorhad.in
+dnspod.com
+dnspod.cn
+inawagner.de
+mosbussum.nl
+
+# Hosts
+0.0.0.0 www.chimachinenow.com
+0.0.0.0 www.highlandfamily.org
+0.0.0.0 www.buyviagraoverthecounterusabb.net
+0.0.0.0 www.wassronledorhad.in
+0.0.0.0 www.balzantruck.com
+0.0.0.0 intra.cfecgcaquitaine.com
+0.0.0.0 a.dnspod.com
+0.0.0.0 b.dnspod.com
+0.0.0.0 blog.dnspod.com
+0.0.0.0 c.dnspod.com
+0.0.0.0 dm.dnspod.com
+0.0.0.0 ns2.dnspod.com
+0.0.0.0 static.dnspod.com
+0.0.0.0 url.dnspod.com
+0.0.0.0 whois.dnspod.com
+0.0.0.0 www.dnspod.com
+0.0.0.0 api.dnspod.com
+0.0.0.0 blog.dnspod.cn
+0.0.0.0 domains.dnspod.cn
+0.0.0.0 ec.dnspod.cn
+0.0.0.0 libs.dnspod.cn
+0.0.0.0 m.dnspod.cn
+0.0.0.0 monitor.dnspod.cn
+0.0.0.0 monitor.dnspod.com
+0.0.0.0 ssl.ptlogin2.dnspod.cn
+0.0.0.0 stat.dnspod.cn
+0.0.0.0 statics.dnspod.cn
+0.0.0.0 support.dnspod.cn
+0.0.0.0 support.dnspod.com
+0.0.0.0 tickets.dnspod.cn
+0.0.0.0 tickets.dnspod.com
+0.0.0.0 www.dnsapi.cn
+0.0.0.0 www.dnspod.cn
+0.0.0.0 ptlogin2.dnspod.cn
+0.0.0.0 www.bdns.at
+0.0.0.0 www.bdns.by
+0.0.0.0 www.bdns.bz
+0.0.0.0 www.bdns.co
+0.0.0.0 www.bdns.im
+0.0.0.0 www.bdns.io
+0.0.0.0 www.bdns.name
+0.0.0.0 www.bdns.us
+#-------------------------------------------------------------------------
+# TA505
+# Source: https://otx.alienvault.com/pulse/5c3c791fdf12881af75a4595
+
+# Domains
+afgdhjkrm.pw
+arhidsfderm.pw
+asgaage.pw
+checksolutions.pw
+dedoshop.pw
+dedsolutions.bit
+offficebox.com
+office365onlinehome.com
+officemysuppbox.com
+rgoianrdfa.pw
+sghee.pw
+vesecase.com
