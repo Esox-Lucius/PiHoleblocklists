@@ -1,0 +1,45 @@
+# TA2552 IOCs - Domains & Hosts
+# https://www.proofpoint.com/us/blog/threat-insight/ta2552-uses-oauth-access-token-phishing-exploit-read-only-risks
+# Source: https://otx.alienvault.com/user/343GuiltySpark/pulses
+#
+# UPDATED 09-10-2020
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download.
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+# TA2552 Uses OAuth Access Token Phishing to Exploit Read-Only Risks
+# Source: https://otx.alienvault.com/pulse/5f74a49bc85684b52d86ea23
+
+# Domains
+16720s.xyz
+akglass.in
+al-thawiya.com
+calyss.in
+casperinfosystem.com
+ccgdm.org
+e1920.xyz
+e10220.com
+e29120.com
+e180320.xyz
+ex171019.com
+i5320.xyz
+mucla.in
+nivedafoundation.org
+photobalkan.com
+printstockphoto.com
+r25820.xyz
+rr020920.xyz
+ultimatetravel.in
+xs1920.xyz
+
+# Hosts
+0.0.0.0 485online.rs10720.xyz
+0.0.0.0 app452-sat-mx.i3720.xyz
+0.0.0.0 apps-registros-mx.is15720.xyz
+0.0.0.0 dev.tvs.st
+0.0.0.0 www-netfflix-registros.i10720.xyz
+0.0.0.0 www-registros-apps-mx.e18220.com
+0.0.0.0 www-registros-appsmx-sat.x030720.xyz
