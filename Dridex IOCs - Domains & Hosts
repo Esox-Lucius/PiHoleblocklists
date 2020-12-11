@@ -1,0 +1,1153 @@
+# Dridex IOCs - Domains & Hosts
+# Trojan.Dridex is capable of stealing specific information. It usually goes after a list of installed applications and the OS version of the 
+# affected machine, which is crucial information for further exploring the affected system. The main goal of this Trojan is usually to steal banking credentials.
+# Source: https://otx.alienvault.com
+#
+# UPDATED: 01-12-2020
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+# Dridex now dropped by SmokeLoader
+# Source: https://otx.alienvault.com/pulse/5fbe65cbe7c5df50499021e9
+
+# Domains
+0124logistics.com
+aatif-fortios.pt
+alpaylar.com.tr
+beaute-relaxation-beziers.fr
+brisbanepoolbuilders.com.au
+bugexpert.com
+cacsnetwork.co.in
+ccp-pakistan.org.pk
+celinehjeily.com
+cpsirx.com
+dasin-obchudek.cz
+dextro-energy.com.mx
+kikitrading.co.za
+maxtinbox.com
+mkvs.org.in
+obsession.hu
+penodux.com
+planeal.com
+previousquestionpapers.com
+server89.com
+tallerdeveleria.es
+tecelagemsaogeraldo.com.br
+tennismendrisio.ch
+thachvietstone.com
+thubanconsultants.com
+triple-me.com
+whatmomsthink.com
+
+# Hosts
+0.0.0.0 forums.ebprospectors.com
+0.0.0.0 mail.shitmail.com
+0.0.0.0 www.activoinmobiliario.mx
+0.0.0.0 www.cible-energy.com
+0.0.0.0 www.genregis.com
+0.0.0.0 www.orich.com.tw
+#--------------------------------------------------------
+# Dridex IOCs - 23 October 2020
+# Source: https://otx.alienvault.com/pulse/5f92dfdfece490445278938c
+
+# Domains
+alexeevkir.ru
+ampcourses.com
+amuseauto.com
+autoswept.com
+bangah.com
+bardenpumps.com.au
+bucketgrip.com
+careerhonest.com
+careerignitenow.com
+careervalued.com
+cbdliked.com
+cbdridge.com
+chinahouse.se
+cognitec.org
+colservicios.com.co
+cygnilux.com
+dandaroadsideservicellc.com
+datarecoverservice.com
+deafpuppy.com
+derek4333.com
+dgxinlong.com
+divey.com
+dmarketing.biz
+domegadgets.com
+drjaimemosquera.com
+dudehome.com
+echosofttech.com
+elranchomarkets.com
+excellentsaver.com
+fashionatingworld.cn
+fastestnetwork.info
+fbomate.com
+fitnessserved.com
+frasesdedios.net
+freedomsec.com.br
+gersdorf-jena.de
+goldpisoslaminados.com.br
+growthag.com.au
+helpingcause.com
+hokkaidoizakaya.id
+hotel72.com
+hotel-neukoelln.de
+housenboldlaw.com
+hrroadlines.com
+immo-ilemaurice.fr
+ivanevtushenko.com.ua
+jgphotoart.com
+jphtrading.hu
+lcc-esquibien.com
+lianshiedu.com
+liveahealthiertoday.com
+malegazette.com
+manifestalatuaabbondanza.com
+manniondrilling.com.au
+minishp.com
+miplazaweb.com
+mye-billing.com
+onescarletthread.com
+onlinebusinesspure.com
+onlinebusinessup.com
+opendigital.ru
+ornate.arq.br
+parkettbau-freyenstein.de
+proschmann-heizungsbau.de
+ptfcatpal.com
+qualitycontaccenter.com
+refinanceworth.com
+renttoowncare.com
+saffronhotelalrigga.com
+seatedauto.com
+speckauto.com
+star-card.org
+stfcshop.com
+studentathlete.in
+talentmatchingeurope.com
+tbcseguros.com.br
+toppedtravel.com
+viihelp.com
+visitrayong.com
+wheeleducation.com
+wildsession.fr
+wordy-words.com
+workedhome.com
+yakimovaksyphoto.ru
+yarashiqdecor.ir
+
+# Hosts
+0.0.0.0	alcoa.fairwayconcierge.com
+0.0.0.0	bogajaya.memangbeda.website
+0.0.0.0	camilanvanessa.memangbeda.website
+0.0.0.0	capek.buffaloonlinetest.co.uk
+0.0.0.0	chrisholdenblog6.borngolfers.com
+0.0.0.0	cosmetic1.4code.se
+0.0.0.0	davie.iservelendingconcierge.com
+0.0.0.0	demos.fairewebhost.com
+0.0.0.0	dev.connect865.com
+0.0.0.0	dev.motorradclub-schmallenberg.de
+0.0.0.0	dragon.wewe.ws
+0.0.0.0	eneosdemo.digitalcanali.com
+0.0.0.0	greatfalls.rwctest.com
+0.0.0.0	intranetstc.micromart.com.br
+0.0.0.0	kimmiandco.tiemens.com.au
+0.0.0.0	nahid.mehedimolla.net
+0.0.0.0	orderfitgunn.mykedai2u.com
+0.0.0.0	propashop.mykedai2u.com
+0.0.0.0	seo.veberlab.ru
+0.0.0.0	shop1.4code.se
+0.0.0.0	test.veberlab.ru
+0.0.0.0	twinpeak.iservelendingconcierge.com
+0.0.0.0	www.davidakademia.hu
+0.0.0.0	www.lsjpro.fi
+0.0.0.0	www.radiosinus.hu
+#--------------------------------------------------------
+# Dridex IOC Collection
+# Source: https://otx.alienvault.com/pulse/5f84d1b0cdb2313f0322acf7
+
+# Domains
+adisle.in
+bangmaverpakkingen.nl
+casamenesteres.com
+coswish.com
+creativearena.gov.kn
+dalitmuktimission.org
+darkblue22.com
+diverseteams.org
+dnztasimacilik.com.tr
+dsimportaciones.com
+eb3tly.online
+getsolar4zerodown.info
+glambooth.nl
+godstimeobasi.com
+grips.pl
+grupojenrab.mx
+hkythaya.com
+kansmode.com
+leandrokblo.com
+lesformosavoyagent.com
+lexrhodia.lv
+mazimimarlik.com
+medszoo.in
+migalhadepao.com.br
+mobileunlockeronline.com
+mooigeleekliniek.co.za
+mrbadvisors.co.in
+niteshenterprise.com
+ourgoodlifefarm.com
+petroservice.com.br
+rehaozelegitim.com
+sabsjagdalpur.org
+sintecor.cl
+siropmarket.ru
+specpro.solutions
+stepco.ro
+teworhfoundation.com
+thecrossfithandbook.com
+tododiabetes.mx
+trainersbusinessinabox.com
+turismobullileosanfabian.cl
+vardhmanproducts.com
+wi7ch.com
+wildlifer.in
+yourselfcare.site
+
+# Hosts
+0.0.0.0	2019.kertugynokseg.hu
+0.0.0.0	admin.edexabroad.com
+0.0.0.0	adv.epostoday.uk
+0.0.0.0	amazonlogin.gnegypt.com
+0.0.0.0	ansec2020.idklearningcentre.com.ng
+0.0.0.0	ask-regard.call-save.biz
+0.0.0.0	astri.ptperkindo.com
+0.0.0.0	bigbusinesscall.geteasycustomers.com
+0.0.0.0	counseling.rajasthancs.com
+0.0.0.0	crs-staging.revotax.com
+0.0.0.0	crypto.bennitocleaningservices.co.za
+0.0.0.0	crystal.flexiclouding.com
+0.0.0.0	demo.leoprim.com
+0.0.0.0	dev.academiacrcafe.com
+0.0.0.0	eduserve.sezibwa.com
+0.0.0.0	events.fasys-pro.com
+0.0.0.0	ferrofrenteold.ferrofrente.org
+0.0.0.0	freetobet.cristibrotea.ro
+0.0.0.0	game2.saitamasaitama.com
+0.0.0.0	lamesuspendue.swayb.com
+0.0.0.0	link.maisaquihost.com.br
+0.0.0.0	loc8me.owlight.co.uk
+0.0.0.0	lod.flexiclouding.com
+0.0.0.0	madanikutubkhana.hovata.com
+0.0.0.0	mail.1stprotraffic.com
+0.0.0.0	mail.medserv.com.br
+0.0.0.0	mail.misbahelmudii.org
+0.0.0.0	mail.premiumclube.org.br
+0.0.0.0	mail.shivatva.com
+0.0.0.0	mail.shofiaahmadwedding.id
+0.0.0.0	manage.bachatshop.pk
+0.0.0.0	mathi.albode.fr
+0.0.0.0	nas.ledodger.com
+0.0.0.0	new2.mirajcar.com
+0.0.0.0	newmg532.wordswideweb.com
+0.0.0.0	pg.besplatansajt.me
+0.0.0.0	produtos.maisaquihost.com.br
+0.0.0.0	realestate.reklamoj.al
+0.0.0.0	sales.balancedearnings.com
+0.0.0.0	shubhamjwellers.armopower.com
+0.0.0.0	sims.evakodine.com
+0.0.0.0	sio2.techgms.com
+0.0.0.0	slides.acklab.xyz
+0.0.0.0	ticket.centralweb.pro
+0.0.0.0	track.topad.co.uk
+0.0.0.0	ubac.mobicentric.co.za
+0.0.0.0	works.harivindhu.com
+0.0.0.0	wp.ootw.co.za
+0.0.0.0	www.enserve.co.uk
+#--------------------------------------------------------
+#  Dridex return
+# Source: https://otx.alienvault.com/pulse/5f5a35702d3b2eee5ce217a6
+
+# Domains
+4jvmow.zip
+amaimaging.net
+armomaq.com
+bombshellshow.me
+businessquest.com.my
+construtorahabite.com.br
+coomiponal.com
+doakai.zip
+eb3tly.online
+emyhope.com
+etsp.org.pk
+getsolar4zerodown.info
+glowtank.in
+heraldfashion.store
+idklearningcentre.com.ng
+inkrites.com
+karyagrafis.com
+leandrokblo.com
+leboudoirstquayportrieux.fr
+maisaquihost.com.br
+manogyam.com
+medszoo.in
+minsann.se
+neocuboarquitetura.com.br
+radiantmso.com
+rjkthgowertgoiwe.zip
+safaktasarim.com
+siebuhr.com
+sjoeberg.nu
+speakerpedia.in
+sweepegy.com
+teworhfoundation.com
+thecandidtales.com
+timamollo.co.za
+vyvanse.co
+zxc.zip
+
+# Hosts
+0.0.0.0	agencia.fal.cl
+0.0.0.0	axalta.grupojenrab.mx
+0.0.0.0	discuss.ojowa.com
+0.0.0.0	eduserve.sezibwa.com
+0.0.0.0	mcciorar.iglesiamcci.cl
+0.0.0.0	pharmacy.binarybizz.com
+0.0.0.0	properties.igpublica.com.br
+0.0.0.0	quiz.walkprints.com
+0.0.0.0	tallermecanicoyllantera.grupojenrab.mx
+0.0.0.0	tc.ge.pje44093.sac.fedex.com
+#--------------------------------------------------------
+# Dridex changes bait: it’s DHL’s turn
+# Surce: https://otx.alienvault.com/pulse/5f74f1f6ac132bc8a92934c0
+
+# Domains
+flowpressurewashing.com
+galileedream.hu
+nemzetiaranyintezet.com
+poligrafiascali.com
+ramec.com.au
+raybadenergy.com
+rubbermounted.com.au
+safer.com.gt
+seminelogistics.com
+tensopret.com
+therightcyclingcompany.com
+thulilekhanyile.co.za
+twomissa.com
+visualhome.cl
+zaaher.com
+
+# Hosts
+0.0.0.0	2203610.projects-airnetwork.asia
+0.0.0.0	2203610rwd.projects-airnetwork.asia
+0.0.0.0	adm.snpsresidential.com
+0.0.0.0	count.mail.163.com.impactmedfoundation.com
+0.0.0.0	eddyvanijken.nanopoint.nl
+0.0.0.0	igniter.fobbly.net
+0.0.0.0	lab2.e-century.pl
+0.0.0.0	push.qnotice.com
+0.0.0.0	rop.technomatica.ovh
+0.0.0.0	webpower.pdc-ind.com
+0.0.0.0	weddingcakes.buffaloonlinetest.co.uk
+0.0.0.0	ws4polisi.pdc-ind.com
+#--------------------------------------------------------
+# Additional Dridex IOCs - 30 September
+# Source: https://otx.alienvault.com/pulse/5f74559107ed166a01f045f6
+
+# Domains
+aksmusicgroup.com
+awak.business
+comactu.com
+dnztasimacilik.com.tr
+fit-city.online
+immobilier-en-perigord.com
+jigsaw.watch
+kazanagroceryandgifts.com
+ketodietaim.com
+marcusjarman.com
+pumppazh.com
+ryner.net.au
+sunnysidecafemi.com
+tekleaders.com
+thecrossfithandbook.com
+theleatherking.com
+therivercommunity.org
+thuexedanangkhatran.com
+tugrulgulenc.com.tr
+visum360.com.uy
+wewtraders.com
+
+# Hosts
+0.0.0.0	latest.sowilo.co.za
+0.0.0.0	murfreesboro.fairwayconcierge.com
+0.0.0.0	wc.albatronic.es
+0.0.0.0	www.bestarget.in
+0.0.0.0	www.ezdig.me
+0.0.0.0	www.ok-platform.nl
+0.0.0.0	www.saiglobaltourism.com
+0.0.0.0	www.taxcentric.ca
+0.0.0.0	www.thewebranking.com
+0.0.0.0	www.vinhphucplus.com
+0.0.0.0	www.yqueue.co
+0.0.0.0	yungen.kevinmccollow.com
+#--------------------------------------------------------
+# Dridex domains
+# Source: https://otx.alienvault.com/pulse/5f6cafb69b3cf27bbce9b86d
+
+# Domains
+bangmaverpakkingen.nl
+contextoenergetico.com
+glambooth.nl
+hardtargettraininggroup.com
+kooperatiba.ph
+lexrhodia.lv
+manorialtitles.co.uk
+nb9ymhy7v.zip
+niteshenterprise.com
+orbymart.co.in
+ourgoodlifefarm.com
+p3i7d8t.zip
+s3zv9c.zip
+sarvmaticgroup.com
+siropmarket.ru
+socalresearch.org
+t726k4b3.zip
+tipjar.id
+tododiabetes.mx
+
+# Hosts
+0.0.0.0	demo.leoprim.com
+0.0.0.0	dev.konocell.net
+0.0.0.0	en.ioho.me
+0.0.0.0	hayati.it-open-sprite.com
+0.0.0.0	hosting.tigersystems.com.au
+0.0.0.0	loc8me.owlight.co.uk
+0.0.0.0	lotus.wb5.com.br
+0.0.0.0	mathi.albode.fr
+0.0.0.0	nas.svk-telecom.ru
+0.0.0.0	sales.balancedearnings.com
+0.0.0.0	sr3.3books.in
+0.0.0.0	trainings.tvetjobs.com
+0.0.0.0	ubac.mobicentric.co.za
+0.0.0.0	www.bestarget.in
+#--------------------------------------------------------
+# Dridex - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5e32f2cf9e9cd9d8724a9617
+
+# Domains
+perfect-jewellery.co.uk
+
+# Hosts
+0.0.0.0	tsinghua.gov-mil.cn
+0.0.0.0	www-afc.chrom3.net
+0.0.0.0	www.fdn-en.net
+0.0.0.0	www.nrots.net
+0.0.0.0	www.word-dnld.com
+#--------------------------------------------------------
+# Additional Dridex IOCs - 21 May
+# Source: https://otx.alienvault.com/pulse/5ec681b1261efe73b91c7524
+
+# Domains
+patostpc.com
+#--------------------------------------------------------
+# Additional Dridex XLS maldoc IOCs - 30 April 2020
+# Source: https://otx.alienvault.com/pulse/5eaab98b3cec2af2d3bc92cb
+
+# Domains
+geronaga.com
+rumetonare.com
+#--------------------------------------------------------
+# Additional Dridex IOCs - using GMX mail servers - 29 April 2020
+# Source: https://otx.alienvault.com/pulse/5ea9491c42bd907fa19e712e
+
+# Domains
+uewizi.com
+#--------------------------------------------------------
+# Dridex
+# Source: https://otx.alienvault.com/pulse/5e7dfb592a0a3c9caca746c2
+
+# Domains
+12thand8thdental.com
+360creativesolutions.com
+aabaglobal.com
+abenrothbuilders.com
+acrop-ltg.com
+actionforchildren.org.uk
+adserballe.com
+agdclan.com
+akademia-wiedzy.slask.pl
+alexcharlesmurray.com
+aliotolaw.com
+allenselectricmotors.com
+anguard.ru
+annandalefree.com
+aplusmecaniqueautomobile.com
+arcm.ch
+arfnbear.com
+art-style.ch
+artlantik.com
+astropad.com
+austintxweddingphotography.com
+azardiarfan.ir
+bakalor.com
+bandbproducts.com
+barikmedical.com
+baron-chem.com
+batnet.com
+bdaybomb.com
+bdembassyoman.org
+bdiexpress.com
+beasleyart.com
+beautynoun.com
+beoriginalcoaching.com
+bestwater.com.np
+beyondcredentials.com
+bharatkshetra.com
+bienvenidosnewyork.com
+biomasschile.cl
+blintzesyceviches.com
+bluewaterpointresort.com.au
+bookelis.com
+brackenandassociates.com
+brevardworkforce.com
+brocares.de
+bronzze.com
+burtblee.com
+buzz-card.com
+cadastrounico.club
+cantruy.com
+careplay.com
+caronedelgolfo.com.mx
+carrelski.com
+carterbenson.com
+cdnlaw.com
+centerstagedeli.com
+centralchicago.com
+centvisions.com
+chevychaseclub.org
+christiancleva.com
+clfest.org
+condemnation-law.com
+confederadario.net
+conosciiltuopasto.it
+corp-hr.com
+couturedecoeur.com
+cseseguridad.com
+daata-editions.com
+dan-jones.org.uk
+dawson-deveraux.com
+decorativeconcreteofoklahoma.com
+delhipedia.com
+deneigementdl.com
+descargaseriestv.com
+devynck.com
+disejt.com
+doncamillowines.com
+doreproductions.com
+downing.com
+dreamcatchertourism.com
+ehpowersystems.com
+elektrische-auto-belgie.be
+elizabethfournier.com
+en-creative.com
+enesys.eu
+engetechec.com.br
+epagestore.com
+equatorresources.com.au
+ericsonmemorials.com
+espacomaterno.com.br
+eventboi.com
+everestedu.org
+excaliburmineral.com
+fafatsah.org
+fastabstracts.com
+fcseminary.org
+feol.com
+fideliteconcept.com
+flagstarlimo.com
+flashmxpro.com
+flymilton.com
+fmh-child.org
+forclosureassets.com
+fordmustanghuren.nl
+fourc.com
+fragkiskos.org
+fredshorey.com
+frogi-secure.com
+frommbeauty.com
+ftscoupons.com
+fundacaosarahbeirao.com
+galeriemicheljourniac.com
+gamanet.org
+gas-co.com
+gastalverabogados.com
+gastricbypassoperation.nu
+gbsi-pc.com
+gesineschulz.com
+gfrx.com.br
+graysornamentals.com
+great-jones.com
+grupjorsan.com
+gztn.com
+halsocoachen.nu
+harvestconstructionllc.com
+hasoftelegance.com
+hatsupply.com
+heliaelectronic.com
+histoiresderolistes.com
+hitechacrylic.com
+hitf1.com.au
+home-tech.com
+homepowersolarcash.com
+hotbrandstyle.com
+hotel-horten-brygge.net
+hotwiredconsultants.com
+huiles-et-sens.com
+humanconsulting.com
+hundtillbehor.nu
+ignitionstate.com
+ilance.com
+ilopan.com
+impactstudios.biz
+infonuba.com
+insideram.net
+internetmark.com
+ippogrifogroup.com
+iskaninsurance.com
+isotopx.com
+istriapropertymanagement.com
+iumstrata.com.au
+iwildcat.com
+iyerrtronics.com
+jergiles.com
+jingleinfo.com
+jotika.com
+jpcabs.com
+justlistedhomes.com
+kabelnetmanager.de
+kaidandizo.com
+kanekosystem.com
+kantipursahakari.com.np
+karkas-centr.ru
+kashifandcompany.com
+kbrum.com
+kevindesperries.com
+komachi-factory.com
+kosaka-lab.com
+kramer-rayson.com
+krgoer.com
+kuepper.com.ua
+kynco.ir
+lamha.tv
+laminarte.com.uy
+lcf77.com
+leveland.com
+lifelinetechohio.com
+lingfell.co.uk
+lisamariemusings.com
+littlebytes.com
+livingstonfccommunity.co.uk
+londonag.com
+londonfitoutsolutions.co.uk
+love-live-learn.com
+luanaevents.co.uk
+luciadibella.com
+lucybratby.com
+lumiaserver.com
+luxedecor.com
+madewithrest.com
+madhubaniboutique.com
+magofrisco.com
+manakibrealty.id
+mangnhakinhnongnghiep.vn
+marvel.com.sa
+maryaloeproducer.org
+masmi.com
+mattony.com
+maxkuperman.com
+mdmetrology.com
+mediawinn7.co
+mediusinstitute.com
+mefoto.com.au
+melshaw.com
+meredithrwiner.com
+mksadvertising.com
+mostpetersburg.com
+motiveflux.com
+motorsandremotes.com
+mountaintravelagency.com
+mp3downloadnet.com
+mrwaller.com
+mtrails.com
+muhammetozenli.com
+multiasis.com
+muskaan.org.in
+mybrighttest.com
+myhoodfamily.com
+mylikers.ir
+nachservices.tech
+nationalyouthparliament.org
+naturescontrol.com
+netsupplement.net
+netzoneservices.co.in
+newdimensionwireless.com
+newfloridamajority.org
+nhakinhnongnghiep.net
+nhkspringindia.com
+niloo-lab.ir
+niyaabat.ir
+noahmorganphotography.com
+noizenation.com
+nomadeec.com
+norrentreprenad.se
+nuerensdorftaxi.ch
+o-tech.com
+oguzlar.xyz
+omarisan.com
+omika.com
+omsanc.com
+onejobs.ir
+onelovehealing.co.uk
+optogration.com
+ovcmedia.com
+paralax.com
+pasoresu.com
+pcheatingplumbing.com
+pelexpm.org
+pepperedchef.com
+photoflip.co.in
+photographylabellavita.com
+pomail.org
+porterelec.com
+priscoyorkies.com
+ragspace.com
+referencemedical.com
+reizindia.com
+rem-sl.com
+remoteimage.com
+renaissance-stone.com
+renanpieri.com
+rescorp.org
+resourcesfuture.com
+restm.org
+rg-llc.com
+rgproperties.com
+robinscatering.com
+rocketcrafters.com
+rummikub.com
+s2scouturehair.com
+sadeh.info
+sadesignsunltd.com
+saitesilk.com
+sbhosale.com
+schellenbergerllc.com
+schewe.com
+seagames.com.vn
+seeyouturkey.com
+seleccionadosdelcampo.com
+select.org
+selfmadecustoms.com
+semanadelacocinaitaliana.com.mx
+sharpsbarber.shop
+sharpshooter.org
+shepardoil.com
+simplycreamationservice.com
+sjoga.org
+slucia.com
+smalsistemas.com
+smbmarketing.xyz
+smkn1tlanakan.sch.id
+sociolearning.com
+solutionsforsuccess.com
+spiny.com
+srtresources.com
+standardmachineinc.com
+startbusinessbetter.com
+stickerart.com
+stmoritztransfer.ch
+stratas.com.au
+superiortire.com
+swsalesgroup.com
+synchronicityhumanresources.com.au
+sz-huazong.com
+tahoelawyers.com
+taibong.com
+tasco-inland.com.au
+taxiandermatt.ch
+taxieffretikon.ch
+taxiniederhasli.ch
+tcaii.org
+teamcloud.com.au
+teamksi.com
+tembe.com
+terrafirmani.co.uk
+texasdentalhealth.com
+tfseniorcenter.com
+thaiusahuntington.com
+the-hancocks.com
+thediamond.com
+theplumexperience.com
+thewritegroup.com
+thompsonproducoes.com.br
+tlhblogs.com
+tois-insanoen.com
+tristartravel.com
+trivenionline.com
+true-image.com
+tuberias-tepco.com
+tusdae.com
+twofoldtravel.com.au
+uniforme-eletricista-nr10.com.br
+valatievillage.com
+vdevendas.com.br
+vegatele.com
+virtualys.com
+vloeren-info.be
+vuvankha.com
+weldonpc.com
+whatithinkabout.com
+whimsicaloccasions.com
+wishcrm.com
+withtheband.pl
+xykss.cn
+yutaxdenetim.com
+
+# Hosts
+0.0.0.0	barjaktar2.3dprostori.com
+0.0.0.0	barjaktar.3dprostori.com
+0.0.0.0	blog.b301.cn
+0.0.0.0	blog.itel-mobile.com
+0.0.0.0	blog.njbbkj.com
+0.0.0.0	blogcoronacl.canalcero.digital
+0.0.0.0	mango.generic.media
+0.0.0.0	meeyland.comartek.com
+0.0.0.0	mhe.hydrofabs.com
+0.0.0.0	modne-fryzury.uroda-zdrowie.org
+0.0.0.0	motorcity.dealerspace.com
+0.0.0.0	myself.33mail.com
+0.0.0.0	shop.acuwoo.com
+0.0.0.0	staging.reisvoyage.com.au
+0.0.0.0	wordpress.ehc.org
+0.0.0.0	www.achrad.cz
+0.0.0.0	www.amylh888.com
+0.0.0.0	www.ausbildungsverein.at
+0.0.0.0	www.docmedconnect.com
+0.0.0.0	www.emarketsaas.com
+0.0.0.0	www.glotelho.com
+0.0.0.0	www.htmloffshore.com
+0.0.0.0	www.meanled.com
+0.0.0.0	www.mindovermatter.org.uk
+0.0.0.0	www.qiaoqing.net
+0.0.0.0	www.rdfim.ir
+0.0.0.0	www.reabilityinc.com
+0.0.0.0	www.tehranbama.ir
+0.0.0.0	www.tiantichina.com
+0.0.0.0	www.triglavmountain.com
+0.0.0.0	www.tularams.com
+0.0.0.0	www.wozniki.franciszkanie.net
+#--------------------------------------------------------
+# Dridex banking Trojan leverages Quickbooks lures, once again
+# Source: https://otx.alienvault.com/pulse/5ed52772523207d4682e2960
+
+# Domains
+aj5c.com
+blueaol.com
+capitoldriveairport.com
+domingosandassociates.com
+domybest.io
+falseblueaol.com
+j5ca.com
+john.works
+portograph.com
+realestatebyc.com
+rujukanfilm.com
+truemedoback.com
+tubepthuyanh.vn
+
+# Hosts
+0.0.0.0	cpcalendars.portograph.com
+0.0.0.0	cpcontacts.portograph.com
+0.0.0.0	dictionary.john.works
+0.0.0.0	security.hsbc.co.uk.secure-id44.com
+0.0.0.0	test.test.secure-id44.com
+0.0.0.0	www.portograph.com
+0.0.0.0	www.realestatebyc.com
+0.0.0.0	www.security.hsbc.co.uk.secure-id44.com
+0.0.0.0	www.test.test.secure-id44.com
+0.0.0.0	www.tubepthuyanh.vn
+#--------------------------------------------------------
+# Malspam with links to zip archives pushes Dridex malware
+# Source: https://otx.alienvault.com/pulse/5ebbf13133a7404f03ffb7d2
+
+# Domains
+angelqtbw.us
+ariankacf.us
+arzenitlu.us
+azparksfoundation.org
+brisbaneair.com
+carbonne-immobilier.com
+edgewaterunitedmethodist.org
+equineantipoaching.com
+falhiblaqv.us
+hotteswc.us
+inter-dekor.hr
+iris.gov.mn
+masterstvo.org
+ppugsasiw.us
+pufuletzpb.us
+rudhyog.in
+
+# Hosts
+0.0.0.0	www.abogadoaccidenteslaboralesen-madrid.com
+0.0.0.0	www.betaalbare-website.be
+0.0.0.0	www.boosh.io
+0.0.0.0	www.consultationdocteurpronobis.fr
+0.0.0.0	www.degalmun.jjcars.es
+0.0.0.0	www.ppsspp.com
+#--------------------------------------------------------
+# 2019-01-31: ISFB v2 Installs Dridex "3101"
+# Source: https://otx.alienvault.com/pulse/5ee3376b0a1400d3f63d3517
+
+# Domains
+f60vinnie75.city
+h5441eqzey.fun
+taileenanahi.company
+#--------------------------------------------------------
+# Win.Malware.Dridex
+# Source: https://otx.alienvault.com/pulse/5d0f42af70a3052f9fd552b5
+
+# Hosts
+0.0.0.0	www.0hox6fnkju.com
+0.0.0.0	www.0kgr0svsdw.com
+0.0.0.0	www.05p60clujw.com
+0.0.0.0	www.1di9yqmr4e.com
+0.0.0.0	www.1ohvaomcea.com
+0.0.0.0	www.3rw4hwziej.com
+0.0.0.0	www.11exvnzpds.com
+0.0.0.0	www.49jucwch3k.com
+0.0.0.0	www.ahy9qgaqjw.com
+0.0.0.0	www.ahzu9hhyqj.com
+0.0.0.0	www.dpnrq4kpe7.com
+0.0.0.0	www.egntxfch2f.com
+0.0.0.0	www.ejglgrlsfv.com
+0.0.0.0	www.ijzuyfo6m9.com
+0.0.0.0	www.ikzjlvrxat.com
+0.0.0.0	www.nnd9bsodkx.com
+0.0.0.0	www.p8o6adliq7.com
+0.0.0.0	www.tkhrjexxyn.com
+0.0.0.0	www.tqzvsormbw.com
+0.0.0.0	www.u6vpjfufqz.com
+0.0.0.0	www.uxnyhqblpm.com
+0.0.0.0	www.v2xeifg35d.com
+0.0.0.0	www.wzykyninkd.com
+0.0.0.0	www.x6n5szq1jb.com
+#--------------------------------------------------------
+# Dridex campaign
+# Source: https://otx.alienvault.com/pulse/5dc4b1c2b67f519f6f423543
+
+# Domains
+demisorg.com
+masteronare.com
+matidron.com
+nedronog.com
+#--------------------------------------------------------
+# Additional Dridex downloader malware IOCs
+# Source: https://otx.alienvault.com/pulse/5e678f9db0a4103639e689d0
+
+# Domains
+delivery-47585.info
+delivery-56337.info
+delivery-534647.info
+delivery-748028.info
+dubriah.com
+
+# Hosts
+0.0.0.0 bank.jgcrossman.com
+0.0.0.0 our.boabgroup.com
+0.0.0.0 police.financialooda.com
+0.0.0.0 rs.taiwananalytics.com
+0.0.0.0 win.irptw.com
+#--------------------------------------------------------
+# Dridex Trojan downloader IOCs from VK Intel
+# Source: https://otx.alienvault.com/pulse/5e53cb2f83f1059eaca2a755
+
+# Domains
+asmarlife.com
+blueflag.xyz
+deeppool.xyz
+germanypanzer.xyz
+mineminecraft.xyz
+shameonyou.xyz
+smokesome.xyz
+warmsun.xyz
+#--------------------------------------------------------
+# Dridex phishing campaign using FedEx in malspam with links to ZIP files containing the Trojan
+# Source: https://otx.alienvault.com/pulse/5e1efaea290c65e21175fef0
+
+# Domains
+egbp.hu
+
+# Hosts
+0.0.0.0 www.parceldelivery.com
+#--------------------------------------------------------
+# Dridex phishing campaign pretends to be Fedex delivery packages
+# Source: https://otx.alienvault.com/pulse/5dfa1b7ac94a58c42dacd72c
+
+# Domains
+behiar.online
+behiar.space
+houshare.net
+huebet.club
+huebet.site
+huebubek.site
+huebubuj.website
+huebufer.site
+huebufer.website
+huebutas.site
+huebutas.space
+huebutas.website
+hueueiwo.club
+hueueiwo.site
+huewopq.site
+hustorlkanj.club
+lilsispizza.com
+lingrethec.online
+lingrethec.space
+mightyfashion.us
+mrmaz.com
+quantumneurology.com
+raxertos.com
+sankofer.club
+sankohuan.club
+sankojol.site
+shopnearu.com
+shueoenm.website
+shueoowk.site
+successgroup.me
+suptorstoft.online
+turnkeycustom.com
+xn--c1annk.su
+
+# Hosts
+0.0.0.0 www.agrieyes.com
+0.0.0.0 www.ticfootball.com
+0.0.0.0 www.zhenfopai.com
+#--------------------------------------------------------
+# Ursnif infection with Dridex
+# Source: https://otx.alienvault.com/pulse/5de68b1f617e14ffcfa42504
+
+# Domains
+jyomacktom.top
+m38kxy54t.com
+nxbpierrecjf.com
+ragenommad.com
+spt71igina.com
+zontcentrum.ru
+#--------------------------------------------------------
+# Dridex is having a busy day
+# Source: https://otx.alienvault.com/pulse/5c89fc8f0eab3239743e3a01
+
+# Domains
+7uptheme.com
+emseenerji.com
+gamesuk.com
+gastar-menos.com
+haicunoi.ro
+hvn7wsa62jjhkuyk.onion
+indhrigroup.com
+kkk-3712.com
+lostandfoundpetsworld.com
+ptpos.com.vn
+
+# Hosts
+0.0.0.0 www.raddalmutallaga.com
+0.0.0.0 www.sejutaaplikasiasia.com
+#--------------------------------------------------------
+# Dridex IOC
+# Source: https://otx.alienvault.com/pulse/5c06a00e22cd602155e70d40
+
+# Domains
+aeromodernimpex.com
+chokatawan.com
+constitution.org
+endetztera.com
+filmemario.at
+guridorosh.com
+hayaushiru.com
+koentacist.com
+navectrece.com
+oshokasara.com
+tazukasash.com
+thipissney.com
+wizoidiazi.com
+ziebelschr.com
+zweideckei.com
+
+# Hosts
+0.0.0.0 www.fufelaupast.tk
+#--------------------------------------------------------
+# Dridex banking trojan &amp;amp; Necurs botnet. (Scarab)
+# Source: https://otx.alienvault.com/pulse/5a621013d99be41bd0f70eff
+
+# Domains
+2018malware-traffic-analysis.net
+bawabetelbaik.com
+c-analysis.net
+change.protection
+come.as
+downloader.as
+drpampe.com
+forcepoint.com
+hispanoylatinodeoro.org
+htmltecclix.com
+locationshard-grooves.com
+mercati.mx
+miamirecyclecenters.com
+nrrgarment.com
+pamplonarecados.com
+phonecenter24.de
+pkjfgw32bawabetelbaik.com
+pkjfgw32nrrgarment.com
+protcuba.com
+rates.in
+ronpaulradio.org
+seventhworld.com
+ssemanipur.com
+tanbehtinho.net
+tanbethinho.net
+tecclix.com
+theairlab.co.za
+unishippers.com
+usaescortsforthedisabled.net
+website.click
+zm.read
+
+# Hosts
+0.0.0.0 blogs.forcepoint.com
+0.0.0.0 fqslgci.htmltecclix.com
+0.0.0.0 franchise.unishippers.com
+0.0.0.0 mail.pamplonarecados.com
+0.0.0.0 sbaoejv.htmlssemanipur.com
+0.0.0.0 seadkhd.htmlwww.drpampe.com
+0.0.0.0 tci.seventhworld.com
+0.0.0.0 www.drpampe.com
+0.0.0.0 www.forcepoint.com
+0.0.0.0 www.miamirecyclecenters.com
+0.0.0.0 www.pamplonarecados.com
+0.0.0.0 www.phonecenter24.de
+0.0.0.0 www.tecclix.com
+0.0.0.0 www.unishippers.com
