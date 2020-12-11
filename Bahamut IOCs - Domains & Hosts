@@ -1,0 +1,570 @@
+# Bahamut IOCs - Domains & Hosts
+# Hack-for-hire cyberespionage group
+# Source: https://otx.alienvault.com
+# INFO: https://www.darkreading.com/threat-intelligence/bahamut-threat-group-targets-government-and-industry-in-middle-east/d/d-id/1339114
+#
+# UPDATED: 18-11-2020
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download.
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+#--------------------------------------
+# BAHAMUT (THE BLACKBERRY RESEARCH & INTELLIGENCE TEAM)
+# Source: https://otx.alienvault.com/pulse/5fae9363114666838175b7f7
+
+# Domains
+51vip.biz
+abnaveilig.nl
+abnblogin.nl
+account-googie.com
+accountvalidate.com
+adalakderana.com
+adoubling.com
+airfitgym.com
+alqalamwebs.com
+audioplayer.co
+bulletinalerts.com
+bullncd.online
+callrecorder-pro.com
+cdn-icloud.co
+citrusquad.com
+crawloofle.com
+cyroonline.com
+devicesupport-rnicrosoft.com
+eicp.net
+everification-session-load.com
+freepunjab2020.info
+frexinq.com
+gateway-yahoo.com
+ghelp.co
+healthclubfun.com
+hqtravels.ru
+imging.site
+inlineirnage.com
+justsikhthings.com
+kikuyo.com.ar
+logon-gsupport.com
+logon-info-gsupport.com
+long0007.com
+mail-goo.link
+mail-incc.com
+mail-validation.info
+mailinfo-bh.com
+maptonote.com
+me-yahoo.com
+middleeastleaks.com
+mideastleaks.com
+moscow-theatres.ru
+msft.me
+myaccount-googie.com
+myggl.io
+o-auth.net
+onlinetokenid.com
+out-look-mail-bh.com
+oyesterclub.info
+portal549.com
+ppenev.com
+privacylog.info
+prontexim.com
+redopro.com
+regditogo.com
+rhc-jo.com
+risalaencryptor.com
+service-authorization.com
+sikhforjustice.org
+similerwork.net
+sl-zvezda.ru
+sync-tokens.com
+talktoulive.com
+tansyroof.com
+techsprouts.com
+techwach.com
+thegogl.com
+totobet2019.com
+totobet2020.com
+toysforislam.com
+traxbin.com
+ttb21.com
+ttb-monas.com
+ustreamix.to
+windows-update-sdfw.com
+
+# Hosts
+0.0.0.0	193-203-50-179.cprapid.com
+0.0.0.0	11616-21198.bacloud.info
+0.0.0.0	a11181.hkti.net
+0.0.0.0	accoutns.gooogle.com-addsession-hl.continue-https-maiil.gooogle.service-authorization.com
+0.0.0.0	amazon-deutschland.de-konto-wiederherstellung.eu
+0.0.0.0	cpanel.account-googie.com
+0.0.0.0	cpcalendars.cdn-icloud.co
+0.0.0.0	cpcalendars.devicesupport-rnicrosoft.com
+0.0.0.0	cpcalendars.gateway-yahoo.com
+0.0.0.0	cpcalendars.imging.site
+0.0.0.0	cpcalendars.inlineirnage.com
+0.0.0.0	cpcalendars.myaccount-googie.com
+0.0.0.0	cpcalendars.myggl.io
+0.0.0.0	cpcalendars.o-auth.net
+0.0.0.0	cpcalendars.service-authorization.com
+0.0.0.0	cpcalendars.tansyroof.com
+0.0.0.0	cpcalendars.thegogl.com
+0.0.0.0	cpcontacts.cdn-icloud.co
+0.0.0.0	cpcontacts.devicesupport-rnicrosoft.com
+0.0.0.0	cpcontacts.gateway-yahoo.com
+0.0.0.0	cpcontacts.imging.site
+0.0.0.0	cpcontacts.inlineirnage.com
+0.0.0.0	cpcontacts.myaccount-googie.com
+0.0.0.0	cpcontacts.myggl.io
+0.0.0.0	cpcontacts.o-auth.net
+0.0.0.0	cpcontacts.service-authorization.com
+0.0.0.0	cpcontacts.tansyroof.com
+0.0.0.0	cpcontacts.thegogl.com
+0.0.0.0	irc.cetyeri.net
+0.0.0.0	login.accounts-manage.activation.mail.me-yahoo.com
+0.0.0.0	login.lives.corn.devicesupport-rnicrosoft.com
+0.0.0.0	login.review.myaccount-googie.com
+0.0.0.0	login.rnail.gateway-yahoo.com
+0.0.0.0	login.rnicrosoftonline.myaccount.devicesupport-rnicrosoft.com
+0.0.0.0	mail.techsprouts.com
+0.0.0.0	manage-mail.account-googie.com
+0.0.0.0	manage.myappie.co
+0.0.0.0	manage.rnyactivity.accounts.live.corn.thegogl.com
+0.0.0.0	manage.youraccount.active-user.mail.thegogl.com
+0.0.0.0	myaccount-manage.me-yahoo.com
+0.0.0.0	ns1.gateway-yahoo.com
+0.0.0.0	ns1.ghelp.co
+0.0.0.0	ns1.healthclubfun.com
+0.0.0.0	ns1.logon-info-gsupport.com
+0.0.0.0	ns1.mail-incc.com
+0.0.0.0	ns1.me-yahoo.com
+0.0.0.0	ns1.myaccount-googie.com
+0.0.0.0	ns1.myggl.io
+0.0.0.0	ns1.oyesterclub.info
+0.0.0.0	ns1.portal549.com
+0.0.0.0	ns1.prontexim.com
+0.0.0.0	ns1.rhc-jo.com
+0.0.0.0	ns1.risalaencryptor.com
+0.0.0.0	ns1.service-authorization.com
+0.0.0.0	ns1.tansyroof.com
+0.0.0.0	ns1.thegogl.com
+0.0.0.0	ns1.v10505.dh.net.ua
+0.0.0.0	ns2.gateway-yahoo.com
+0.0.0.0	ns2.healthclubfun.com
+0.0.0.0	ns2.logon-info-gsupport.com
+0.0.0.0	ns2.mail-incc.com
+0.0.0.0	ns2.mailinfo-bh.com
+0.0.0.0	ns2.me-yahoo.com
+0.0.0.0	ns2.myaccount-googie.com
+0.0.0.0	ns2.portal549.com
+0.0.0.0	ns2.rhc-jo.com
+0.0.0.0	ns2.service-authorization.com
+0.0.0.0	ns2.tansyroof.com
+0.0.0.0	ns2.thegogl.com
+0.0.0.0	ns3.mailinfo-bh.com
+0.0.0.0	orders.apple.stores.customercare.cymbk.kikuyo.com.ar
+0.0.0.0	orders.apple.stores.customercare.pbdjn.kikuyo.com.ar
+0.0.0.0	orders.apple.stores.customercare.txstw.kikuyo.com.ar
+0.0.0.0	orders.apple.stores.customercare.urwes.kikuyo.com.ar
+0.0.0.0	rnail-appld-oath-varfiction.everification-session-load.com
+0.0.0.0	rnail-login.user.me-yahoo.com
+0.0.0.0	rnanage.myaccount.yahoo.corn.thegogl.com
+0.0.0.0	server.imging.site
+0.0.0.0	server.service-authorization.com
+0.0.0.0	sevinil-183.hkti.net
+0.0.0.0	testy.service-authorization.com
+0.0.0.0	user.cdn-icloud.co
+0.0.0.0	uyghuri.51vip.biz
+0.0.0.0	uyghurie.51vip.biz
+0.0.0.0	uygur.51vip.biz
+0.0.0.0	uygur.eicp.net
+0.0.0.0	v10505.dh.net.ua
+0.0.0.0	v10548.dh.net.ua
+0.0.0.0	webmail.myggl.io
+0.0.0.0	www2.apple.stores.online.ljcqk.kikuyo.com.ar
+0.0.0.0	www2.apple.stores.online.qsvms.kikuyo.com.ar
+0.0.0.0	www2.apple.stores.online.uilko.kikuyo.com.ar
+0.0.0.0	www2.apple.stores.online.xnmih.kikuyo.com.ar
+0.0.0.0	www.193-203-50-179.cprapid.com
+0.0.0.0	www.abnaveilig.nl
+0.0.0.0	www.accoutns.gooogle.com-addsession-hl.continue-https-maiil.gooogle.service-authorization.com
+0.0.0.0	www.alqalamwebs.com
+0.0.0.0	www.audioplayer.co
+0.0.0.0	www.bullncd.online
+0.0.0.0	www.callrecorder-pro.com
+0.0.0.0	www.cdn-icloud.co
+0.0.0.0	www.khalistanbanda.com
+0.0.0.0	www.login.accounts-manage.activation.mail.me-yahoo.com
+0.0.0.0	www.login.lives.corn.devicesupport-rnicrosoft.com
+0.0.0.0	www.login.review.myaccount-googie.com
+0.0.0.0	www.login.rnail.gateway-yahoo.com
+0.0.0.0	www.login.rnicrosoftonline.myaccount.devicesupport-rnicrosoft.com
+0.0.0.0	www.mail.account-googie.com
+0.0.0.0	www.manage-mail.account-googie.com
+0.0.0.0	www.manage.myappie.co
+0.0.0.0	www.manage.rnyactivity.accounts.live.corn.thegogl.com
+0.0.0.0	www.manage.youraccount.active-user.mail.thegogl.com
+0.0.0.0	www.msft.me
+0.0.0.0	www.musicpup.co
+0.0.0.0	www.myaccount-manage.me-yahoo.com
+0.0.0.0	www.myprolimo.com
+0.0.0.0	www.primehdplayer.com
+0.0.0.0	www.primemusicplayer.co
+0.0.0.0	www.rnail-appld-oath-varfiction.everification-session-load.com
+0.0.0.0	www.rnail-login.user.me-yahoo.com
+0.0.0.0	www.rnanage.myaccount.yahoo.corn.thegogl.com
+0.0.0.0	www.salat-prayertimes.com
+0.0.0.0	www.sikhforjustice.org
+0.0.0.0	www.similerwork.net
+0.0.0.0	www.sl-zvezda.ru
+0.0.0.0	www.talktoulive.com
+0.0.0.0	www.testy.service-authorization.com
+0.0.0.0	www.toysforislam.com
+0.0.0.0	www.user.cdn-icloud.co
+0.0.0.0	zxzxzxzxzx.duckdns.org
+#--------------------------------------
+# Bahamut: Hack-for-Hire Masters of Phishing, Fake News, and Fake Apps
+# Source: https://otx.alienvault.com/pulse/5f7dd394005536c84adbaf56
+
+# Domains
+account-googie.com
+accountvalidate.com
+airfitgym.com
+ambicluster.com
+bulletinalerts.com
+by4mode.com
+citrusquad.com
+classmunch.com
+cloud-authorize.com
+cocahut.com
+cyroonline.com
+devicesupport-rnicrosoft.com
+domforworld.com
+electrobric.com
+flux2key.com
+freepunjab2020.info
+frexinq.com
+gateway-yahoo.com
+hypforever.com
+i3mode.com
+justsikhthings.com
+leastinfo.com
+lizacorner.com
+lobertica.info
+login-private.com
+logon-info-gsupport.com
+logstrick.com
+mail-incc.com
+mail-king.com
+mail-validation.info
+mailinfo-bh.com
+me-yahoo.com
+medieczema.com
+middleeastleaks.com
+mideastleaks.com
+mindcraftstore.com
+musicbandfiles.com
+myaccount-googie.com
+myappie.com
+opticscold.com
+opticzstore.com
+optusiy.com
+out-look-mail-bh.com
+oyesterclub.info
+passwordsaverr.com
+poiusavid.com
+portal549.com
+privacylog.info
+prontexim.com
+regditogo.com
+rhc-jo.com
+risalaencryptor.com
+scan8t.com
+secure-useraccount.com
+service-authorization.com
+setting-secure.com
+shiaar-e-islam.com
+signtabo.com
+sync-tokens.com
+tansyroof.com
+techwach.com
+thegogl.com
+tierradom.com
+timesofarab.com
+toysforislam.com
+trailhinder.com
+traxbin.com
+treemanic.com
+trioganic.com
+user-privacy.com
+weddnest.com
+zhqdgk.com
+
+# Hosts
+0.0.0.0 aspnet.dyndns.infoassurecom.info
+0.0.0.0 cdn-icloud.cocelebsnightmares.com
+0.0.0.0 cocoka.infocrawloofle.com
+0.0.0.0 ghelp.cohealthclubfun.com
+0.0.0.0 imging.siteinlineirnage.com
+0.0.0.0 kannat.ns01.uskhalistanlehar.com
+0.0.0.0 leelee.dnset.com
+0.0.0.0 m0-rnaiil-siina-chn-reload.everification-session-load.com
+0.0.0.0 mail.techsprouts.com
+0.0.0.0 rnaiill2-rnaill-slna-m0.everification-session-load.com
+0.0.0.0 rnail-appld-oath-varfiction.everification-session-load.com
+0.0.0.0 sikhforjustice.orgsimilerwork.netstring2me.com
+0.0.0.0 uyghuri.51vip.bizuyghurie.51vip.bizuygur.5166.info
+0.0.0.0 uygur.51vip.bizuygur.eicp.netuygur.xicp.netvlprnaiill2-rnaill-slna.m0.everification-session-load.com
+0.0.0.0 yes2khalistan.orgyes2khalistanis.com
+0.0.0.0 yfoodzone.netmyggl.ioo-auth.netonlinetokenid.com
+#--------------------------------------
+# OSINT - Bahamut Revisited, More Cyber Espionage in the Middle East and South Asia
+# Source: https://otx.alienvault.com/pulse/5ee3382e3bfe8b185ecb7d2b
+
+# Domains
+data-covery.com
+devotedtohumanity-fif.info
+goolg-en.com
+host-auth.com
+insidecloud-aspx.com
+kashmir-weather-info.com
+login-asmx.com
+mxiplayer.com
+myinfocheck.com
+rnail-aspx.com
+sa-google.com
+session-en.com
+session-owa.com
+session-service.com
+singin-go-olge.com
+squre39-cld.info
+string2port.com
+#--------------------------------------
+# Confucius, Patchwork, Bahamut
+# Source: https://otx.alienvault.com/pulse/5b8a57c59dae45509e0263ff
+
+# Domains
+32player.com
+aliasway.com
+ambicluster.com
+analogbiz.com
+appswonder.info
+as-pn.info
+b4invite.com
+bitzroid.com
+blueclickr.com
+buffdrops.com
+by4mode.com
+capsnit.com
+checkblink.com
+chirpck.com
+classmunch.com
+computesystem.com
+conioz.com
+cpull.ph
+crazeprint.com
+crowestore.com
+digitizet.com
+digivx.com
+dragb4u.com
+electrobric.com
+entity4u.com
+er.co
+er.com
+erapro.com
+errorfeedback.com
+flash9v.com
+gigatrons.com
+gwesteiwr.com
+hikevalt.com
+i3mode.com
+kashmirweatherinfo.com
+lepze.com
+logicvisor.com
+logstrick.com
+mania.com
+mil.com
+ngnetwork.com
+opo.ph
+portstake.com
+qianglongmil.co
+qutonium.com
+redopro.com
+referfile.com
+relaybg.com
+ringatomic.com
+scan8t.com
+scrollayer.com
+source4z.com
+ss.info
+stringbit.com
+sysknox.com
+tor.com
+translator.com
+traxbin.com
+trekicon.com
+twitck.com
+typehash.com
+upgrade9.com
+voidplask.com
+w4zone.com
+work4m.com
+xtrbuz.com
+yetsyn.com
+zonafield.com
+
+# Hosts
+0.0.0.0	avid-adserv.er.com
+0.0.0.0	cdn-www.mania.com
+0.0.0.0	cgtrad.er.com
+0.0.0.0	cloudclientmanag.er.com
+0.0.0.0	community.mania.com
+0.0.0.0	cpaoptimiz.er.com
+0.0.0.0	dealbreak.er.com
+0.0.0.0	domaindiscov.er.com
+0.0.0.0	feed.er.co
+0.0.0.0	flightrecord.er.co
+0.0.0.0	fourwheel.er.com
+0.0.0.0	hermanmill.er.com
+0.0.0.0	hit.stringbit.com
+0.0.0.0	htamast.er.com
+0.0.0.0	joomshap.er.com
+0.0.0.0	lev.er.co
+0.0.0.0	loft.er.com
+0.0.0.0	mail.mil.com
+0.0.0.0	ns1.ambicluster.com
+0.0.0.0	ns1.capsnit.com
+0.0.0.0	ns2.capsnit.com
+0.0.0.0	ns2.stringbit.com
+0.0.0.0	onlinehome-serv.er.com
+0.0.0.0	passioneint.er.com
+0.0.0.0	perceivequart.er.com
+0.0.0.0	placehold.er.com
+0.0.0.0	porndabst.er.com
+0.0.0.0	publishing.tor.com
+0.0.0.0	serv.er.com
+0.0.0.0	socc.er.com
+0.0.0.0	solo-launch.er.com
+0.0.0.0	u-pass.usace.army.mil.com
+0.0.0.0	www.checkblink.com
+0.0.0.0	www.devoutmuslim.com
+0.0.0.0	www.flplayer.co
+0.0.0.0	www.gigatrons.com
+0.0.0.0	www.i3mode.com
+0.0.0.0	www.kashmirweatherinfo.com
+0.0.0.0	www.libretamilitar.mil.com
+0.0.0.0	www.mania.com
+0.0.0.0	www.mil.com
+0.0.0.0	www.mol.usmc.mil.com
+0.0.0.0	www.pikrpro.eu
+0.0.0.0	www.riquitz.co
+0.0.0.0	www.tor.com
+0.0.0.0	www.translator.com
+0.0.0.0	www.typehash.com
+0.0.0.0	www.upgrade9.com
+0.0.0.0	www.us.army.mil.com
+0.0.0.0	www.www.us.army.mil.com
+#--------------------------------------
+# Advanced Mobile Malware Campaign in India uses Malicious MDM - Part 2
+# Source: https://otx.alienvault.com/pulse/5b58383980cb04534190799c
+
+# Domains
+32player.com
+appswonder.info
+capsnit.com
+classmunch.com
+conioz.com
+digitizet.com
+disc4l.com
+hiltrox.com
+hytechmart.com
+ios-update-whatsapp.com
+logstrick.com
+metclix.com
+nfinx.info
+object2d.com
+qutonium.com
+referfile.com
+scrollayer.com
+techwach.com
+twitck.com
+voguextra.com
+windefendr.com
+
+# Hosts
+0.0.0.0 ns1.capsnit.com
+0.0.0.0 ns2.capsnit.com
+0.0.0.0 pcupdate.ddns.net
+0.0.0.0 www.scorpviz.com
+#--------------------------------------
+# Bahamut Revisited, More Cyber Espionage in the Middle East and South Asia
+# Source: https://otx.alienvault.com/pulse/59f45350a7d9c417a0f8eb85
+
+# Domains
+android-cloud.net
+data-covery.com
+devotedtohumanity-fif.info
+encrypzi.com
+goolg-en.com
+host-auth.com
+i3mode.com
+insidecloud-aspx.com
+kashmir-weather-info.com
+login-asmx.com
+mxiplayer.com
+myinfocheck.com
+ping2port.info
+pobox.sk
+rnail-aspx.com
+sa-google.com
+session-en.com
+session-owa.com
+session-service.com
+singin-go-olge.com
+squre39-cld.info
+string2port.com
+voguextra.com
+
+# Hosts
+0.0.0.0 mint-news-portal.hymnfork.com
+0.0.0.0 online-tracking-status.hymnfork.com
+#--------------------------------------
+# Bahamut, Pursuing a Cyber Espionage Actor in the Middle East
+# Source: https://otx.alienvault.com/pulse/593f017f3fcf066e7f66a543
+
+# Domains
+16linesquran.info
+acc-dot.com
+alfajrtaqni.org
+authprofile.info
+authuser.info
+cert-icloud.com
+com-settings-ppsecure.com
+ernail-ver.com
+golge.cc
+icloud-auth.com
+infocheckup.com
+khuaitranslator.com
+mail-sllogin.com
+mainlogin.co
+manage-mysettings.com
+managemysettings.com
+my-auth.info
+my-validation.info
+myinfosettings.com
+myprofileprivacy.com
+myprofileview.info
+myvalidation.info
+profilesupport.info
+rnail.info
+session-icloud.com
+session-id.com
+timesofarab.com
+update-mailservice.com
+ver-icloud.com
+web2chost.com
+
+# Hosts
+0.0.0.0 dpasdas.000webhostapp.com
+0.0.0.0 mailgooqlecominboxasm9003nmjknsidnpopjdasdkopm.000webhostapp.com
