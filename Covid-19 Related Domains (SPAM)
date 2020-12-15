@@ -4,7 +4,7 @@
 #
 # Source: https://otx.alienvault.com/user/mlodiotx/pulses
 #
-# UPDATED: 09-11-2020 (Trimmed for duplicates)
+# UPDATED: 15-12-2020 (Trimmed for duplicates)
 # 
 # Every link reported should be considered harmefull and could result in an unwanted malware download.
 #
@@ -5010,6 +5010,34 @@ zonsked.icu
 0.0.0.0 xn--covid19-antikrpertest-tec.labor-vidotto.at
 0.0.0.0 zipp.pro-appsuite.flo-caribbean-islands-covid-19.accaccess.com
 #-------------------------------------------
+# IBM Releases Report on Cyber Actors Targeting the COVID-19 Vaccine Supply Chain
+# Source: https://otx.alienvault.com/pulse/5fc8e31bd7ba3e8a84857c79
+
+# Domains
+e-mailer.cf
+e-mailer.ga
+mailerdeamon.cf
+mailerdeamon.ga
+mailerdeamon.gq
+mailerdeamon.ml
+mailerdeamon.tk
+nwa-oma2.ml
+nwa-oma.ml
+routermanager.ga
+routermanager.gq
+routermanager.ml
+routermanager.tk
+routermanagers.cf
+routermanagers.ga
+routermanagers.gq
+routermanagers.ml
+routermanagers.tk
+serverrouter.cf
+serverrouter.ga
+serverrouter.tk
+serversrouter.cf
+serversrouter.gq
+#-------------------------------------------
 # COVID-19 related attacks - 22nd June 2020
 # Source: https://otx.alienvault.com/pulse/5ef0d2c9f470d7054560fe1b
 # Domains
@@ -5113,4 +5141,3 @@ vodkahater.xyz
 withoutemblems.top
 yahzdaje2.website
 zajjizev.club
-#-------------------------------------------
