@@ -1,17 +1,36 @@
-# TA505 IOCs
+# TA505 IOCs - Domains & Hosts
 # @TA505, a well-established organised cybercrime group on the threat landscape, has continued its ongoing attack campaign into September. 
 # Malware used in this campaign includes SDBbot, Get2 Downloader, and GraceWire RAT. TA505 is also reportedly the operator of Clop ransomware.
 #
 # Source: https://otx.alienvault.com/user/343GuiltySpark/pulses - https://otx.alienvault.com/browse/global?section=All&q=TA505&include_inactive=0&sort=-modified&page=1&indicatorsSearch=modified:%22%22%20TA505
 # 
-# UPDATED: 31-10-2020
+# UPDATED: 15-12-2020
 #
-# Every link reported should be considered harmefull and could result in an unwanted malware download.
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
 #
 # *****The list is released without any warranty to the end users.*****
 #
 # *** This list contains domains and hosts ***
 # ********************************************************************************************************************************************************************
+#-------------------------------------------------------------------------
+# TA505 Indicators, by 343GuiltySpark
+# Source: https://otx.alienvault.com/pulse/5fd34e1fdc506573dc86d0ce
+
+# Domains
+bak0-store.com
+microsoft-debug-098.com
+ms-downloading.com
+res-backup.com
+xbox-ms-store-debug.com
 #-------------------------------------------------------------------------
 # Ransomware IoCs targeting health sector by Microsoft (TA505)
 # Malware Family: TrickBot - S0266 
@@ -2024,3 +2043,4 @@ officemysuppbox.com
 rgoianrdfa.pw
 sghee.pw
 vesecase.com
+#-------------------------------------------------------------------------
