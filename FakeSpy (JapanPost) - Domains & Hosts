@@ -1,0 +1,873 @@
+# FakeSpy / [XiGhost]Roamingmantis, Sagawa, MoqHao (JapanPost)
+# Targeted Countries: Singapore, Norway, Belgium, Sweden, Chile, Switzerland, Japan, Hong Kong, France
+# Source: https://otx.alienvault.com/user/papa_anniekey/pulses
+#
+# INFO: https://www.fortinet.com/blog/threat-research/fakespy-comes-back--new-wave-hits-japan
+# INFO: https://threatpost.com/fakespy-android-malware-spread-via-postal-service-apps/157102/
+#
+# UPDATED 17-12-2020
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+#--------------------------------------------------------
+# 
+# Source: 
+
+# Domains
+
+#--------------------------------------------------------
+# 
+# Source: 
+
+# Domains
+
+#--------------------------------------------------------
+# [FakeSpy] JapanPost Phishing Campaign 20/May/2019
+# Source: https://otx.alienvault.com/pulse/5ce2c6b7cdf1e489e26a24bb
+
+# Domains
+jppost-ho.com
+jppost-ni.com
+jppost-nu.com
+jppost-ri.com
+jppost-ru.com
+
+# Hosts
+0.0.0.0	67.229.165.163.static.krypt.com
+#--------------------------------------------------------
+# [FakeSpy]JapanPost Phishing Campaign 17/May/2019
+# Source: https://otx.alienvault.com/pulse/5cde4b242f92597689172107
+
+# Domains
+jppost-ba.com
+#--------------------------------------------------------
+# [FakeSpy] JapanPost 16/May/2019
+# Source: https://otx.alienvault.com/pulse/5cdcd441c22f20f92e4960e0
+
+# Domains
+jppost-ro.com
+jppost-wo.com
+
+# Hosts
+0.0.0.0	174.139.49.109.customer.vpls.net
+#--------------------------------------------------------
+# [FakeSpy] JapanPost/Nittsu/Sagawa Phishing Campaign
+# Source: https://otx.alienvault.com/pulse/5cdc15c6db61c5cf1f9287f7
+
+# Domains
+jppost-ha.com
+jppost-mo.com
+jppost-te.com
+nittsu-ko.com
+
+# Hosts
+0.0.0.0	174.139.49.110.customer.vpls.net
+#--------------------------------------------------------
+# [FakeSpy]JPPOST Sagawa Phishing Campaign 15/May/2019
+# Source: https://otx.alienvault.com/pulse/5cda50b273027063dbc543d4
+
+# Domains
+jppost-ni.com
+
+# Hosts
+0.0.0.0	67.229.165.165.static.krypt.com
+#--------------------------------------------------------
+# [FakeSpy] JapanPost/docomo(NTT) Phishing Campaign 14/May/2019
+# Source: https://otx.alienvault.com/pulse/5cda126c987f7be09c1c3177
+
+# Domains
+jppost-fu.com
+nttdocomo-ki.com
+
+# Hosts
+0.0.0.0	67.229.165.164.static.krypt.com
+#--------------------------------------------------------
+# [FakeSpy] JapanPost 12/May/2019
+# Source: https://otx.alienvault.com/pulse/5cd844734febb661d653ec70
+
+# Domains
+jppost-ane.com
+jppost-sa.com
+jppost-su.com
+
+# Hosts
+0.0.0.0	174.139.49.110.customer.vpls.net
+0.0.0.0	prints.keybehaviors.net
+#--------------------------------------------------------
+# [FakeSpy] JapanPost 11/Ma/2019
+# Source: https://otx.alienvault.com/pulse/5cd844b69c1eae52dda2e5b1
+
+# Domains
+jppost-ahu.com
+jppost-ano.com
+yamato-tu.com
+
+# Hosts
+0.0.0.0	174.139.49.109.customer.vpls.net
+#--------------------------------------------------------
+# [FakeSpy] JapanPost Phishing Campaign 10/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5cd5404736c33cd9ad12d295
+
+# Domains
+jppost-ahe.com
+jppost-aso.com
+yamato-mo.com
+
+# Hosts
+0.0.0.0	174.139.49.108.customer.vpls.net
+#--------------------------------------------------------
+# [FakeSpy] JapanPost Phishing Campaign 9/May/2019
+# Source: https://otx.alienvault.com/pulse/5cd3ae355412678299d37cc7
+
+# Domains
+jppost-aka.com
+jppost-aki.com
+jppost-ase.com
+jppost-asi.com
+jppost-bi.com
+jppost-gi.com
+jppost-ji.com
+jppost-pi.com
+jppost-po.com
+misenar.com
+#--------------------------------------------------------
+# [FakeSpy] JapanPost Phishing Campaign 8/May/2019
+# Source: https://otx.alienvault.com/pulse/5cd243a9d944c345e3032ea7
+
+# Domains
+jppost-he.com
+jppost-me.com
+jppost-mu.com
+jppost-wa.com
+jppost-wo.com
+jppost-ya.com
+#--------------------------------------------------------
+# [FakeSpy] JapanPost Phishing Campaign 7/May/2019
+# Source: https://otx.alienvault.com/pulse/5cd0fbb510c07322fbdcced4
+
+# Domains
+jppost-ate.com
+jppost-ato.com
+jppost-fu.com
+jppost-ka.com
+jppost-ni.com
+jppost-no.com
+jppost-nu.com
+jppost-sa.com
+jppost-si.com
+jppost-su.com
+jppost-ta.com
+jppost-tu.com
+#--------------------------------------------------------
+# [FakeSpy]JapanPost Phishing Campaign 6/Mar/2018
+# Source: https://otx.alienvault.com/pulse/5cd0dd4b9d6be3e4f0ffe535
+
+# Domains
+jppost-aho.com
+jppost-ahu.com
+jppost-ani.com
+jppost-asi.com
+jppost-aso.com
+jppost-atu.com
+jppost-ba.com
+jppost-pu.com
+jppost-ri.com
+jppost-zo.com
+jppost-zu.com
+#--------------------------------------------------------
+# [FakeSpy] JapanPost Phishing campaign 5/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5cd0dda4cf06e0ed22ba9206
+
+# Domains
+jppost-ge.com
+jppost-gu.com
+jppost-he.com
+jppost-hu.com
+jppost-me.com
+jppost-ta.com
+jppost-tu.com
+jppost-wa.com
+jppost-wo.com
+jppost-ya.com
+#--------------------------------------------------------
+# [FakeSpy] JapanPost Phishing Campaign 4/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5cd0ddec445c7bd9c88f6855
+
+# Domains
+jppost-aho.com
+jppost-ahu.com
+jppost-ato.com
+jppost-fu.com
+jppost-nu.com
+jppost-sa.com
+jppost-su.com
+jppost-yu.com
+
+#--------------------------------------------------------
+# [FakeSpy] JapanPost Phishing Campaign 3/May/2019
+# Source: https://otx.alienvault.com/pulse/5cd0e01a2d202379ae957baf
+
+# Domains
+jppost-aki.com
+jppost-asi.com
+jppost-aso.com
+jppost-bi.com
+jppost-ji.com
+jppost-za.com
+
+# Hosts
+0.0.0.0	qa.keybehaviors.net
+#--------------------------------------------------------
+# [FakeSpy]JapanPost 2/May/2019
+# Source: https://otx.alienvault.com/pulse/5ccaad17f2d2872e783fa4b3
+
+# Domains
+jppost-ba.com
+jppost-ga.com
+jppost-gi.com
+jppost-gu.com
+jppost-wa.com
+jppost-wo.com
+#--------------------------------------------------------
+# [FakeSpy] JapanPost 1/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5cca364df51cf21d2bec5fe4
+
+# Domains
+jppost-hi.com
+jppost-hu.com
+jppost-ri.com
+jppost-ya.com
+#--------------------------------------------------------
+# [FakeSpy] JapanPost 30/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cc840d495784022e3106f6b
+
+# Domains
+jppost-fu.com
+jppost-mu.com
+jppost-ni.com
+jppost-no.com
+jppost-nu.com
+jppost-ta.com
+#--------------------------------------------------------
+# [FakeSpy]JapanPost 29/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cc70d2b67cc55083f0255f7
+
+# Domains
+jppost-ho.com
+jppost-ke.com
+jppost-ku.com
+
+# Hosts
+0.0.0.0 174.139.49.107.customer.vpls.net
+#--------------------------------------------------------
+# [FakeSpy] JapanPost 26/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cc70d89e3739e26319ad693
+
+# Domains
+sagawa-ure.com
+sagawa-uri.com
+sagawa-uya.com
+sagawa-uze.com
+yamato-ra.com
+yamato-ro.com
+
+# Hosts
+0.0.0.0 174.139.49.108.customer.vpls.net
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 25/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cc14c4efc82906c7b6497a0
+
+# Domains
+yamato-wo.com
+yamato-yo.com
+#--------------------------------------------------------
+# [MoqHao]Sagawa 24/Apr.2019
+# Source: https://otx.alienvault.com/pulse/5cc124b2c026579c977beb18
+
+# Domains
+nmd-qe.top
+nmd-qr.top
+nmd-qu.top
+
+# Hosts
+0.0.0.0 tiloutulou8.tumblr.com
+#--------------------------------------------------------
+# [FakeSpy]JapanPost Phishing Campaign 24/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cc123768a50c512aa6497a0
+
+# Domains
+nmd-qe.top
+sagawa-eda.com
+sagawa-ede.com
+sagawa-edu.com
+sagawa-eru.com
+sagawa-usa.com
+yamato-ru.com
+
+# Hosts
+0.0.0.0	67.229.228.66.static.krypt.com
+0.0.0.0	174.139.49.107.customer.vpls.net
+#--------------------------------------------------------
+# [Fakespy/MoqHao]JapanPost Sagawa 22/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cbd46f87505122e80867afd
+
+# Domains
+maisa-qqi.com
+qa-xzz.space
+qwe-asi.top
+sagawa-ego.com
+sagawa-emo.com
+yamato-hi.com
+
+# Hosts
+0.0.0.0	sagawaraeg.tumblr.com
+#--------------------------------------------------------
+# [MoqHao]Sagawa 21/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cbc41207505122f03867afd
+
+# Domains
+azz-re.top
+azz-ru.top
+#--------------------------------------------------------
+# JapanPost 21/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cbc392af7dcc96a98110b4a
+
+# Domains
+sagawa-ezi.com
+yamato-he.com
+yamato-mi.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 20/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cbb217b4eff661d09a252f0
+
+# Domains
+qwe-aso.top
+sagawa-eni.com
+sagawa-enu.com
+sagawa-opi.com
+yamato-fu.com
+yamato-ho.com
+yamato-ma.com
+yamato-me.com
+
+# Hosts
+0.0.0.0	excellent.keybehaviors.net
+#--------------------------------------------------------
+# [FakeSpy] Sagawa 19/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cbb22afd0f87c2aef175a71
+
+# Domains
+mailsa-qsl.com
+nittsu-ki.com
+nittsu-se.com
+nittsu-si.com
+nittsu-so.com
+nittsu-su.com
+sagawa-eni.com
+sagawa-esi.com
+sagawa-ete.com
+
+# Hosts
+0.0.0.0 jewel.keybehaviors.net
+#--------------------------------------------------------
+# [Fakespy]Sagawa 18/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cb978b3e59a5935de1895d3
+
+# Domains
+nittsu-ke.com
+nittsu-ko.com
+nittsu-ku.com
+nittsu-sa.com
+sagawa-oga.com
+sagawa-opa.com
+sagawa-opo.com
+sagawa-oza.com
+
+# Hosts
+0.0.0.0 qa.keybehaviors.net
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 17/Apr
+# Source: https://otx.alienvault.com/pulse/5cb6c2f3354e304fed84aef7
+
+# Domains
+sagawa-oda.com
+sagawa-odo.com
+sagawa-oge.com
+sagawa-oze.com
+yamato-ne.com
+yamato-ni.com
+yamato-te.com
+yamato-tu.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 17/Apr
+# Source: https://otx.alienvault.com/pulse/5cb6c2f3354e304fed84aef7
+
+# Domains
+
+#--------------------------------------------------------
+# [FakeSpy/MoqHao] Sagawa 16/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cb545f9e1f8382fb4cc7dd5
+
+# Domains
+jppost-ahi.com
+jppost-ane.com
+maisa-qqe.com
+maisa-qwi.com
+maisa-qwo.com
+maisa-qwu.com
+sagawa-oha.com
+sagawa-owa.com
+yamato-ku.com
+yamato-ta.com
+yamato-ti.com
+
+# Hosts
+0.0.0.0 bibijiqqq.tumblr.com
+#--------------------------------------------------------
+# [MoqHao]C2 Server and Phishing site for DOCOMO and malicious anshinscan.apk(Fake SecurityAPP)　16/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cb4a52c4f62ba7f55339ee1
+
+# Domains
+fril-jp.shop
+qwe-aqt.top
+#--------------------------------------------------------
+# [FakeSpy/MoqHao]Sagawa 15/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cb44f56498cfc1c34bb2936
+
+# Domains
+mailsa-qeq.com
+mailsa-qew.com
+maisa-qqo.com
+maisa-qwe.com
+maisa-qwy.com
+sagawa-ohi.com
+sagawa-omu.com
+sagawa-ori.com
+sagawa-owo.com
+sagawa-oyu.com
+yamato-ka.com
+yamato-si.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 14/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cb3f4ee4f62ba20a7339ee1
+
+# Domains
+jppost-afu.com
+jppost-ahe.com
+jppost-aho.com
+jppost-ahu.com
+jppost-ana.com
+jppost-ano.com
+sagawa-oko.com
+sagawa-osu.com
+sagawa-oyo.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 13/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cb3f521f9c09d0cec7f0856
+
+# Domains
+jppost-ani.com
+jppost-anu.com
+jppost-asa.com
+jppost-ase.com
+jppost-asi.com
+jppost-aso.com
+jppost-asu.com
+jppost-ata.com
+jppost-ate.com
+jppost-ati.com
+jppost-ato.com
+sagawa-oka.com
+sagawa-ono.com
+sagawa-oso.com
+yamato-ke.com
+yamato-ki.com
+yamato-sa.com
+yamato-so.com
+yamato-su.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 12/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cb09b85bb8e3a26e9d4e619
+
+# Domains
+jppost-aka.com
+jppost-aki.com
+jppost-aku.com
+jppost-pa.com
+jppost-pi.com
+jppost-po.com
+sagawa-igi.com
+#--------------------------------------------------------
+# [FakeSpy|MoqHao]11/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5caeb658e5ac3f3f011fd6a6
+
+# Domains
+jppost-ba.com
+jppost-be.com
+jppost-bi.com
+jppost-bo.com
+jppost-bu.com
+jppost-pe.com
+jppost-pu.com
+jppost-za.com
+jppost-ze.com
+jppost-zo.com
+jppost-zu.com
+maisa-aqe.com
+maisa-aqq.com
+sagawa-ipi.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 10/April/2019
+# Source: https://otx.alienvault.com/pulse/5cad809a38262e18537d97cb
+
+# Domains
+jppost-ga.com
+jppost-gi.com
+jppost-go.com
+jppost-gu.com
+jppost-ji.com
+jppost-ri.com
+jppost-ro.com
+jppost-ru.com
+jppost-wa.com
+jppost-wo.com
+maisa-aqo.com
+maisa-aqp.com
+maisa-aqr.com
+maisa-aqt.com
+maisa-aqu.com
+maisa-aqy.com
+sagawa-ida.com
+sagawa-ini.com
+#--------------------------------------------------------
+# [MoqHao]C2 Server and Phishing site for DOCOMO and malicious anshinscan.apk(Fake SecurityAPP)
+# Source: https://otx.alienvault.com/pulse/5cac1777d98a4850fe00bd6e
+
+# Domains
+qwe-aqi.top
+
+# Hosts
+0.0.0.0	www.766379.com
+0.0.0.0	www.766392.com
+0.0.0.0	www.766512.com
+0.0.0.0	www.766519.com
+0.0.0.0	www.766523.com
+#--------------------------------------------------------
+# [FakeSpy/MoqHao]Sagawa 9/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cac0bebd898274dbb584a58
+
+# Domains
+jppost-ge.com
+jppost-ha.com
+jppost-he.com
+jppost-hi.com
+jppost-hu.com
+jppost-ma.com
+jppost-me.com
+jppost-mo.com
+jppost-ra.com
+jppost-re.com
+jppost-yo.com
+maisa-aqp.com
+maisa-aqw.com
+
+# Hosts
+0.0.0.0	67.229.172.67.static.krypt.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 8/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5cabef826d855c3c863b12d9
+
+# Domains
+a-sagawa.com
+jppost-fu.com
+jppost-ho.com
+jppost-mi.com
+jppost-mu.com
+jppost-na.com
+jppost-ni.com
+jppost-no.com
+jppost-nu.com
+jppost-ta.com
+jppost-to.com
+jppost-tu.com
+jppost-ya.com
+jppost-yu.com
+nttdocomo-ki.com
+softbank-c.com
+
+# Hosts
+0.0.0.0	67.229.228.70.static.krypt.com
+#--------------------------------------------------------
+# [Fakespy]Sagawa 7/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5caa0649c3738648160aa723
+
+# Domains
+jppost-na.com
+jppost-ne.com
+jppost-se.com
+jppost-te.com
+jppost-ti.com
+sagawa-ipu.com
+
+# Hosts
+0.0.0.0	67.229.228.69.static.krypt.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 6/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5ca855b6d898277ed3584a58
+
+# Domains
+ico-zaif.jp
+jppost-ke.com
+jppost-ko.com
+jppost-ku.com
+jppost-si.com
+jppost-su.com
+qwe-qwi.top
+sagawa-lele.cn
+t-softbank.com
+y-softbank.com
+
+# Hosts
+0.0.0.0	67.229.228.68.static.krypt.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 5/Apr/2019(But the domains are similar to JapanPost)
+# Source: https://otx.alienvault.com/pulse/5ca6d7f49bee264245088b72
+
+# Domains
+jppost-ka.com
+jppost-sa.com
+
+# Hosts
+0.0.0.0 67.229.228.67.static.krypt.com
+#--------------------------------------------------------
+# [FakeSpy/MoqHao]Sagawa 4/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5ca5b82776085160aa3f9059
+
+# Domains
+f-softbank.com
+l-softbank.com
+mailsa-qwm.com
+mailsa-qwn.com
+p-softbank.com
+sagawa-fgi.com
+sagawa-fme.com
+sagawa-fmu.com
+sagawa-hii.com
+sagawa-imi.com
+sagawa-kiu.com
+#--------------------------------------------------------
+# [FakeSpy/MoqHao]Sagawa 3/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5ca437cb55c08e23fdf68996
+
+# Domains
+mailsa-qwj.com
+mailsa-qwk.com
+sagawa-ffu.com
+sagawa-fho.com
+sagawa-fke.com
+sagawa-fna.com
+sagawa-fru.com
+sagawa-fto.com
+#--------------------------------------------------------
+# [MoqHao/FakeSpy]Sagawa 2/Apr/2019
+# Source: https://otx.alienvault.com/pulse/5ca2f8f9ccd52e4a7aa3bdd2
+
+# Domains
+mailsa-qwh.com
+sagawa-fhe.com
+sagawa-fnu.com
+sagawa-fro.com
+sagawa-fsa.com
+sagawa-fsi.com
+sagawa-fso.com
+sagawa-fwo.com
+sagawa-fyu.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 31/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5ca0435983bc517ca2db5d27
+
+# Domains
+sagawa-fga.com
+sagawa-fha.com
+sagawa-fka.com
+sagawa-fko.com
+sagawa-fku.com
+sagawa-fma.com
+sagawa-fmi.com
+sagawa-fni.com
+sagawa-fno.com
+sagawa-fra.com
+sagawa-fri.com
+sagawa-fse.com
+sagawa-fsu.com
+sagawa-fta.com
+sagawa-fti.com
+sagawa-ftu.com
+sagawa-fya.com
+sagawa-fyo.com
+sagawa-qqx.com
+sagawa-se.com
+sagawa-ss.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 29/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5c9deac2e5f057077e91d14e
+
+# Domains
+sagawa-aas.com
+sagawa-aga.com
+sagawa-age.com
+sagawa-agi.com
+sagawa-aki.com
+sagawa-ane.com
+sagawa-aro.com
+sagawa-aru.com
+sagawa-aw.com
+sagawa-awo.com
+sagawa-ay.com
+sagawa-aya.com
+sagawa-ayo.com
+sagawa-qey.com
+
+# Hosts
+0.0.0.0 semjen.climbthewaterfallsoffate.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 28/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5c9c850857b1714dc3b1277f
+
+# Domains
+sagawa-ba.com
+sagawa-gs.com
+sagawa-ko.com
+sagawa-me.com
+sagawa-nd.com
+sagawa-nk.com
+sagawa-ns.com
+sagawa-nz.com
+sagawa-oo.com
+sagawa-sa.com
+sagawa-si.com
+sagawa-vk.com
+sagawa-wa.com
+sagawa-za.com
+
+# Hosts
+0.0.0.0 thu.climbthewaterfallsoffate.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 27/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5c9b734cbe5a275c18ec0a6f
+
+# Domains
+sagawa-ddu.com
+sagawa-dgi.com
+sagawa-dhe.com
+sagawa-dji.com
+sagawa-dmo.com
+sagawa-dso.com
+sagawa-dto.com
+sagawa-dzu.com
+sagawa-gs.com
+sagawa-tu.com
+sagawa-vk.com
+
+# Hosts
+0.0.0.0 guli.climbthewaterfallsoffate.com
+#--------------------------------------------------------
+# [Fakespy]26/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5c99bdf451dcea4b7b0863db
+
+# Domains
+sagawa-dgu.com
+sagawa-dse.com
+sagawa-dwo.com
+sagawa-dza.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 24/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5c96e840037851180844a01a
+
+# Domains
+sagawa-bho.com
+sagawa-bnu.com
+sagawa-dbo.com
+sagawa-dsa.com
+#--------------------------------------------------------
+# [FakeSpy]Sagawa 23/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5c96d9455f71bb3e9302d843
+
+# Domains
+sagawa-bha.com
+sagawa-bmi.com
+sagawa-bri.com
+sagawa-bzo.com
+sagawa-hdu.com
+sagawa-hhu.com
+sagawa-hpo.com
+sagawa-hyu.com
+
+# Hosts
+0.0.0.0 static.krypt.com
+#--------------------------------------------------------
+# [FakeSpy/MaqHao]Sagawa 20/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5c9209cf29495903b0f8e914
+
+# Domains
+ico-zaif.jp
+mailsa-qwe.com
+mailsa-qws.com
+sagawa-bbi.com
+sagawa-bdo.com
+sagawa-bdu.com
+sagawa-bgo.com
+sagawa-bpe.com
+sagawa-bro.com
+sagawa-bto.com
+sagawa-bwo.com
+sagawa-bzu.com
+sagawa-dku.com
+sagawa-hbu.com
+sagawa-hge.com
+sagawa-hgu.com
+sagawa-hri.com
+sagawa-hwa.com
+sagawa-mqa.com
+sagawa-mqr.com
+
+# Hosts
+0.0.0.0	apple-icloud.qaw-japan.com
+0.0.0.0	guli.climbthewaterfallsoffate.com
+#--------------------------------------------------------
+# [Fakespy/MaqHao]Sagawa 19/Mar/2019
+# Source: https://otx.alienvault.com/pulse/5c905cd2d3e41a44888f2e4f
+
+# Domains
+kuronekoyamat.com
+mailsa-qwr.com
+sagawa-bdi.com
+sagawa-bsu.com
+sagawa-bte.com
+sagawa-bwa.com
+sagawa-byo.com
+sagawa-bzi.com
+sagawa-dka.com
+sagawa-hba.com
+sagawa-hbe.com
+sagawa-hbo.com
+sagawa-hdo.com
+sagawa-hre.com
+
+# Hosts
+0.0.0.0	67.229.172.66.static.krypt.com
+0.0.0.0	apple-icloud.qaw-japan.com
+0.0.0.0	trubus.climbthewaterfallsoffate.com
