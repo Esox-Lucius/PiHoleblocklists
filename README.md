@@ -147,6 +147,10 @@ Besides, the reason why hackers and such are having golden days is because most 
 
 **Read this**:
 
+- https://www.vice.com/en/article/7xy5ky/the-american-military-sucks-at-cybersecurity
+
+- https://newrepublic.com/article/154167/government-nsa-inept-protecting-cyber-data-whatsapp
+
 - https://www.forbes.com/sites/kalevleetaru/2019/03/23/facebook-succeeded-in-killing-cybersecurity-like-it-did-privacy/
 
 - https://www.forbes.com/sites/ktorpey/2019/02/28/if-you-dont-care-about-online-privacy-you-should-read-this/
