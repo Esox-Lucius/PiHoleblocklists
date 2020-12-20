@@ -4,7 +4,7 @@
 #
 # Source: https://otx.alienvault.com/user/343GuiltySpark/pulses - https://otx.alienvault.com/browse/global?section=All&q=TA505&include_inactive=0&sort=-modified&page=1&indicatorsSearch=modified:%22%22%20TA505
 # 
-# UPDATED: 17-12-2020
+# UPDATED: 20-12-2020
 #
 # Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
 #
@@ -21,6 +21,12 @@
 #
 # *** This list contains domains and hosts ***
 # ********************************************************************************************************************************************************************
+#-------------------------------------------------------------------------
+# Additional TA505 IOCs - 18-12-20
+# Source: https://otx.alienvault.com/pulse/5fdc9f40c643ac9b366100f1
+
+# Domains
+ms-pipes-service.com		
 #-------------------------------------------------------------------------
 # Additional TA505 IOCs - 15.12.2020
 # Source: https://otx.alienvault.com/pulse/5fd8ac71882754d8bf393ea9
@@ -2056,3 +2062,4 @@ officemysuppbox.com
 rgoianrdfa.pw
 sghee.pw
 vesecase.com
+#-------------------------------------------------------------------------
