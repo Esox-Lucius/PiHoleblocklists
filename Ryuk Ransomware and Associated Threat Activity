@@ -11,6 +11,103 @@
 # *** This list contains domains and hosts ***
 # *******************************************************************************************************************************************************************
 #------------------------------------------------------
+# Unitronics-Ransomware RYUK
+# Source: https://otx.alienvault.com/pulse/5fb4dfec0d52517e26658305
+
+# Domains
+ayiyas.com
+backup-leader.com
+backup-simple.com
+bakcup-checker.com
+bakcup-monster.com
+best-backup.com
+best-nas.com
+bithunterr.com
+boost-servicess.com
+boost-yourservice.com
+bouths.com
+bugsbunnyy.com
+cantliee.com
+chainnss.com
+chalengges.com
+cheapshhot.com
+chekingking.com
+dotmaingame.com
+driver1master.com
+elephantdrrive.com
+errvghu.com
+fastbloodhunter.com
+gameleaderr.com
+getinformationss.com
+gtrsqer.com
+gungameon.com
+gunsdrag.com
+hakunaman.com
+harddagger.com
+havemosts.com
+hungrrybaby.com
+hybriqdjs.com
+imagodd.com
+jonsonsbabyy.com
+lindasak.com
+loockfinderrs.com
+loxliver.com
+luckyhunterrs.com
+martahzz.com
+maybebaybe.com
+mixunderax.com
+mountasd.com
+nas-leader.com
+nasmastrservice.com
+nomadfunclub.com
+puckhunterrr.com
+pudgeee.com
+qascker.com
+quwasd.com
+raaidboss.com
+raidbossa.com
+rapirasa.com
+razorses.com
+realgamess.com
+regbed.com
+reginds.com
+remotessa.com
+saynoforbubble.com
+secondlivve.com
+service-boosterr.com
+service-checker.com
+service-hellper.com
+service-leader.com
+serviceboosterr.com
+servicegungster.com
+servicemount.com
+servicesupdater.com
+serviceupdatter.com
+sibalsakie.com
+sobcase.com
+sunofgodd.com
+sweetmonsterr.com
+tarhungangster.com
+tiancaii.com
+top-backuphelper.com
+topbackup-helper.com
+topbackupintheworld.com
+unlockwsa.com
+vnuret.com
+voiddas.com
+wodemayaa.com
+wondergodst.com
+zetrexx.com
+zhameharden.com
+
+# Hosts
+0.0.0.0	c.athleticspatron.com
+0.0.0.0	internetzoo.dk.rhugi.xyz
+0.0.0.0	pay.epg-services.com
+0.0.0.0	rhugi.xyz.c.trofeominero.es
+0.0.0.0	www.d5typ39.club
+0.0.0.0	www.internetzoo.dk
+#------------------------------------------------------
 # Ryuk/CobaltStrike IOCs
 # Source: https://otx.alienvault.com/pulse/5fc905e92bd662392c4cc5a7
 
