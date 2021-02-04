@@ -2,9 +2,18 @@
 # https://www.proofpoint.com/us/blog/threat-insight/ta2552-uses-oauth-access-token-phishing-exploit-read-only-risks
 # Source: https://otx.alienvault.com/user/343GuiltySpark/pulses
 #
-# UPDATED 09-10-2020
+# UPDATED: 04-02-2021
 #
-# Every link reported should be considered harmefull and could result in an unwanted malware download.
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
 #
 # *****The list is released without any warranty to the end users.*****
 #
