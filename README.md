@@ -16,7 +16,7 @@
 
 - I do not work for, have anything to do with, nor am I affiliated with **otx.alienvault.com** OR **Pi-Hole®** in any way. I only use their service & software.
 
-- I do think that a DNS sinkhole, like Pi-Hole® adds an great layer of extra security, that is usefull if updated and maintained.
+- I do think that a DNS sinkhole, like Pi-Hole® adds a great layer of extra security, that is usefull if updated and maintained.
 
 /Cheers!
 
