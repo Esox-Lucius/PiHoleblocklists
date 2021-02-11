@@ -16,6 +16,8 @@
 
 - I do not work for, have anything to do with, nor am I affiliated with **otx.alienvault.com** OR **Pi-Hole®** in any way. I only use their service & software.
 
+- I do think that a DNS sinkhole, like Pi-Hole® adds an great extra layer of security, that is usefull if updated and maintained.
+
 /Cheers!
 
 
@@ -146,10 +148,6 @@ My little project is not to help you setup, configure, or troubleshoot your Pi-H
 Besides, the reason why hackers and such are having golden days is because most people don't care or simply don't know about cybersecurity. Don't believe this statement? 
 
 **Read this**:
-
-- https://www.vice.com/en/article/7xy5ky/the-american-military-sucks-at-cybersecurity
-
-- https://newrepublic.com/article/154167/government-nsa-inept-protecting-cyber-data-whatsapp
 
 - https://www.forbes.com/sites/kalevleetaru/2019/03/23/facebook-succeeded-in-killing-cybersecurity-like-it-did-privacy/
 
