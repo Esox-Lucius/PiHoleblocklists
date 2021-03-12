@@ -1,4 +1,4 @@
-# Due to a busy life, I've currently put this little project on semi-hold. Meaning that updates will be much less frequent than intended for while. Please fell free to use lists and add, mod, and update them on your own.
+# Due to a busy life, I've currently put this little project on semi-hold. Meaning that updates will be much less frequent than intended for a while. Please fell free to use lists and add, mod, and update them on your own.
 
 # PiHoleblocklists
 
