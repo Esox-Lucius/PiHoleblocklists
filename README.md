@@ -1,3 +1,5 @@
+# Due to busy life, I'm currently have put this little project on semi-hold. Meaning that updates will be much less than intended for while. Please fell free to use lists and add, mod, and update them on your own.
+
 # PiHoleblocklists
 
 - I really like Cybersecurity, because you're always one step behind.
