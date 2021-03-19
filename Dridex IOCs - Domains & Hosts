@@ -3,7 +3,7 @@
 # affected machine, which is crucial information for further exploring the affected system. The main goal of this Trojan is usually to steal banking credentials.
 # Source: https://otx.alienvault.com
 #
-# UPDATED: 30-01-2021
+# UPDATED: 19-03-2021
 #
 # Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
 #
@@ -20,7 +20,88 @@
 #
 # *** This list contains domains and hosts ***
 # *******************************************************************************************************************************************************************
-# Dridex now dropped by SmokeLoader
+#--------------------------------------------------------
+# Additional Dridex IOCs - 17 Feb 2021
+# Source: https://otx.alienvault.com/pulse/602d4c1593d91b2941f84d23
+
+# Domains
+adcashtds2.xyz
+adcashtdssystem.site
+anklexit.online
+ankltrafficexit.xyz
+blackexit.xyz
+ccgmaining.life
+ccgmaining.live
+ccgmaining.work
+clickadusweep.vip
+clickadutds.xyz
+clicktds2.xyz
+cryptomoneyinsider.biz
+cryptomoneyinsider.link
+cryptomoneyinsider.work
+cryptomoneyinsiders.com
+cryptomoneyinsiders.site
+cryptomoneyinsiders.work
+cryptomoneytds.xyz
+cryptosuitetds.com
+cryptotraffic.vip
+cryptotraffictds.online
+cryptozerotds.xyz
+extradeliverytraffic.com
+hilltopmagic.xyz
+hilltoptds.xyz
+keitarotrafficdelivery.com
+keitarotrafficdelivery.xyz
+lahsahal.site
+makemoneynowwith.me
+makemoneywith.us
+makemoneywithus.work
+money365.xyz
+myallexit.xyz
+newzamenaadc.xyz
+newzamenaclick.xyz
+newzamenaself.xyz
+newzamenazero.xyz
+propellermagic.xyz
+selftraffictds.xyz
+trafficdeliveryclick.xyz
+traffictrackerself.xyz
+usehouse.xyz
+usemoney.life
+usemoney.xyz
+yousweeps.vip
+zamenaad.xyz
+zamenaclick.xyz
+zamenahil.xyz
+zamenazer.xyz
+zamenazerzamenahilzamenaadzamenaclick.xyz
+zapasnoiadc.xyz
+zapasnoiclick.xyz
+zapasnoiself.xyz
+zapasnoizero.xyz
+zeroexit.xyz
+zeroparktraffic.xyz
+zerotdspark.space
+zerotracker.shop
+
+# Hosts
+0.0.0.0	301645-ct59666.tmweb.ru
+0.0.0.0	ads.hourscareer.com
+0.0.0.0	l18fd7c4.justinstalledpanel.com
+0.0.0.0	mail.s6.academy37.ru
+0.0.0.0	makemoneywith.usselfadtracker1.online
+0.0.0.0	offers.myjobsy.com
+0.0.0.0	partners.usemoney.xyz
+0.0.0.0	s6.academy37.ru
+0.0.0.0	sberbank.hourscareer.com
+0.0.0.0	sberjob.hourscareer.com
+0.0.0.0	surprise.yousweeps.vip
+0.0.0.0	tracker.usemoney.xyz
+0.0.0.0	traffic.selfadtracker1.online
+0.0.0.0	traffic.usemoney.xyz
+0.0.0.0	www.usemoney.life
+#--------------------------------------------------------
+# Dridex now dropped, by SmokeLoader
 # Source: https://otx.alienvault.com/pulse/5fbe65cbe7c5df50499021e9
 
 # Domains
