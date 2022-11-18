@@ -3,7 +3,7 @@
 # Source: https://otx.alienvault.com
 # INFO: https://www.darkreading.com/threat-intelligence/bahamut-threat-group-targets-government-and-industry-in-middle-east/d/d-id/1339114
 #
-# UPDATED: 18-11-2020
+# UPDATED: 18-11-2022
 #
 # Every link reported should be considered harmefull and could result in an unwanted malware download.
 #
@@ -11,6 +11,73 @@
 #
 # *** This list contains domains and hosts ***
 # *******************************************************************************************************************************************************************
+#--------------------------------------
+# Bahamut, Pursuing a Cyber Espionage Actor in the Middle East - bellingcat
+# https://otx.alienvault.com/pulse/637230d60815270204d1ecc7
+
+# Domains
+16linesquran.info
+acc-dot.com
+alfajrtaqni.ws
+authprofile.info
+authuser.info
+cert-icloud.com
+com-settings-ppsecure.com
+dicloud-auth.com
+ernail-ver.com
+golge.cc
+infocheckup.com
+khuaitranslator.com
+mail-sllogin.com
+mainlogin.co
+manage-mysettings.com
+managemysettings.com
+my-auth.info
+my-validation.info
+myinfosettings.com
+myprofileprivacy.com
+myprofileview.info
+myvalidation.info
+ping2port.info
+profilesupport.info
+rnail.info
+ropelastic.com
+session-icloud.com
+session-id.com
+timesofarab.com
+update-mailservice.com
+ver-icloud.com
+web2chost.com
+
+# Hosts
+0.0.0.0	andy.mingle.mail.ru	
+0.0.0.0	dpasdas.000webhostapp.com	
+0.0.0.0	info.auth.services	
+0.0.0.0	m.cutov.mail.ru	
+0.0.0.0	mailgooqlecominboxasm9003nmjknsidnpopjdasdkopm.000webhostapp.com	
+0.0.0.0	ns1.16linesquran.info	
+0.0.0.0	ns1.alfajrtaqni.org	
+0.0.0.0	ns1.khuaitranslator.com	
+0.0.0.0	ns1.timesofarab.com	
+0.0.0.0	randall.kaine.mail.ru	
+0.0.0.0	res.cloudinary.com	
+0.0.0.0	rqeuset.hanguot.g-puls.viwe.accnnout-loookout.auditi.devisionial-checlkout.inistructiion-mutuael.halftoine.appliacctiorn-gurad-way.leigacy-fs.termp-forn.provider-saefe.alvie-valuse.token-centeir.recollect.label.ping2port.info	
+0.0.0.0	validateuserid.servicelogon.authsupport.owa.frontend.continue.reason.redirect.file-manager.version-9.10.112.view-settings.vmpgu1qxrxlwbk5qum14vlltnunvrlpzvwxkvwbxm1.access-https.myprofileprivacy.com	
+0.0.0.0	wendy.walker.bk.ru	
+0.0.0.0	www.16linesquran.info	
+0.0.0.0	www.accessdenied.com	
+0.0.0.0	www.khuaitranslator.com	
+#--------------------------------------
+# Bahamut Android Malware returns with New Spying Capabilities
+# Source: https://otx.alienvault.com/pulse/62bdd604d2128addf5ead144
+
+# Domains
+gkcx6ye4t4zafw8ju2xdr5na5.de
+5iw68rugwfcir37uj8z3r6rfaxwd8g8cdcfcqw62.de
+
+# Hosts
+0.0.0.0 www.securechatnow.com
+0.0.0.0 www.iminglechat.de
 #--------------------------------------
 # BAHAMUT (THE BLACKBERRY RESEARCH & INTELLIGENCE TEAM)
 # Source: https://otx.alienvault.com/pulse/5fae9363114666838175b7f7
@@ -225,30 +292,50 @@ windows-update-sdfw.com
 0.0.0.0	zxzxzxzxzx.duckdns.org
 #--------------------------------------
 # Bahamut: Hack-for-Hire Masters of Phishing, Fake News, and Fake Apps
-# Source: https://otx.alienvault.com/pulse/5f7dd394005536c84adbaf56
+# Source: https://otx.alienvault.com/pulse/5f7dd394005536c84adbaf56 & https://otx.alienvault.com/pulse/62e306db4810e681988ac114
 
 # Domains
 account-googie.com
 accountvalidate.com
+addressnmail.com
 airfitgym.com
+alqalamwebs.com
 ambicluster.com
+assurecom.info
+authentication-as-a-service.com
 bulletinalerts.com
+bulletinnews.com
 by4mode.com
+cabinet.gov.pk
+callrecorder-pro.com
+cdn-icloud.co
+celebsnightmares.com
 citrusquad.com
 classmunch.com
 cloud-authorize.com
 cocahut.com
+cocoka.info
+crawloofle.com
 cyroonline.com
 devicesupport-rnicrosoft.com
+diprpunjab.gov.in
 domforworld.com
 electrobric.com
+everification-session-load.com
 flux2key.com
 freepunjab2020.info
 frexinq.com
 gateway-yahoo.com
+ghelp.co
+grabify.link
+healthclubfun.com
 hypforever.com
 i3mode.com
+imging.site
+inlineirnage.com
+jamaat-ul-islam.com
 justsikhthings.com
+khalistanlehar.com
 leastinfo.com
 lizacorner.com
 lobertica.info
@@ -259,35 +346,60 @@ mail-incc.com
 mail-king.com
 mail-validation.info
 mailinfo-bh.com
+maptonote.com
 me-yahoo.com
 medieczema.com
+mhegogl.com
 middleeastleaks.com
 mideastleaks.com
 mindcraftstore.com
+msft.me
 musicbandfiles.com
 myaccount-googie.com
+myappie.co
 myappie.com
+myflatnet.com
+myfoodzone.net
+myggl.io
+nonsurfvpn.com
+o-auth.net
+onlinetokenid.com
 opticscold.com
 opticzstore.com
 optusiy.com
 out-look-mail-bh.com
+outlookamusements.com
 oyesterclub.info
 passwordsaverr.com
+pivni.info
+pobox.sk
 poiusavid.com
 portal549.com
+posta.ro
+primemusicplayer.co
 privacylog.info
+procompass.org
 prontexim.com
+redopro.com
 regditogo.com
 rhc-jo.com
 risalaencryptor.com
+rnicrosoft.com
 scan8t.com
 secure-useraccount.com
 service-authorization.com
+session-load.com
 setting-secure.com
 shiaar-e-islam.com
 signtabo.com
+sikhforjustice.org
+sikhsforjustice.org
+similerwork.net
+source4z.com
+string2me.com
 sync-tokens.com
 tansyroof.com
+techsprouts.com
 techwach.com
 thegogl.com
 tierradom.com
@@ -297,8 +409,14 @@ trailhinder.com
 traxbin.com
 treemanic.com
 trioganic.com
+ulrscan.io
+unjab.gov.in
 user-privacy.com
+validation.com
 weddnest.com
+yes2khalistan.org
+yes2khalistanis.com
+zerodium.com
 zhqdgk.com
 
 # Hosts
